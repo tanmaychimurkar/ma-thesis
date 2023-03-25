@@ -1,0 +1,806 @@
+jobadterm	uri_classlabels	mean
+** BWL-Studium **	BWL_isced-f/0311_Wirtschaft	1.0
+** BWL-Studium **	Bachelor of Business Administration_isced-f/0413_Management und Verwaltung	0.5
+** BWL-Studium **	Bachelor of Computer Science in Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	0.0
+** BWL-Studium **	Bachelor of Laws LL.B_isced-f/0421_Recht	0.0
+** BWL-Studium **	Bachelor of Laws_isced-f/0421_Recht	0.0
+** BWL-Studium **	Bachelor of Public Administration_isced-f/0413_Management und Verwaltung	0.0
+** BWL-Studium **	Betriebsinformatik_isced-f/0413_Management und Verwaltung	0.25
+** BWL-Studium **	Betriebswirt_isced-f/0413_Management und Verwaltung	1.0
+** BWL-Studium **	Betriebswirtschaft_isced-f/0413_Management und Verwaltung	1.0
+** BWL-Studium **	Betriebswirtschafter_isced-f/0413_Management und Verwaltung	1.0
+** BWL-Studium **	Betriebswissenschafter_isced-f/0413_Management und Verwaltung	1.0
+** BWL-Studium **	Betriebsökonom, Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.75
+** BWL-Studium **	Betriebsökonom_isced-f/0413_Management und Verwaltung	1.0
+** BWL-Studium **	Betriebsökonomie_isced-f/0413_Management und Verwaltung	1.0
+** BWL-Studium **	Data-Warehouse_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+** BWL-Studium **	Master of Business Administration_isced-f/0413_Management und Verwaltung	0.5
+** BWL-Studium **	Soziologie und Kulturstudien_isced-f/0314_Sozialwissenschaft	0.0
+** BWL-Studium **	Soziologie_isced-f/0314_Sozialwissenschaft	0.0
+** BWL-Studium **	VWL_isced-f/0311_Wirtschaft	0.25
+** BWL-Studium **	Wirtschaft, Verwaltung und Rechtswissenschaft_isced-f/0499_Berufliche Fähigkeiten	0.25
+** BWL-Studium **	Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.0
+** BWL-Studium **	Wirtschaftsmathematiker_isced-f/0541_Mathematik	0.0
+** BWL-Studium **	Wirtschaftswissenschaft_isced-f/0311_Wirtschaft	0.75
+** BWL-Studium **	Wirtschaftswissenschaften, übrige_isced-f/0413_Management und Verwaltung	0.5
+** BWL-Studium **	Wirtschaftswissenschaften_isced-f/0413_Management und Verwaltung	0.75
+** BWL-Studium **	Wirtschaftswissenschaftler_isced-f/0311_Wirtschaft	0.75
+** BWL-Studium **	betriebswirtschaftliche Grundsätze_isced-f/0413_Management und Verwaltung	0.5
+** BWL-Studium **	kaufmännisches Fachwissen_isced-f/0413_Management und Verwaltung	0.25
+** BWL-Studium **	wirtschaftswissenschaftliche Grundlagen vermitteln_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.0
+** Bauingenieurwesen **	Architektur und Bauwesen_isced-f/0730_	0.5
+** Bauingenieurwesen **	Architektur und Bauwesen_isced-f/073_	0.5
+** Bauingenieurwesen **	Architektur, Bau- und Planungswesen_isced-f/0731_Architektur und Städteplanung	0.5
+** Bauingenieurwesen **	Bau unter Luftabschluss_isced-f/0732_Bau und Bauingenieure	0.0
+** Bauingenieurwesen **	Bau- und Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	1.0
+** Bauingenieurwesen **	Bau_skill/S7.0.0_	0.5
+** Bauingenieurwesen **	Bauamtsarbeiter_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauarbeiter_isced-f/0732_Bau und Bauingenieure	0.0
+** Bauingenieurwesen **	Baubiologe/Bauökologe_isced-f/0732_Bau und Bauingenieure	0.0
+** Bauingenieurwesen **	Baubiologe_isced-f/0732_Bau und Bauingenieure	0.0
+** Bauingenieurwesen **	Baubranche_isced-f/0732_Bau und Bauingenieure	0.5
+** Bauingenieurwesen **	Bauelementeingenieur_isced-f/0732_Bau und Bauingenieure	0.5
+** Bauingenieurwesen **	Bauexperte_isced-f/0732_Bau und Bauingenieure	0.5
+** Bauingenieurwesen **	Bauingenieur HTL_isced-f/0732_Bau und Bauingenieure	0.75
+** Bauingenieurwesen **	Bauingenieur_isced-f/0732_Bau und Bauingenieure	1.0
+** Bauingenieurwesen **	Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	1.0
+** Bauingenieurwesen **	Baukonstrukteur_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauleiter, Tiefbau_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauleiter_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauplaner_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Baupraktiker/in_isced-f/0732_Bau und Bauingenieure	0.0
+** Bauingenieurwesen **	Bauprodukte_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauprojektleiter_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauprojektmitarbeiter_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Bauvorschriften_isced-f/0732_Bau und Bauingenieure	0.5
+** Bauingenieurwesen **	Bauweisen_isced-f/0732_Bau und Bauingenieure	0.25
+** Bauingenieurwesen **	Gebäudetechnik_isced-f/0732_Bau und Bauingenieure	0.0
+** Bauingenieurwesen **	Ingenieur, Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	1.0
+** Bauingenieurwesen **	Ingenieurwesen, Fertigung und Bauwesen_isced-f/07_	0.5
+** Bauingenieurwesen **	technische Pläne_isced-f/0732_Bau und Bauingenieure	0.0
+** Biologielaborant/in **	Biologe_isced-f/0511_Biologie	0.5
+** Biologielaborant/in **	Biologie-Cheflaborant_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologie_isced-f/0511_	0.5
+** Biologielaborant/in **	Biologieassistent_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologieingenieur_isced-f/0512_Biochemie	0.5
+** Biologielaborant/in **	Biologielaborant, Agrobiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologielaborant, Pharmabiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologielaborant/in - Agrobiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologielaborant/in - Pharmabiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologielaborant/in_isced-f/0711_Chemietechnik und ‑verfahren	1.0
+** Biologielaborant/in **	Biologielaborant_isced-f/0711_Chemietechnik und ‑verfahren	1.0
+** Biologielaborant/in **	Biologielaborleiter_isced-f/0711_Chemietechnik und ‑verfahren	0.5
+** Biologielaborant/in **	Biologielehrerassistent_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Biologielaborant/in **	Biologietechniker_isced-f/0511_Biologie	0.75
+** Biologielaborant/in **	Laborant/in - Biologie_isced-f/0711_Chemietechnik und ‑verfahren	1.0
+** Disponent **	Disponent Notrufzentrale_isced-f/0914_Medizintechnik und Diagnostik	0.5
+** Disponent **	Disponent Schifffahrt_isced-f/1041_Verkehr	0.5
+** Disponent **	Disponent Transport und Logistik_isced-f/1041_Verkehr	0.75
+** Disponent **	Disponent der Zugleitung_isced-f/1041_Verkehr	0.5
+** Disponent **	Disponent_isced-f/0413_Management und Verwaltung	1.0
+** Disponent **	Disponentgehilfe_isced-f/0413_Management und Verwaltung	0.5
+** Disponent **	Dispositionschef_isced-f/0413_Management und Verwaltung	0.5
+** Disponent **	Dispositionsleiter_isced-f/0413_Management und Verwaltung	0.5
+** Disponent **	Dispositionszeichner_isced-f/0700_Techniker und Ingenieure	0.0
+** Disponent **	Termindisponent_isced-f/0413_Management und Verwaltung	0.5
+** Englisch (sehr gut in Wort und Schrift) **	Englisch als Fremdsprache unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.0
+** Englisch (sehr gut in Wort und Schrift) **	Englisch schreiben_skill/L1_Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	Englisch schreiben_skill/T1.1_Beherrschen von Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	Englisch sprechen_skill/L1_Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	Englisch sprechen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	Englisch_skill/L1_Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	Englisch_skill/T1.1_Beherrschen von Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	Englischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Englisch (sehr gut in Wort und Schrift) **	geschriebenes Englisch verstehen_skill/L1_Sprachen	1.0
+** Englisch (sehr gut in Wort und Schrift) **	geschriebenes Englisch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Feuerwehr ** Sanität	Erste Hilfe in Notfällen leisten_skill/S3.2.0_Gesundheitsfürsorge und medizinische Behandlungen	0.0
+** Feuerwehr ** Sanität	Erste Hilfe_isced-f/0913_Pflegefach	0.0
+** Feuerwehr ** Sanität	Feuerwehr-Gerätewart_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrgefreiter_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrinspektor_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrkommandant_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrkorporal_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrmann_isced-f/1032_Sicherheit und Personenschutz	1.0
+** Feuerwehr ** Sanität	Feuerwehroffizier_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrsoldat_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrtechniker_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Feuerwehrwachtmeister_isced-f/1032_Sicherheit und Personenschutz	0.5
+** Feuerwehr ** Sanität	Rettungssanitäter, Berufsretter_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** Feuerwehr ** Sanität	Rettungssanitäter_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** Feuerwehr ** Sanität	Sanitäter_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** Feuerwehr ** Sanität	Sanitätspolizist_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** Französisch **	Französisch schreiben_skill/L1_Sprachen	1.0
+** Französisch **	Französisch schreiben_skill/T1.1_Beherrschen von Sprachen	1.0
+** Französisch **	Französisch sprechen_skill/L1_Sprachen	1.0
+** Französisch **	Französisch sprechen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Französisch **	Französisch_skill/L1_Sprachen	1.0
+** Französisch **	Französisch_skill/T1.1_Beherrschen von Sprachen	1.0
+** Französisch **	Französischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Französisch **	Fähigkeiten_skill/S_	0.0
+** Französisch **	Sprachen_skill/L1_	0.75
+** Französisch **	geschriebenes Französisch verstehen_skill/L1_Sprachen	1.0
+** Französisch **	geschriebenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Französisch **	gesprochenes Französisch verstehen_skill/L1_Sprachen	1.0
+** Fremdsprachenkenntnissen **	Benutzung von Fremdsprachen_skill/S1.15.1_	1.0
+** Fremdsprachenkenntnissen **	Fremdsprachen für internationale Karrieren_isced-f/0231_Sprachen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachen im internationalen Handel anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachen in den sozialen Diensten sprechen_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachen in der Betreuung von Patienten/Patientinnen verwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachen sprechen_skill/S1.15.1_Benutzung von Fremdsprachen	1.0
+** Fremdsprachenkenntnissen **	Fremdsprachen übersetzen_skill/S1.15.2_Übersetzen und Dolmetschen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachen_isced-f/0230_Sprachen	1.0
+** Fremdsprachenkenntnissen **	Fremdsprachen_isced-f/0239_Sprachen	1.0
+** Fremdsprachenkenntnissen **	Fremdsprachen_isced-f/023_Sprachen	1.0
+** Fremdsprachenkenntnissen **	Fremdsprachenerwerb_isced-f/0231_Sprachen	1.0
+** Fremdsprachenkenntnissen **	Fremdsprachenkenntnisse im Hotel- und Gaststättengewerbe anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachenkenntnisse in der Tourismusbranche anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Fremdsprachenkenntnissen **	Fremdsprachenkorrespondent_isced-f/0415_Sekretariat	0.0
+** Fremdsprachenkenntnissen **	Fremdsprachenlehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Fremdsprachenkenntnissen **	Fremdsprachensekretär_isced-f/0415_Sekretariat	0.0
+** Fremdsprachenkenntnissen **	Sprachregeln beherrschen_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Führungserfahrung **	Führung und Motivation_skill/S4.5.0_	1.0
+** Führungserfahrung **	Führung und Motivation_skill/S4.5_	1.0
+** Führungserfahrung **	Führungsexperte_isced-f/0413_Management und Verwaltung	1.0
+** Führungserfahrung **	Führungsfachmann_isced-f/0413_Management und Verwaltung	1.0
+** Führungserfahrung **	Führungskompetenzen in Fällen von sozialen Diensten beweisen_skill/S4.5.0_Führung und Motivation	0.5
+** Führungserfahrung **	Führungskompetenzen in Fällen von sozialen Diensten beweisen_skill/T4.4_Anleiten anderer	0.5
+** Führungserfahrung **	Führungsperson in Rettungsorganisationen_isced-f/1032_Sicherheit und Personenschutz	0.25
+** Führungserfahrung **	Führungsprinzipien_isced-f/0031_allgemeine Fähigkeiten	1.0
+** Führungserfahrung **	Führungsverantwortlicher_isced-f/0413_Management und Verwaltung	1.0
+** Führungserfahrung **	Managementfähigkeiten_skill/S4.0.0_	0.5
+** Führungserfahrung **	Managementfähigkeiten_skill/S4.0_	0.5
+** Führungserfahrung **	Managementfähigkeiten_skill/S4_	0.5
+** Führungserfahrung **	Managementkompetenzen besitzen_skill/S4.0.0_Managementfähigkeiten	0.5
+** Führungserfahrung **	Personalmanagement_skill/S4.3.2_	0.0
+** Führungserfahrung **	Umfassende Leadership_isced-f/0413_Management und Verwaltung	0.75
+** Führungserfahrung **	in Leadership und Management_isced-f/0413_Management und Verwaltung	0.75
+** Führungserfahrung **	in Unternehmens- und Mitarbeiterführung_isced-f/0413_Management und Verwaltung	0.75
+** Gewinnung von Neukunden ** Akquise	Abreise der Gäste unterstützen_skill/S3.4.4_Allgemeine Unterstützung von Menschen	0.0
+** Gewinnung von Neukunden ** Akquise	Akquisiteur_isced-f/0416_Verkauf und Handel	1.0
+** Gewinnung von Neukunden ** Akquise	Anwerbung und Einstellung_skill/S4.7.0_	0.0
+** Gewinnung von Neukunden ** Akquise	Anwerbung und Einstellung_skill/S4.7_	0.0
+** Gewinnung von Neukunden ** Akquise	Anwerbungsmethoden_isced-f/0414_Marketing und Werbung	0.5
+** Gewinnung von Neukunden ** Akquise	Aufbau eines Netzwerks von Anbietern im Tourismusbereich_skill/S1.2.3_Aufbau von beruflichen Beziehungen oder Netzwerken	0.0
+** Gewinnung von Neukunden ** Akquise	Aufbau von Bewertungskapazitäten fördern_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.0
+** Gewinnung von Neukunden ** Akquise	Aufbau von beruflichen Beziehungen oder Netzwerken_skill/S1.2.3_	0.25
+** Gewinnung von Neukunden ** Akquise	Beraten_skill/S1.5.0_	0.25
+** Gewinnung von Neukunden ** Akquise	Beraten_skill/S1.5_	0.25
+** Gewinnung von Neukunden ** Akquise	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden_skill/S3.4.0_	0.25
+** Gewinnung von Neukunden ** Akquise	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden_skill/S3.4_	0.25
+** Gewinnung von Neukunden ** Akquise	Diebstahl verhindern_skill/S3.3.5_Aufrechterhaltung und Durchsetzung der physischen Sicherheit	0.0
+** Gewinnung von Neukunden ** Akquise	Direktmarketing-Assistent_isced-f/0414_Marketing und Werbung	0.5
+** Gewinnung von Neukunden ** Akquise	Elektrotechnik_isced-f/0713_Elektrizität und Energie	0.0
+** Gewinnung von Neukunden ** Akquise	Ermittlung von Möglichkeiten_skill/S4.1.1_	0.25
+** Gewinnung von Neukunden ** Akquise	Erster Verkäufer_isced-f/0416_Verkauf und Handel	0.25
+** Gewinnung von Neukunden ** Akquise	Geschäftsbeziehungen aufbauen_skill/S1.2.3_Aufbau von beruflichen Beziehungen oder Netzwerken	0.25
+** Gewinnung von Neukunden ** Akquise	Gewinnung von Spirituosen_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Gewinnung von Neukunden ** Akquise	Immobilienpromotor_isced-f/0416_Verkauf und Handel	0.0
+** Gewinnung von Neukunden ** Akquise	Kunden betreuen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.25
+** Gewinnung von Neukunden ** Akquise	Kunden mit Alternativen gewinnen_skill/S1.7.2_Zusammenarbeit mit anderen, um Bedürfnisse zu ermitteln	0.5
+** Gewinnung von Neukunden ** Akquise	Kundenbesucher_isced-f/0416_Verkauf und Handel	0.25
+** Gewinnung von Neukunden ** Akquise	Kundenbetreuung pflegen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.25
+** Gewinnung von Neukunden ** Akquise	Kundendiensttätigkeiten durchführen_skill/S1.6.1_Verkauf von Waren oder Dienstleistungen	0.25
+** Gewinnung von Neukunden ** Akquise	Kundenkenntnis_isced-f/0414_Marketing und Werbung	0.25
+** Gewinnung von Neukunden ** Akquise	Kundensegmentierung_isced-f/0414_Marketing und Werbung	0.25
+** Gewinnung von Neukunden ** Akquise	Kundenwerber_isced-f/0416_Verkauf und Handel	1.0
+** Gewinnung von Neukunden ** Akquise	Marketing per E-Mail durchführen_skill/S1.6.0_Werbung, Verkauf und Kauf	0.25
+** Gewinnung von Neukunden ** Akquise	Marketing und Werbung_isced-f/0414_	0.5
+** Gewinnung von Neukunden ** Akquise	Marketingkampagne planen_skill/S4.1.2_Entwicklung von Finanz-, Geschäfts- oder Marketingplänen	0.5
+** Gewinnung von Neukunden ** Akquise	Marketingkampagne planen_skill/S4.2.1_Leitung betrieblicher Tätigkeiten	0.5
+** Gewinnung von Neukunden ** Akquise	Marketingplan durchführen_skill/S1.6.0_Werbung, Verkauf und Kauf	0.5
+** Gewinnung von Neukunden ** Akquise	Marketingplan für Schuhwerk umsetzen_skill/S1.6.0_Werbung, Verkauf und Kauf	0.25
+** Gewinnung von Neukunden ** Akquise	Marketingstrategien umsetzen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.5
+** Gewinnung von Neukunden ** Akquise	Markteintrittsplanung_isced-f/0414_Marketing und Werbung	0.25
+** Gewinnung von Neukunden ** Akquise	Markteintrittsstrategien_isced-f/0414_Marketing und Werbung	0.25
+** Gewinnung von Neukunden ** Akquise	Mitarbeiter motivieren, um Umsatzziele zu erreichen_skill/T4.4_Anleiten anderer	0.0
+** Gewinnung von Neukunden ** Akquise	Privatkundenberater_isced-f/0416_Verkauf und Handel	0.0
+** Gewinnung von Neukunden ** Akquise	Suchmaschinenoptimierung_isced-f/0414_Marketing und Werbung	0.0
+** Gewinnung von Neukunden ** Akquise	Suchmaschinenoptimierung_skill/S2.7.0_Analyse und Auswertung von Informationen und Daten	0.0
+** Gewinnung von Neukunden ** Akquise	Suchmaschinenoptimierung_skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.0
+** Gewinnung von Neukunden ** Akquise	Verkaufsargumentation_isced-f/0414_Marketing und Werbung	0.5
+** Gewinnung von Neukunden ** Akquise	Verkaufsbesuche von Kunden planen_skill/S4.2.2_Planung von Veranstaltungen und Aktivitäten	0.5
+** Gewinnung von Neukunden ** Akquise	Verkaufserlöse maximieren_skill/S1.6.1_Verkauf von Waren oder Dienstleistungen	0.0
+** Gewinnung von Neukunden ** Akquise	Verkaufsförderung von Finanzprodukten durchführen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.5
+** Gewinnung von Neukunden ** Akquise	Verkaufsförderungsmaßnahmen festlegen_skill/S1.6.1_Verkauf von Waren oder Dienstleistungen	0.5
+** Gewinnung von Neukunden ** Akquise	Verkaufsmotivierung zeigen_skill/S4.5.0_Führung und Motivation	0.5
+** Gewinnung von Neukunden ** Akquise	Verkaufsmotivierung zeigen_skill/T4.4_Anleiten anderer	0.5
+** Gewinnung von Neukunden ** Akquise	Verkaufsstrategien_isced-f/0414_Marketing und Werbung	0.5
+** Gewinnung von Neukunden ** Akquise	Vertriebsstrategien umsetzen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.5
+** Gewinnung von Neukunden ** Akquise	Werbung für Facilitymanagement-Dienstleistungen machen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.25
+** Gewinnung von Neukunden ** Akquise	aktives Verkaufen durchführen_skill/S1.6.1_Verkauf von Waren oder Dienstleistungen	1.0
+** Gewinnung von Neukunden ** Akquise	bei Akquisitionen beraten_skill/S1.5.3_Beratung zu Waren und Dienstleistungen	0.5
+** Gewinnung von Neukunden ** Akquise	neue Kunden ausfindig machen_skill/S1.2.3_Aufbau von beruflichen Beziehungen oder Netzwerken	1.0
+** Gewinnung von Neukunden ** Akquise	neue Kunden ausfindig machen_skill/T6.5_Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	1.0
+** Handwerkliche **	Handwerk_isced-f/0700_Techniker und Ingenieure	1.0
+** Handwerkliche **	Handwerkskunst_isced-f/0214_Kunst und Kunsthandwerk	0.5
+** Handwerkliche **	Handwerksunternehmer_isced-f/0413_Management und Verwaltung	0.25
+** Handwerkliche **	Handwerkzeuge für Forstarbeiten verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.5
+** Handwerkliche **	Handwerkzeuge für Leitungen verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.5
+** Handwerkliche **	Handwerkzeuge in der Kettenfertigung verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.5
+** Handwerkliche **	Handwerkzeuge verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.75
+** Handwerkliche **	Handwerkzeuge verwenden_skill/T5.1_Handhaben und Kontrollieren von Objekten und Geräten	0.75
+** Handwerkliche **	Handwerkzeuge zur Herstellung von Tabakerzeugnissen verwenden_skill/S6.5.8_Herstellen von Tabakerzeugnissen	0.5
+** Handwerkliche **	Handwerkzeuge zur Herstellung von Tabakerzeugnissen verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.5
+** Handwerkliche **	Handwerkzeuge zur Herstellung von Tabakerzeugnissen verwenden_skill/T5.1_Handhaben und Kontrollieren von Objekten und Geräten	0.5
+** Handwerkliche **	Kenntnisse_skill/K_Kenntnisse	0.0
+** Handwerkliche **	Verwendung von Handwerkzeugen_skill/S6.7.0_	0.75
+** Handwerkliche **	Verwendung von Handwerkzeugen_skill/S6.7_	0.75
+** Handwerkliche **	authentische Handwerkstechniken nutzen_skill/S6.7.0_Verwendung von Handwerkzeugen	0.5
+** Handwerkliche **	handwerkliche Tätigkeiten entwickeln_skill/S1.12.3_Künstlerische Gestaltung oder Darbietungen	0.25
+** Handwerkliche **	handwerkliche Tätigkeiten überwachen_skill/S4.2.1_Leitung betrieblicher Tätigkeiten	0.25
+** IT Spektrum **	Arbeiten mit Computern_skill/S5.0.0_Arbeiten mit Computern	0.75
+** IT Spektrum **	Computernutzung_isced-f/0611_Softwareanwendung und IT-Nutzung	0.75
+** IT Spektrum **	EDV-Kenntnisse besitzen_skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.75
+** IT Spektrum **	IKT-Beratung anbieten_skill/S1.5.6_Beratung zur Entwicklung oder Nutzung von Technologien	0.0
+** IT Spektrum **	IKT-Kenntnisse bewerten_skill/T2.1_Verarbeiten von Informationen, Ideen und Konzepten	0.0
+** IT Spektrum **	IKT-Kommunikationsprotokolle_isced-f/0714_Elektronik und Automation	0.0
+** IT Spektrum **	IKT-Netzwerk-Hardware_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+** IT Spektrum **	IKT-Sicherheitsgesetzgebung_isced-f/0421_Recht	0.25
+** IT Spektrum **	IKT-System verwalten_skill/S5.0.0_Arbeiten mit Computern	0.25
+** IT Spektrum **	IKT-Systemprogrammierung_isced-f/0613_Programmierung und Softwareentwicklung	0.25
+** IT Spektrum **	IT Accountant_isced-f/0411_Buchhaltung und Steuerwesen	0.0
+** IT Spektrum **	IT Consultant_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+** IT Spektrum **	IT Controller_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+** IT Spektrum **	IT Manager_isced-f/0413_Management und Verwaltung	0.0
+** IT Spektrum **	IT Manager_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+** IT Spektrum **	IT Security Expert_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+** IT Spektrum **	IT Security Officer_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+** IT Spektrum **	IT Strategy Consultant_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+** IT Spektrum **	IT-Spezialist_isced-f/0613_Programmierung und Softwareentwicklung	0.75
+** IT Spektrum **	IT-Techniker_isced-f/0613_Programmierung und Softwareentwicklung	0.25
+** IT Spektrum **	Informatik_isced-f/0610_	1.0
+** IT Spektrum **	Informations- und Kommunikationstechnologien (IKT)_isced-f/0610_Informatik	1.0
+** IT Spektrum **	Informations- und Kommunikationstechnologien (IKT)_isced-f/061_	1.0
+** IT Spektrum **	Informations- und Kommunikationstechnologien (IKT)_isced-f/06_	1.0
+** IT Spektrum **	Informations- und Kommunikationstechnologien_isced-f/0619_Informatik	1.0
+** IT Spektrum **	Informationsmanagement_skill/S2.3.0_	0.0
+** IT Spektrum **	Informationsmanagement_skill/S2.3_	0.0
+** IT Spektrum **	IuK-Kontext einer Organisation analysieren_skill/S2.7.4_Analyse von Geschäftstätigkeiten	0.0
+** Konstrukteur **	CAD-Konstrukteur_isced-f/0700_Techniker und Ingenieure	0.5
+** Konstrukteur **	Detailkonstrukteur_isced-f/0700_Techniker und Ingenieure	0.5
+** Konstrukteur **	Entwicklungskonstrukteur_isced-f/0700_Techniker und Ingenieure	0.5
+** Konstrukteur **	Konstrukteur von Uhrenfabrikationsautomaten_isced-f/0715_Mechanik und Metallbearbeitung	0.5
+** Konstrukteur **	Konstrukteur, Sondermaschinenbau_isced-f/0715_Mechanik und Metallbearbeitung	0.5
+** Konstrukteur **	Konstrukteur/in - Erweiterte Ansprüche_isced-f/0715_Mechanik und Metallbearbeitung	1.0
+** Konstrukteur **	Konstrukteur/in - _isced-f/0715_Mechanik und Metallbearbeitung	1.0
+** Konstrukteur **	Konstrukteur/in _isced-f/0715_Mechanik und Metallbearbeitung	1.0
+** Konstrukteur **	Konstrukteur/in_isced-f/0715_Mechanik und Metallbearbeitung	1.0
+** Konstrukteur **	Konstrukteur_isced-f/0700_Techniker und Ingenieure	1.0
+** Konstrukteur **	Konstrukteur_isced-f/0715_Mechanik und Metallbearbeitung	1.0
+** Konstrukteur **	Konstruktionszeichner_isced-f/0700_Techniker und Ingenieure	0.5
+** Lebensmittelverkauf **	Detailhandelsangestellter, Lebensmittel_isced-f/0416_Verkauf und Handel	1.0
+** Lebensmittelverkauf **	Lebensmittel einkaufen_skill/S1.6.3_Kauf von Waren oder Dienstleistungen	0.0
+** Lebensmittelverkauf **	Lebensmittel einkaufen_skill/S4.1.3_Entwicklung betrieblicher Strategien und Verfahren	0.0
+** Lebensmittelverkauf **	Lebensmittel gleich welcher Verarbeitungsstufe_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittel- und Getränkeindustrie_isced-f/0721_Lebensmittelverarbeitung	0.5
+** Lebensmittelverkauf **	Lebensmittelauszeichnung_isced-f/0721_Lebensmittelverarbeitung	0.25
+** Lebensmittelverkauf **	Lebensmittelberater_isced-f/0721_Lebensmittelverarbeitung	0.25
+** Lebensmittelverkauf **	Lebensmittelhändler_isced-f/0416_Verkauf und Handel	1.0
+** Lebensmittelverkauf **	Lebensmittelingenieur_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittelkaufmann_isced-f/0416_Verkauf und Handel	0.75
+** Lebensmittelverkauf **	Lebensmittelkunde_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittelpolitik_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittelsortierer_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmitteltechnik_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmitteltechniker_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmitteltechnologe/-technologin _isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmitteltechnologe/-technologin_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmitteltechnologe_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittelverarbeitung_isced-f/0721_	0.0
+** Lebensmittelverkauf **	Lebensmittelverkäufer_isced-f/0416_Verkauf und Handel	1.0
+** Lebensmittelverkauf **	Lebensmittelverpacker_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittelvertreter_isced-f/0416_Verkauf und Handel	0.75
+** Lebensmittelverkauf **	Lebensmittelzubereiter_isced-f/0721_Lebensmittelverarbeitung	0.0
+** Lebensmittelverkauf **	Lebensmittelzutaten_isced-f/0721_Lebensmittelverarbeitung	0.25
+** Lebensmittelverkauf **	Verkäufer, Lebensmittel_isced-f/0416_Verkauf und Handel	1.0
+** MBA **	ABAP_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+** MBA **	ABAP_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+** MBA **	Accountant_isced-f/0411_Buchhaltung und Steuerwesen	0.0
+** MBA **	Akademiestudienleiter_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	BWL_isced-f/0311_Wirtschaft	0.25
+** MBA **	Bachelor of Business Administration_isced-f/0413_Management und Verwaltung	0.5
+** MBA **	Bachelor of Industrial Administration_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Bachelor of Laws LL.B_isced-f/0421_Recht	0.0
+** MBA **	Bachelor of Public Administration_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Betriebswirtschaft_isced-f/0413_Management und Verwaltung	0.25
+** MBA **	Betriebsökonom, Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Betriebsökonom_isced-f/0413_Management und Verwaltung	0.25
+** MBA **	Betriebsökonomie_isced-f/0413_Management und Verwaltung	0.25
+** MBA **	Buchführung_isced-f/0411_Buchhaltung und Steuerwesen	0.0
+** MBA **	Business-Analyse_isced-f/0413_Management und Verwaltung	0.25
+** MBA **	Business-Intelligence_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Data-Warehouse_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+** MBA **	Economics_isced-f/0311_Wirtschaft	0.25
+** MBA **	Executive Master of Business Administration (EMBA)_isced-f/0413_Management und Verwaltung	0.5
+** MBA **	Geschäftsprozessmodellierung_isced-f/0413_Management und Verwaltung	0.25
+** MBA **	Jahresabschluss_isced-f/0412_Finanz und Bank und Versicherung	0.0
+** MBA **	Juristischer Unternehmensberater_isced-f/0421_Recht	0.0
+** MBA **	Kanzleidirektor_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	LAMS_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Lernmanagementsysteme_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	MATLAB_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+** MBA **	MPA_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** MBA **	Management und Verwaltung_isced-f/0413_	0.5
+** MBA **	Master of Advanced Studies, Social Insurance Management_isced-f/0412_Finanz und Bank und Versicherung	0.0
+** MBA **	Master of Business Administration, MBA_isced-f/0413_Management und Verwaltung	1.0
+** MBA **	Master of Business Administration_isced-f/0413_Management und Verwaltung	1.0
+** MBA **	Master of Commerce_isced-f/0311_Wirtschaft	0.0
+** MBA **	Master of Engineering_isced-f/0710_Techniker und Ingenieure	0.0
+** MBA **	Master of Health Promotion and Administration_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Master of Laws LL.M_isced-f/0421_Recht	0.0
+** MBA **	Master of Laws_isced-f/0421_Recht	0.0
+** MBA **	Master of Medical Education_isced-f/0114_Fachlehrer und Lehrer	0.0
+** MBA **	Master of Medicine_isced-f/0912_Medizin	0.0
+** MBA **	Master of Public Administration_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Master of Public Health_isced-f/0413_Management und Verwaltung	0.0
+** MBA **	Master of Science in Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	0.0
+** MBA **	Psychologie_isced-f/0313_	0.0
+** MBA **	Rechnungslegungstechniken_isced-f/0411_Buchhaltung und Steuerwesen	0.0
+** MBA **	Recht_isced-f/0421_	0.0
+** MBA **	SAP R3_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+** MBA **	Standard-Warenwirtschaftssystem verwalten_skill/S5.5.2_Verwalten und Analysieren digitaler Daten	0.0
+** MBA **	Unternehmensanwalt_isced-f/0421_Recht	0.0
+** MBA **	Unternehmensbewertungstechniken_isced-f/0412_Finanz und Bank und Versicherung	0.0
+** MBA **	VWL_isced-f/0311_Wirtschaft	0.0
+** MBA **	betriebliche IKT-Systeme_isced-f/0611_Softwareanwendung und IT-Nutzung	0.0
+** MBA **	betriebswirtschaftliche Grundsätze_isced-f/0413_Management und Verwaltung	0.25
+** MBA **	betriebswirtschaftliche Grundsätze_skill/T4.4_Anleiten anderer	0.25
+** MBA **	kaufmännisches Fachwissen_isced-f/0413_Management und Verwaltung	0.0
+** MTRA **	Chef MTA_isced-f/0914_Medizintechnik und Diagnostik	0.25
+** MTRA **	Fachmann für Rehatechnik_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** MTRA **	Fachmann für Rehatechnik_isced-f/0915_Therapie und Rehabilitation	0.0
+** MTRA **	Fachmann für medizinisch-technische Radiologie_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Gruppenchef PTT_isced-f/1041_Verkehr	0.0
+** MTRA **	Landwirtschaftlicher Traktorführer_isced-f/0811_Pflanzenproduktion und Tierproduktion	0.0
+** MTRA **	MPA_isced-f/0914_Medizintechnik und Diagnostik	0.25
+** MTRA **	MTRA_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Medizinisch-technischer Radiologieassistent, MTRA_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Mountainbikelehrer_isced-f/1014_Sport	0.0
+** MTRA **	Pfleger für Wochenbett und Gynäkologie_isced-f/0913_Pflegefach	0.0
+** MTRA **	Praxisassistent, medizinischer_isced-f/0914_Medizintechnik und Diagnostik	0.5
+** MTRA **	Radiodiagnostiker_isced-f/0912_Medizin	0.75
+** MTRA **	Radiologe_isced-f/0912_Medizin	0.5
+** MTRA **	Radiologie_isced-f/0914_Medizintechnik und Diagnostik	0.75
+** MTRA **	Radiologieassistent_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Radiologiefachmann_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Radiologietechnikassistent_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Radrennfahrer_isced-f/1014_Sport	0.0
+** MTRA **	Röntgenassistent_isced-f/0914_Medizintechnik und Diagnostik	1.0
+** MTRA **	Röntgentechniker_isced-f/0914_Medizintechnik und Diagnostik	0.75
+** MTRA **	Spitalassistent_isced-f/0913_Pflegefach	0.25
+** MTRA **	Sprechstundenhelfer_isced-f/0914_Medizintechnik und Diagnostik	0.0
+** MTRA **	Statistik_isced-f/0542_	0.0
+** MTRA **	Technischer Operationsassistent, TOA/SRK_isced-f/0913_Pflegefach	0.0
+** MTRA **	Technischer Spitalangestellter_isced-f/0914_Medizintechnik und Diagnostik	0.75
+** MTRA **	Therapeut_isced-f/0915_Therapie und Rehabilitation	0.0
+** MTRA **	Videospielerstellungssysteme_isced-f/0211_Medienproduktion und Medientechnologie	0.0
+** Muttersprache Deutsch **	Berberisch_skill/L1_Sprachen	0.0
+** Muttersprache Deutsch **	Chemie_isced-f/0531_	0.0
+** Muttersprache Deutsch **	Deutsch schreiben_skill/L1_Sprachen	1.0
+** Muttersprache Deutsch **	Deutsch schreiben_skill/T1.1_Beherrschen von Sprachen	1.0
+** Muttersprache Deutsch **	Deutsch sprechen_skill/L1_Sprachen	1.0
+** Muttersprache Deutsch **	Deutsch sprechen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Muttersprache Deutsch **	Deutsch_skill/L1_Sprachen	1.0
+** Muttersprache Deutsch **	Deutsch_skill/T1.1_Beherrschen von Sprachen	1.0
+** Muttersprache Deutsch **	Deutschlehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Muttersprache Deutsch **	Elternabende organisieren_skill/S1.7.2_Zusammenarbeit mit anderen, um Bedürfnisse zu ermitteln	0.0
+** Muttersprache Deutsch **	Fachmann Betreuung, Menschen in Alter_isced-f/0921_Pflege älterer oder behinderter Menschen	0.0
+** Muttersprache Deutsch **	Fachmann Betreuung_isced-f/0923_Sozialarbeit und Beratung	0.0
+** Muttersprache Deutsch **	Fachmann Gesundheit_isced-f/0913_Pflegefach	0.0
+** Muttersprache Deutsch **	Fachmann/-frau Gesundheit_isced-f/0913_Pflegefach	0.0
+** Muttersprache Deutsch **	Fingersprache_isced-f/0231_Sprachen	0.0
+** Muttersprache Deutsch **	Fraud Manager_isced-f/1032_Sicherheit und Personenschutz	0.0
+** Muttersprache Deutsch **	Fremdsprachen_isced-f/0230_Sprachen	0.0
+** Muttersprache Deutsch **	Fremdsprachen_isced-f/0239_Sprachen	0.0
+** Muttersprache Deutsch **	Fremdsprachen_isced-f/023_Sprachen	0.0
+** Muttersprache Deutsch **	Ingenieur, Druckindustrie_isced-f/0211_Medienproduktion und Medientechnologie	0.0
+** Muttersprache Deutsch **	Innengewinde strehlen_skill/S6.7.2_Formen von Materialien für das Kreieren von Produkten	0.0
+** Muttersprache Deutsch **	Schwedisch_skill/L1_Sprachen	0.0
+** Muttersprache Deutsch **	Sprachdienstleister_isced-f/0231_Sprachen	0.0
+** Muttersprache Deutsch **	Sprachen_skill/L1_	0.75
+** Muttersprache Deutsch **	Spracherkennung_isced-f/0232_Linguistik	0.0
+** Muttersprache Deutsch **	Sprachliche Fähigkeiten und Kenntnisse_skill/L_	0.5
+** Muttersprache Deutsch **	geschriebenes Deutsch verstehen_skill/L1_Sprachen	1.0
+** Muttersprache Deutsch **	geschriebenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Muttersprache Deutsch **	geschriebenes Marathi verstehen_skill/L1_Sprachen	0.0
+** Muttersprache Deutsch **	geschriebenes Sanskrit verstehen_isced-f/0231_Sprachen	0.0
+** Muttersprache Deutsch **	gesprochenes Deutsch verstehen_skill/L1_Sprachen	1.0
+** Muttersprache Deutsch **	gesprochenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beherrschen von Sprachen_skill/T1.1_	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beraten_skill/S1.5.0_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beraten_skill/S1.5_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beratung zu Sicherheit und Gesundheitsschutz am Arbeitsplatz_skill/S1.5.9_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beratung zu Umweltthemen_skill/S1.5.5_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beratung zu Waren und Dienstleistungen_skill/S1.5.3_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Beratung_skill/S3.1.0_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutsch schreiben_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutsch schreiben_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutsch sprechen_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutsch sprechen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutsch_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutsch_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Deutschlehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Englisch_skill/T1.1_Beherrschen von Sprachen	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französisch schreiben_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französisch schreiben_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französisch sprechen_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französisch sprechen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französisch_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französisch_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Französischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Fremdsprachen_isced-f/0230_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Fremdsprachen_isced-f/0239_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Fremdsprachenkenntnisse in der Tourismusbranche anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.5
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Dienstleistungen_isced-f/1088_interdisziplinäre Dienstleistungen	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Dienstleistungen_isced-f/108_interdisziplinäre Dienstleistungen	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Gesundheit und sozialen Diensten_isced-f/0988_Interdisziplinäre Gesundheitsberufe	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Gesundheit und sozialen Diensten_isced-f/098_Interdisziplinäre Gesundheitsberufe	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Ingenieurwesen, Fertigung und Bauwesen_isced-f/0788_Interdisziplinäre Ingenieure	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Ingenieurwesen, Fertigung und Bauwesen_isced-f/078_Interdisziplinäre Ingenieure	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Interkultureller Übersetzer_isced-f/0231_Sprachen	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Kenntnisse_skill/K_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Kommunizieren_skill/T4.1_	0.5
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Lernmanagementsysteme_isced-f/0413_Management und Verwaltung	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Prepress-Prozesse_isced-f/0211_Medienproduktion und Medientechnologie	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Sprachliche Fähigkeiten und Kenntnisse_skill/L_	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Sprachregeln beherrschen_skill/S1.15.1_Benutzung von Fremdsprachen	0.75
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Wiegen_skill/S2.5.2_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Zuhören und Stellen von Fragen_skill/S1.7.3_	0.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	geschriebenes Deutsch verstehen_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	geschriebenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	geschriebenes Französisch verstehen_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	geschriebenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	gesprochenes Deutsch verstehen_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	gesprochenes Französisch verstehen_skill/L1_Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	gesprochenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	1.0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Überwachen und Bewerten der Leistung von Personen_skill/S4.8.3_	0.0
+** öffentliche Verwaltung **	Kaufmann/-frau - Öffentliche Verwaltung_isced-f/0410_Wirtschaft und Verwaltung	0.5
+** öffentliche Verwaltung **	Management und Verwaltung_isced-f/0413_	0.5
+** öffentliche Verwaltung **	Politik_isced-f/0312_	0.25
+** öffentliche Verwaltung **	Soziale Dienste_isced-f/092_	0.5
+** öffentliche Verwaltung **	Verwaltung im Bildungsbereich_isced-f/0413_Management und Verwaltung	0.25
+** öffentliche Verwaltung **	Verwaltungschef (öffentlicher Dienst)_isced-f/0413_Management und Verwaltung	0.5
+** öffentliche Verwaltung **	Verwaltungsdirektor (Privatwirtschaft)_isced-f/0413_Management und Verwaltung	0.0
+** öffentliche Verwaltung **	Verwaltungsdirektor (öffentlicher Dienst)_isced-f/0413_Management und Verwaltung	0.5
+** öffentliche Verwaltung **	Verwaltungsrat (öffentlicher Dienst)_isced-f/0413_Management und Verwaltung	0.5
+** öffentliche Verwaltung **	Verwaltungsrechnungsführer (öffentlicher Dienst)_isced-f/0413_Management und Verwaltung	0.5
+** öffentliche Verwaltung **	Volksgesundheit_isced-f/0912_Medizin	0.0
+** öffentliche Verwaltung **	Wirtschaft und Verwaltung_isced-f/0410_	0.5
+** öffentliche Verwaltung **	Wirtschaft und Verwaltung_isced-f/0419_	0.5
+** öffentliche Verwaltung **	Wirtschaft und Verwaltung_isced-f/041_	0.5
+** öffentliche Verwaltung **	Wirtschaft_isced-f/0311_	0.0
+** öffentliche Verwaltung **	Öffentlicher Verwalter_isced-f/0413_Management und Verwaltung	1.0
+** öffentliche Verwaltung **	öffentliche Auktionsverfahren_isced-f/0416_Verkauf und Handel	0.0
+** öffentliche Verwaltung **	öffentliche Bereiche reinigen_skill/S6.11.2_Innen- und Außenreinigung von Gebäuden	0.0
+** öffentliche Verwaltung **	öffentliche Dienstleistungskonzession_isced-f/0413_Management und Verwaltung	0.5
+** öffentliche Verwaltung **	öffentliche Erhebungen durchführen_skill/S2.1.1_Durchführung von Untersuchungen	0.0
+** öffentliche Verwaltung **	öffentliche Maßnahmen beeinflussen_skill/S1.5.1_Beratung zu Rechts-, Regulierungs- oder Verfahrensfragen	0.25
+** öffentliche Verwaltung **	öffentliche Meinungsbildung_isced-f/0414_Marketing und Werbung	0.0
+** öffentliche Verwaltung **	öffentliche Programme zur Zahngesundheit organisieren_skill/S4.1.5_Entwicklung von Gesundheitsprogrammen	0.0
+** öffentliche Verwaltung **	öffentliche Präsentationen durchführen_skill/S1.4.1_Präsentation allgemeiner Informationen	0.0
+** öffentliche Verwaltung **	öffentlichen Personennahverkehr bewerben_skill/T6.3_Anwenden von Bürgerkompetenzen und -fähigkeiten	0.0
+** öffentliche Verwaltung **	öffentlichen Wohnungsbau planen_skill/S4.1.3_Entwicklung betrieblicher Strategien und Verfahren	0.0
+** öffentliche Verwaltung **	öffentliches Engagement in der Forschung fördern_skill/S4.1.4_Entwicklung von Forschungsplänen	0.0
+** öffentliche Verwaltung **	öffentliches Gesundheitswesen_isced-f/0912_Medizin	0.0
+** öffentliche Verwaltung **	öffentliches Recht_isced-f/0421_Recht	0.25
+** öffentliche Verwaltung **	öffentliches Zeichnungsangebot_isced-f/0412_Finanz und Bank und Versicherung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	3D-Modellierung_isced-f/0541_Mathematik	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	ASP.NET_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Abfragesprachen_isced-f/0613_Programmierung und Softwareentwicklung	0.5
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Bürosoftware_isced-f/0611_Softwareanwendung und IT-Nutzung	0.25
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Computerprogrammierung_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Computerprogrammierung_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.75
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	IKT-Systemprogrammierung_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Microsoft Access_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Microsoft Office nutzen_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Microsoft Visual C++_isced-f/0611_Softwareanwendung und IT-Nutzung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Microsoft Visual C++_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	NoSQL_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.25
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Online Analytical Processing_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Open-Source-Modell_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Oracle Application Development Framework_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Oracle Relational Database_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.5
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	PostgreSQL_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.5
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	SQL Server Integration Services_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.75
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	SQL Server_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.75
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	SQL_isced-f/0613_Programmierung und Softwareentwicklung	0.5
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Software für integrierte Entwicklungsumgebungen_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Standard-Warenwirtschaftssystem verwalten_skill/S5.5.2_Verwalten und Analysieren digitaler Daten	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Webprogrammierung_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	objektorientierte Modellierung_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	serviceorientierte Modellierung_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+Financial Consulting ** Bank ** Management	Bank Card Business Engineer_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.0
+Financial Consulting ** Bank ** Management	Bank-Chefkassier_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Bank-Vizedirektor_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Bankberater_isced-f/0412_Finanz und Bank und Versicherung	1.0
+Financial Consulting ** Bank ** Management	Bankbetriebswirt_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Financial Consulting ** Bank ** Management	Bankdirektor (öffentlicher Dienst)_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Bankfach-Experte_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Financial Consulting ** Bank ** Management	Bankfachmann_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Financial Consulting ** Bank ** Management	Bankier_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Banking Consultant_isced-f/0412_Finanz und Bank und Versicherung	1.0
+Financial Consulting ** Bank ** Management	Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	1.0
+Financial Consulting ** Bank ** Management	Bankkaufmann_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Financial Consulting ** Bank ** Management	Bankkommis_isced-f/0412_Finanz und Bank und Versicherung	0.25
+Financial Consulting ** Bank ** Management	Bankkundenberater_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Financial Consulting ** Bank ** Management	Bankleiter_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Bankmakler_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Bankmanager_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Bankprokurist_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Bankrevisor_isced-f/0411_Buchhaltung und Steuerwesen	0.0
+Financial Consulting ** Bank ** Management	Bankserviceleiter_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Banktätigkeiten_isced-f/0412_Finanz und Bank und Versicherung	1.0
+Financial Consulting ** Bank ** Management	Bankverwalter_isced-f/0413_Management und Verwaltung	0.5
+Financial Consulting ** Bank ** Management	Bankwirtschafter_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Financial Consulting ** Bank ** Management	Bankökonom_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Financial Consultant_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Financial Engineer_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Financial Consulting ** Bank ** Management	Finanzberatung_skill/S1.5.2_	0.75
+Financial Consulting ** Bank ** Management	Finanzierungstechnik_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Finanzmanagement_isced-f/0413_Management und Verwaltung	0.75
+Financial Consulting ** Bank ** Management	Finanzwirtschaft, Banken- und Versicherungswesen_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	International Financial Management_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Financial Consulting ** Bank ** Management	Master of Science in Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Unternehmensbewertungstechniken_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Antivirenprogramm einrichten_skill/S5.2.2_Schützen von IKT-Geräten	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	Cain and Abel (Werkzeug für Penetrationstests)_skill/S5.2.2_Schützen von IKT-Geräten	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	Cybercop_isced-f/1032_Sicherheit und Personenschutz	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Firewall einrichten_skill/S5.2.2_Schützen von IKT-Geräten	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	Firewall einrichten_skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	Firewall-Regeln definieren_skill/S5.2.2_Schützen von IKT-Geräten	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Geräte schützen_skill/S5.2.2_Schützen von IKT-Geräten	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Netzwerk-Routing_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	1.0
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Netzwerk-Sicherheitsrisiken_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheit_skill/S5.2.2_Schützen von IKT-Geräten	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitsgesetzgebung_isced-f/0421_Recht	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitsnormen_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitstests durchführen_skill/S2.7.5_Durchführung von Risikoanalyse und -management	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitstests durchführen_skill/S2.8.1_Überwachung, Inspektion und Testen von Ausrüstungen, Systemen und Produkten	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitstests durchführen_skill/S3.3.6_Schutz von Privatsphäre und personenbezogenen Daten	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitstests durchführen_skill/S5.2.2_Schützen von IKT-Geräten	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Sicherheitstests durchführen_skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.25
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Verschlüsselung_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	1.0
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Virtualisierungsumgebungen verwalten_skill/S5.0.0_Arbeiten mit Computern	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Virtualisierungsumgebungen verwalten_skill/S5.2.1_Einrichten von Computersystemen	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Virtualisierungsumgebungen verwalten_skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Internet der Dinge_isced-f/0611_Softwareanwendung und IT-Nutzung	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Netzsicherheit_isced-f/1031_Militär und Verteidigung	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	Privatsphäre und Identität im Internet schützen_skill/S3.3.6_Schutz von Privatsphäre und personenbezogenen Daten	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	Proxy-Server_isced-f/0611_Softwareanwendung und IT-Nutzung	1.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Proxy-Server_isced-f/0714_Elektronik und Automation	1.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Session Border Controller verwenden_skill/S5.2.2_Schützen von IKT-Geräten	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	VBScript_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Verarbeitung natürlicher Sprache_isced-f/0231_Sprachen	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/S2.7.5_Durchführung von Risikoanalyse und -management	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/S2.8.1_Überwachung, Inspektion und Testen von Ausrüstungen, Systemen und Produkten	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/S3.3.6_Schutz von Privatsphäre und personenbezogenen Daten	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/S5.2.2_Schützen von IKT-Geräten	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/S5.2.3_Lösen von Computerproblemen	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	BWL_isced-f/0311_Wirtschaft	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Geometrie_isced-f/0541_Mathematik	0.5
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatik_isced-f/0610_	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatik_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informations- und Kommunikationstechnologien (IKT)_isced-f/0610_Informatik	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Kaufmann , Basis-Grundbildung, Chemie_isced-f/0410_Wirtschaft und Verwaltung	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Kaufmann , erweiterte Grundbildung, Chemie_isced-f/0410_Wirtschaft und Verwaltung	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematik und Statistik_isced-f/0540_Statistik und Mathematik	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematik und Statistik_isced-f/054_Statistik und Mathematik	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematik_isced-f/0541_	1.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematik_skill/T1.2_Arbeiten mit Zahlen und Maßen	1.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematiker_isced-f/0541_Mathematik	1.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Mathematikprofessor_isced-f/0114_Fachlehrer und Lehrer	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Naturwissenschaften, Mathematik und Statistik_isced-f/0500_Naturwissenschaften	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Naturwissenschaften, Mathematik und Statistik_isced-f/050_Naturwissenschaften	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Naturwissenschaften, Mathematik und Statistik_isced-f/0599_Naturwissenschaften	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Naturwissenschaften, Mathematik und Statistik_isced-f/059_Naturwissenschaften	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Naturwissenschaften, Mathematik und Statistik_isced-f/05_Naturwissenschaften	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Philosophie der Mathematik_isced-f/0541_Mathematik	0.5
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Philosophie der Mathematik_skill/T1.2_Arbeiten mit Zahlen und Maßen	0.5
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Rechenkenntnisse anwenden_skill/T1.2_Arbeiten mit Zahlen und Maßen	0.75
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Wirtschaftsinformatiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Wirtschaftsmathematiker_isced-f/0541_Mathematik	0.5
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Wirtschaftswissenschaft_isced-f/0311_Wirtschaft	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Wirtschaftswissenschaften, übrige_isced-f/0413_Management und Verwaltung	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Wirtschaftswissenschaften_isced-f/0413_Management und Verwaltung	0.0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	mathematische Grundkenntnisse vermitteln_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Anlageberater_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Anlageberatung leisten_skill/S1.5.2_Finanzberatung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Anlageberatungschef_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Assekuranzagent_isced-f/0412_Finanz und Bank und Versicherung	0.25
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Assekuranzvertreter_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Assembly (Computerprogrammierung)_isced-f/0613_Programmierung und Softwareentwicklung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Assembly (Computerprogrammierung)_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Assetmanager_isced-f/0412_Finanz und Bank und Versicherung	1.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Assistant to the CEO_isced-f/0413_Management und Verwaltung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Banktätigkeiten_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Beurteilungsverfahren_isced-f/0111_Pädagogik, Lehrer	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Financial Accounting Manager_isced-f/0411_Buchhaltung und Steuerwesen	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzanalyse_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzanalysenassistent_isced-f/0412_Finanz und Bank und Versicherung	0.25
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzanalytiker und Vermögensverwalter_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzberatung_skill/S1.5.2_	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzierungstechnik_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzkompetenz_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzmärkte_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzprodukte_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzwirtschaft, Banken- und Versicherungswesen_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Impact Investing_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	International Financial Management_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investment Analyst_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentanalyse_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentbanker_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentberater_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentbroker_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentfonds auflegen_skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentportfolio entwickeln_skill/T6.5_Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentportfolios überprüfen_skill/S1.5.2_Finanzberatung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Master of Advanced Studies, Social Insurance Management_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Moderne Portfolio-Theorie_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Portfolio Management Assistant_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Portfoliomanager_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Risikotransfer_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Risk Analyst (Unternehmensberater)_isced-f/0412_Finanz und Bank und Versicherung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Risk Controller_isced-f/0410_Wirtschaft und Verwaltung	0.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Schuldensysteme_isced-f/0412_Finanz und Bank und Versicherung	0.25
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Techniken der Risikofinanzierung_isced-f/0413_Management und Verwaltung	0.25
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Unternehmensbewertungstechniken_isced-f/0412_Finanz und Bank und Versicherung	0.25
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Vermögensberater_isced-f/0412_Finanz und Bank und Versicherung	0.75
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Vermögensverwalter_isced-f/0411_Buchhaltung und Steuerwesen	1.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Vermögenswerte ansetzen und bewerten_skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	1.0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Wertpapiere_isced-f/0412_Finanz und Bank und Versicherung	0.5
+funktionellen Behandlung ** Neurotraining **	Neuroanatomie der Tiere_isced-f/0511_Biologie	0.0
+funktionellen Behandlung ** Neurotraining **	Neuroanatomie_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neurochirurgie_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neurofeedback-Trainer_isced-f/0917_Komplementärmedizin	0.75
+funktionellen Behandlung ** Neurotraining **	Neurolinguist_isced-f/0232_Linguistik	0.0
+funktionellen Behandlung ** Neurotraining **	Neurologe_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neurologie_isced-f/0912_Medizin	0.5
+funktionellen Behandlung ** Neurotraining **	Neuroophthalmologie_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neuropathologe_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neuropathologie_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neuropharmakologie_isced-f/0512_Biochemie	0.0
+funktionellen Behandlung ** Neurotraining **	Neurophysiologe (Arzt)_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neurophysiologe_isced-f/0511_Biologie	0.0
+funktionellen Behandlung ** Neurotraining **	Neurophysiologie der Tiere_isced-f/0511_Biologie	0.0
+funktionellen Behandlung ** Neurotraining **	Neurophysiologie der Tiere_isced-f/0841_Veterinär	0.0
+funktionellen Behandlung ** Neurotraining **	Neurophysiologie der Tiere_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neurophysiologie_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neuropsychiater_isced-f/0912_Medizin	0.5
+funktionellen Behandlung ** Neurotraining **	Neuropsychiatrie_isced-f/0912_Medizin	0.5
+funktionellen Behandlung ** Neurotraining **	Neuropsychologe_isced-f/0313_Psychologie	0.75
+funktionellen Behandlung ** Neurotraining **	Neuropsychologie_isced-f/0313_Psychologie	0.75
+funktionellen Behandlung ** Neurotraining **	Neuropädiater_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	Neurotoxikologe_isced-f/0511_Biologie	0.0
+funktionellen Behandlung ** Neurotraining **	klinische Neurophysiologie_isced-f/0912_Medizin	0.0
+funktionellen Behandlung ** Neurotraining **	neuromuskuloskelettale Therapie anbieten_skill/S3.2.3_Physikalische Therapien	0.75
+funktionellen Behandlung ** Neurotraining **	psychomotorische Therapie_isced-f/0915_Therapie und Rehabilitation	0.75
+** Bauingenieurwesen **	Bau_skill/S7_	0.5
+** Bauingenieurwesen **	Bau_skill/S7.0_	0.5
+Financial Consulting ** Bank ** Management	Bankagent_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Banktätigkeiten beobachten_skill/T2.1_Verarbeiten von Informationen, Ideen und Konzepten	0.5
+Financial Consulting ** Bank ** Management	Bankanalytiker_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Philosophie der Mathematik_isced-f/0223_Ethik und Philosophie	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Philosophie der Mathematik_skill/T6.6_Anwenden von Allgemeinwissen	0
+** MBA **	Unternehmenswissen steuern_skill/S4.1.3_Entwicklung betrieblicher Strategien und Verfahren	0
+** MBA **	Unternehmensführung_isced-f/0413_Management und Verwaltung	0
+** MTRA **	Röntgenmechaniker_isced-f/0715_Mechanik und Metallbearbeitung	0
+** IT Spektrum **	IKT-Kenntnisse bewerten_skill/S4.8.3_Überwachen und Bewerten der Leistung von Personen	0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Anlageberatung leisten_skill/T4.2_Unterstützen anderer	0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Private Investigator_isced-f/1032_Sicherheit und Personenschutz	0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Portfolio verwalten_skill/S1.12.2_Entwicklung von Schulungs- oder Werbematerialien	0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investmentportfolio entwickeln_skill/S4.1.2_Entwicklung von Finanz-, Geschäfts- oder Marketingplänen	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Investitionsentscheidungen treffen_skill/T3.2_Verfolgen eines proaktiven Ansatzes	0
+Internet Sicherheit Technologien ** VPN ** IP Security	Cain and Abel (Werkzeug für Penetrationstests)_isced-f/0613_Programmierung und Softwareentwicklung	0
+Internet Sicherheit Technologien ** VPN ** IP Security	Werkzeug für Penetrationstests_skill/T2.3_Handhaben von Problemen	0
+Internet Sicherheit Technologien ** VPN ** IP Security	Cain and Abel (Werkzeug für Penetrationstests)_skill/S2.8.1_Überwachung, Inspektion und Testen von Ausrüstungen, Systemen und Produkten	0
+** Gewinnung von Neukunden ** Akquise	neue Geschäftsgelegenheiten ermitteln_skill/T6.5_Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	0.5
+** Gewinnung von Neukunden ** Akquise	aktives Verkaufen durchführen_skill/T4.1_Kommunizieren	0
+** Gewinnung von Neukunden ** Akquise	neue Geschäftsgelegenheiten ermitteln_skill/S4.1.1_Ermittlung von Möglichkeiten	0.5
+** Disponent **	Diseur_isced-f/0215_Musik und Schauspiel	0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	DB2_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+** Lebensmittelverkauf **	Lebensmitteltechnologie_isced-f/0511_Biologie	0
+funktionellen Behandlung ** Neurotraining **	Verhaltenstherapie_isced-f/0313_Psychologie	0
+funktionellen Behandlung ** Neurotraining **	Kognitionspsychologie_isced-f/0313_Psychologie	0
+funktionellen Behandlung ** Neurotraining **	kognitive Verhaltenstherapie_isced-f/0313_Psychologie	0
+funktionellen Behandlung ** Neurotraining **	Neuromarketing-Techniken_isced-f/0414_Marketing und Werbung	0
+** Feuerwehr ** Sanität	Feuerwehrinstruktor_isced-f/0114_Fachlehrer und Lehrer	0
+** Fremdsprachenkenntnissen **	Fremdwährung_isced-f/0412_Finanz und Bank und Versicherung	0
+** Muttersprache Deutsch **	gesprochene Sprache simultan dolmetschen_skill/S1.15.2_Übersetzen und Dolmetschen	0
+** Bauingenieurwesen **	Bauphysiker_isced-f/0533_Geo	0.5
+** Bauingenieurwesen **	Hochbauingenieur_isced-f/0732_Bau und Bauingenieure	1
+Financial Consulting ** Bank ** Management	Bankinspektor_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Financial Consulting ** Bank ** Management	Bankknecht_isced-f/0721_Lebensmittelverarbeitung	0
+Financial Consulting ** Bank ** Management	Bankorganisator_isced-f/0413_Management und Verwaltung	0
+Financial Consulting ** Bank ** Management	Bankformer_isced-f/0715_Mechanik und Metallbearbeitung	0
+Financial Consulting ** Bank ** Management	Bankfachexperte_isced-f/0412_Finanz und Bank und Versicherung	1
+Financial Consulting ** Bank ** Management	Financial Accounting Manager_isced-f/0411_Buchhaltung und Steuerwesen	0
+Financial Consulting ** Bank ** Management	Bankdirektor_isced-f/0413_Management und Verwaltung	0.5
+** Konstrukteur **	Zeichner-Konstrukteur_isced-f/0731_Architektur und Städteplanung	0.5
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Fähigkeiten_skill/S_	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatiker , Betriebsinformatik_isced-f/0613_Programmierung und Softwareentwicklung	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Physik_isced-f/0533_Geo	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatiker , generalistische Ausrichtung_isced-f/0613_Programmierung und Softwareentwicklung	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatiker, Betriebsinformatik_isced-f/0613_Programmierung und Softwareentwicklung	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Biologie_isced-f/0511_	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Chemie_isced-f/0531_	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Psychologie_isced-f/0313_	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Statistik_isced-f/0542_	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Medizin_isced-f/0912_	0
+Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	Informatiker, generalistische Ausrichtung_isced-f/0613_Programmierung und Softwareentwicklung	0
+** MBA **	Manager_isced-f/0413_Management und Verwaltung	0.5
+** MBA **	Betriebsberater_isced-f/0413_Management und Verwaltung	0
+** MBA **	Leitungsingenieur_isced-f/0713_Elektrizität und Energie	0
+** MBA **	Managementassistent_isced-f/0413_Management und Verwaltung	0
+** MBA **	Studienleiter_isced-f/0922_Kinder- und Jugendbetreuung	0
+** MBA **	Studienberater_isced-f/0923_Sozialarbeit und Beratung	0
+** MBA **	Managementberater_isced-f/0413_Management und Verwaltung	0
+** MBA **	Management_isced-f/0413_Management und Verwaltung	0.5
+** BWL-Studium **	Wirtschaftsingenieur_isced-f/0714_Elektronik und Automation	0
+** BWL-Studium **	Wirtschaftsingenieur_isced-f/0710_Techniker und Ingenieure	0
+** BWL-Studium **	Ingenieur HTL, Wirtschaftsinformatik_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+** BWL-Studium **	Wirtschaftsingenieurwesen_isced-f/0714_Elektronik und Automation	0
+** BWL-Studium **	Informatikdiplom_isced-f/0613_Programmierung und Softwareentwicklung	0
+** öffentliche Verwaltung **	Verwaltungsbeamter_isced-f/0415_Sekretariat	0.5
+** öffentliche Verwaltung **	Verwaltungsassistent_isced-f/0415_Sekretariat	0.5
+** Handwerkliche **	Handwerksmeister_isced-f/0700_Techniker und Ingenieure	0.5
+** Handwerkliche **	Betriebshandwerker_isced-f/0700_Techniker und Ingenieure	0.5
+** MTRA **	MATLAB_skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0
+** MTRA **	Radmacher_isced-f/0722_Werkstoffe	0
+** MTRA **	MATLAB_isced-f/0613_Programmierung und Softwareentwicklung	0
+** MTRA **	Agronom_isced-f/0811_Pflanzenproduktion und Tierproduktion	0
+** MTRA **	Agrarwissenschaft_isced-f/0811_Pflanzenproduktion und Tierproduktion	0
+** IT Spektrum **	IKT-Beratung anbieten_skill/T4.2_Unterstützen anderer	0
+** IT Spektrum **	IT-Berater_isced-f/0613_Programmierung und Softwareentwicklung	0
+** IT Spektrum **	IT-Service-Manager_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+** IT Spektrum **	IKT-Systemintegration_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Banking Consultant_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Finanzberater Bank_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Kapitalmarktspezialist_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Privatkundenberater, Bank_isced-f/0412_Finanz und Bank und Versicherung	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	ein virtuelles privates Netz einrichten_skill/S5.2.2_Schützen von IKT-Geräten	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-Netzwerk-Hardware_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+** Gewinnung von Neukunden ** Akquise	Kundenrückmeldungen auswerten_skill/S1.8.5_Befolgen von Anweisungen und Verfahren	0
+** Gewinnung von Neukunden ** Akquise	Interaktion mit Kunden und Kundinnen verbessern_skill/S1.2.3_Aufbau von beruflichen Beziehungen oder Netzwerken	0
+** Gewinnung von Neukunden ** Akquise	Kundenrückmeldungen auswerten_skill/S2.7.4_Analyse von Geschäftstätigkeiten	0
+** Gewinnung von Neukunden ** Akquise	Mitarbeiter motivieren, um Umsatzziele zu erreichen_skill/S4.5.0_Führung und Motivation	0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	MySQL_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	Datenbank-Entwicklungswerkzeuge_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0
+** Lebensmittelverkauf **	Lebensmittellagerung_isced-f/0721_Lebensmittelverarbeitung	0
+** Feuerwehr ** Sanität	Erste Hilfe leisten_skill/S3.2.1_Medizinische, zahnärztliche und pflegerische Versorgung	0
+** Feuerwehr ** Sanität	Erste Hilfe in Notfällen leisten_skill/S3.2.1_Medizinische, zahnärztliche und pflegerische Versorgung	0
+** Feuerwehr ** Sanität	Erste Hilfe in Notfällen leisten_skill/T6.1_Anwenden gesundheitsbezogener Fähigkeiten und Kompetenzen	0
+** Feuerwehr ** Sanität	Bau_skill/S7_	0
+** Feuerwehr ** Sanität	Erste Hilfe leisten_skill/T6.1_Anwenden gesundheitsbezogener Fähigkeiten und Kompetenzen	0
+** Feuerwehr ** Sanität	Bau_skill/S7.0_	0
+** Feuerwehr ** Sanität	Bau_skill/S7.0.0_	0
+** Französisch **	Italienisch_skill/L1_Sprachen	0
+** Französisch **	Englisch_skill/T1.1_Beherrschen von Sprachen	0
+** Französisch **	Italienisch_skill/T1.1_Beherrschen von Sprachen	0
+** Französisch **	Englisch_skill/L1_Sprachen	0
+** Französisch **	Spanisch_skill/L1_Sprachen	0
+** Französisch **	Spanisch_skill/T1.1_Beherrschen von Sprachen	0
+** Sehr gute Kenntnisse in Deutsch und Französisch **	Sprachkenntnisse auffrischen_skill/S1.15.2_Übersetzen und Dolmetschen	0
+** Muttersprache Deutsch **	Sprachlehrer_isced-f/0114_Fachlehrer und Lehrer	0
+** Muttersprache Deutsch **	Fremdsprachen sprechen_skill/S1.15.1_Benutzung von Fremdsprachen	0
+** Muttersprache Deutsch **	Sprachberater_isced-f/0230_Sprachen	0
+** Muttersprache Deutsch **	Sprachschuldirektor_isced-f/0413_Management und Verwaltung	0
+** Englisch (sehr gut in Wort und Schrift) **	gesprochenes Englisch verstehen_skill/L1_Sprachen	1
+** Englisch (sehr gut in Wort und Schrift) **	gesprochenes Englisch verstehen_skill/T1.1_Beherrschen von Sprachen	1
+** Bauingenieurwesen **	Engineering Bau und Planung_isced-f/0731_Architektur und Städteplanung	1
+Financial Consulting ** Bank ** Management	Bankkonten eröffnen_skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.5
+Financial Consulting ** Bank ** Management	Bankkonten eröffnen_skill/S4.4.2_Abwickeln von Finanzgeschäften	0.5
+Financial Consulting ** Bank ** Management	Bankkonten des Unternehmens führen_skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-System verwalten_skill/S5.2.1_Einrichten von Computersystemen	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-System verwalten_skill/S5.0.0_Arbeiten mit Computern	0.5
+Internet Sicherheit Technologien ** VPN ** IP Security	IKT-System verwalten_skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0

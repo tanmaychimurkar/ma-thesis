@@ -1,0 +1,16 @@
+model	mAP_edu	mAP_exp	mAP_lng	mAP	rank_edu	rank_exp	rank_lng	rank_all	** Bauingenieurwesen **	Financial Consulting ** Bank ** Management	** Konstrukteur **	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	** MBA **	** BWL-Studium **	** Biologielaborant/in **	** öffentliche Verwaltung **	** Handwerkliche **	** MTRA **	** IT Spektrum **	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	Internet Sicherheit Technologien ** VPN ** IP Security	** Gewinnung von Neukunden ** Akquise	** Disponent **	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	** Lebensmittelverkauf **	funktionellen Behandlung ** Neurotraining **	** Feuerwehr ** Sanität	** Führungserfahrung **	** Französisch **	** Sehr gute Kenntnisse in Deutsch und Französisch **	** Fremdsprachenkenntnissen **	** Muttersprache Deutsch **	** Englisch (sehr gut in Wort und Schrift) **
+mnr-hardneg-xlm-finetuned-jobads-checkpoint-6450	0.8	0.6	1.0	0.76	1	6	1	1	1.0	1.0	1.0	1.0	0	1.0	1.0	0	1.0	0.0	0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+mnr-hardneg-xlm-default-jobads-checkpoint	0.3	0.7	1.0	0.6	4	1	1	2	1.0	0.0	1.0	0.0	0	0.0	1.0	0	0.0	1.0	0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+xlm_roberta-job_ads_checkpoint	0.4	0.7	0.6	0.56	2	1	6	3	1.0	1.0	0.0	1.0	0	0.0	1.0	0	0.0	1.0	0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0
+xlm_roberta-job_ads_checkpoint-6450	0.4	0.6	0.6	0.52	2	6	6	4	1.0	1.0	0.0	0.0	0	0.0	1.0	0	0.0	1.0	0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	1.0
+mnr-randneg-xlm-finetuned-jobads-checkpoint-6450	0.3	0.7	0.4	0.48	4	1	8	5	1.0	1.0	0.0	0.0	0	0.0	1.0	0	1.0	0.0	0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+mnr-hardneg-xlm-finetuned-600	0.3	0.7	0.4	0.48	4	1	8	5	1.0	1.0	0.0	0.0	0	0.0	1.0	0	1.0	0.0	0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+mnr-randneg-xlm-default-jobads-checkpoint	0.3	0.7	0.4	0.48	4	1	8	5	1.0	1.0	0.0	0.0	0	0.0	1.0	0	1.0	0.0	0	1.0	1.0	1.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0
+mnr-xlm_out-of-box	0.2	0.5	1.0	0.48	11	8	1	5	1.0	0.0	1.0	0.0	0	0.0	1.0	0	0.0	0.0	0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0
+classification-xlm-default-jobads	0.1	0.4	1.0	0.4	13	9	1	9	1.0	0.0	0.0	0.0	0	0.0	0.0	0	0.0	1.0	0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+classification-xlm-job-ads-mlm-6450	0.2	0.3	0.8	0.36	11	10	5	10	1.0	0.0	0.0	1.0	0	0.0	0.0	0	0.0	1.0	0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+xlm-roberta_mlm_description_600	0.3	0.3	0.4	0.32	4	10	8	11	1.0	1.0	0.0	1.0	0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+mnr-randneg-xlm-finetuned-600	0.3	0.3	0.4	0.32	4	10	8	11	1.0	1.0	0.0	1.0	0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+mnr-randneg-xlm_out-of-box	0.3	0.3	0.4	0.32	4	10	8	11	1.0	1.0	0.0	1.0	0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0
+classification-xlm-mlm-600	0.0	0.0	0.4	0.08	14	14	8	14	0.0	0.0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+classification-bert-multilingual-out-of-box	0.0	0.0	0.0	0.0	14	14	15	15	0.0	0.0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

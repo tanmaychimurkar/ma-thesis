@@ -1,0 +1,16 @@
+model	mAP	rank_all	** Second Level Support ** Koordination, Unterstützung von Key Usern	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	** EDV ** DOS, Windows	stationären Langzeitpflegebereich ** Spitex **	Arztsekretärin ** MPA **	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	EDV ** SORBA ** MS-Office	Lohnadministration ** LGAV **	Treuhand ** KV **	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	** DevOps ** Cloud-Konzepten, RESTful APIs	FAGE ** FA SRK **	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung
+mnr-hardneg-xlm-finetuned-jobads-checkpoint-4650	0.784	1	1.0	1.0	1.0	1.0	1.0	1.0	0.25	1.0	1.0	1.0	0.0	0.95	1.0	0.2	0.367
+mnr-hardneg-xlm-finetuned-320	0.656	2	0.5	0.5	1.0	1.0	0.75	0.478	1.0	0.917	0.0	0.0	0.7	1.0	1.0	0.0	1.0
+mnr-randneg-xlm-default-jobads-checkpoint	0.656	2	0.5	0.5	1.0	1.0	0.75	0.478	1.0	0.917	0.0	0.0	0.7	1.0	1.0	0.0	1.0
+mnr-hardneg-xlm-default-jobads-checkpoint	0.63	4	1.0	0.25	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.867	1.0	0.75	0.583
+mnr-xlm_out-of-box	0.618	5	0.25	0.583	1.0	0.478	1.0	0.867	1.0	1.0	0.888	0.0	0.0	1.0	1.0	0.0	0.2
+xlm_roberta-job_ads_checkpoint	0.601	6	0.7	0.0	1.0	0.888	1.0	0.0	0.0	0.888	0.5	0.7	0.0	1.0	1.0	0.333	1.0
+mnr-randneg-xlm-finetuned-jobads-checkpoint-4650	0.592	7	0.0	0.0	1.0	1.0	1.0	0.325	1.0	1.0	0.0	0.0	0.756	1.0	0.804	0.0	1.0
+xlm_roberta-job_ads_checkpoint-4650	0.59	8	0.7	0.0	1.0	0.806	0.833	0.806	0.0	0.2	0.7	1.0	0.0	1.0	0.804	0.0	1.0
+mnr-randneg-xlm-finetuned-320	0.517	9	0.0	0.5	1.0	0.417	0.0	0.0	1.0	0.0	0.333	0.5	1.0	1.0	1.0	0.0	1.0
+mnr-randneg-xlm_out-of-box	0.517	9	0.0	0.5	1.0	0.417	0.0	0.0	1.0	0.0	0.333	0.5	1.0	1.0	1.0	0.0	1.0
+xlm-roberta_mlm_description_320	0.517	9	0.0	0.5	1.0	0.417	0.0	0.0	1.0	0.0	0.333	0.5	1.0	1.0	1.0	0.0	1.0
+classification-xlm-default-jobads	0.468	12	1.0	0.0	1.0	0.806	0.0	0.679	0.45	0.75	0.0	0.2	0.0	0.5	0.804	0.0	0.833
+classification-xlm-job-ads-mlm-4650	0.441	13	1.0	0.0	0.0	1.0	0.0	0.888	0.0	0.804	0.0	0.0	0.0	1.0	0.917	0.0	1.0
+classification-xlm-mlm-320	0.222	14	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.25	0.5	1.0	0.25	0.0	0.333	0.0	0.0
+classification-bert-multilingual-out-of-box	0.144	15	0.0	0.0	0.0	0.0	0.833	1.0	0.0	0.333	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,251 @@
+model	jobadterm	i	result	sim	eval_score	eval_score_rnd_soft	evalscore_rnd_hard	gradSel	firstTerm
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	0	Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.954	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	1	Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.908	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	2	Bau- und Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.906	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	3	Bauweisen_isced-f/0732_Bau und Bauingenieure	0.874	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	4	Bauingenieur_isced-f/0732_Bau und Bauingenieure	0.843	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	5	Baubranche_isced-f/0732_Bau und Bauingenieure	0.835	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	6	Bauingenieur_isced-f/0732_Bau und Bauingenieure	0.827	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	7	Bauingenieur HTL_isced-f/0732_Bau und Bauingenieure	0.798	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	8	Bauprodukte_isced-f/0732_Bau und Bauingenieure	0.782	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Bauingenieurwesen **	9	Baubiologe/Bauökologe_isced-f/0732_Bau und Bauingenieure	0.774	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	0	Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	0.761	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	1	Banking Consultant_isced-f/0412_Finanz und Bank und Versicherung	0.732	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	2	Bankier_isced-f/0413_Management und Verwaltung	0.69	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	3	Banktätigkeiten_isced-f/0412_Finanz und Bank und Versicherung	0.685	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	4	Bankier_isced-f/0413_Management und Verwaltung	0.678	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	5	Bankberater_isced-f/0412_Finanz und Bank und Versicherung	0.659	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	6	Bankfach-Experte_isced-f/0412_Finanz und Bank und Versicherung	0.657	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	7	Bankfach-Experte_isced-f/0412_Finanz und Bank und Versicherung	0.656	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	8	Bankökonom_isced-f/0412_Finanz und Bank und Versicherung	0.652	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Financial Consulting ** Bank ** Management	9	Bankmanager_isced-f/0413_Management und Verwaltung	0.651	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	0	Konstrukteur_isced-f/0700_Techniker und Ingenieure	0.922	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	1	Konstrukteur_isced-f/0700_Techniker und Ingenieure	0.902	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	2	Konstrukteur_isced-f/0715_Mechanik und Metallbearbeitung	0.746	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	3	Konstrukteur/in _isced-f/0715_Mechanik und Metallbearbeitung	0.745	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	4	Konstrukteur/in_isced-f/0715_Mechanik und Metallbearbeitung	0.745	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	5	Konstrukteur_isced-f/0715_Mechanik und Metallbearbeitung	0.745	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	6	Konstrukteur/in - Erweiterte Ansprüche_isced-f/0715_Mechanik und Metallbearbeitung	0.741	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	7	Konstrukteur/in - _isced-f/0715_Mechanik und Metallbearbeitung	0.739	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	8	Entwicklungskonstrukteur_isced-f/0700_Techniker und Ingenieure	0.653	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Konstrukteur **	9	Entwicklungskonstrukteur_isced-f/0700_Techniker und Ingenieure	0.641	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	0	Mathematik_isced-f/0541_	0.805	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	1	Mathematik und Statistik_isced-f/0540_Statistik und Mathematik	0.716	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	2	Mathematik und Statistik_isced-f/054_Statistik und Mathematik	0.716	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	3	Mathematik_skill/T1.2_Arbeiten mit Zahlen und Maßen	0.7	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	4	Mathematik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.681	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	5	Mathematik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.67	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	6	Mathematiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.642	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	7	Geometrie_isced-f/0541_Mathematik	0.637	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	8	Mathematiker_isced-f/0541_Mathematik	0.63	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	9	Mathematiker_isced-f/0541_Mathematik	0.629	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	0	Master of Business Administration, MBA_isced-f/0413_Management und Verwaltung	0.651	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	1	BWL_isced-f/0311_Wirtschaft	0.619	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	2	BWL_isced-f/0311_Wirtschaft	0.612	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	3	Betriebswirtschaft_isced-f/0413_Management und Verwaltung	0.602	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	4	kaufmännisches Fachwissen_isced-f/0413_Management und Verwaltung	0.591	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	5	betriebswirtschaftliche Grundsätze_isced-f/0413_Management und Verwaltung	0.584	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	6	Betriebsökonomie_isced-f/0413_Management und Verwaltung	0.554	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	7	betriebswirtschaftliche Grundsätze_skill/T4.4_Anleiten anderer	0.55	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	8	Betriebsökonom_isced-f/0413_Management und Verwaltung	0.544	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MBA **	9	Betriebsökonom_isced-f/0413_Management und Verwaltung	0.531	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	0	BWL_isced-f/0311_Wirtschaft	0.916	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	1	VWL_isced-f/0311_Wirtschaft	0.759	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	2	BWL_isced-f/0311_Wirtschaft	0.705	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	3	Betriebswirtschaft_isced-f/0413_Management und Verwaltung	0.664	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	4	Wirtschaftswissenschaften_isced-f/0413_Management und Verwaltung	0.645	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	5	kaufmännisches Fachwissen_isced-f/0413_Management und Verwaltung	0.635	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	6	Betriebsökonom, Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.628	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	7	Betriebsinformatik_isced-f/0413_Management und Verwaltung	0.626	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	8	Betriebsökonom, Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.624	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** BWL-Studium **	9	Betriebsökonomie_isced-f/0413_Management und Verwaltung	0.618	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	0	Biologielaborant/in_isced-f/0711_Chemietechnik und ‑verfahren	0.901	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	1	Biologielaborant_isced-f/0711_Chemietechnik und ‑verfahren	0.887	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	2	Biologielaborant_isced-f/0711_Chemietechnik und ‑verfahren	0.887	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	3	Biologietechniker_isced-f/0511_Biologie	0.855	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	4	Biologielaborant/in - Pharmabiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.85	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	5	Biologietechniker_isced-f/0511_Biologie	0.847	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	6	Biologielaborleiter_isced-f/0711_Chemietechnik und ‑verfahren	0.845	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	7	Biologie-Cheflaborant_isced-f/0711_Chemietechnik und ‑verfahren	0.843	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	8	Biologielaborant, Pharmabiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.842	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Biologielaborant/in **	9	Biologielaborant, Pharmabiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.84	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	0	öffentliches Recht_isced-f/0421_Recht	0.746	0.25	0	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	1	öffentliche Dienstleistungskonzession_isced-f/0413_Management und Verwaltung	0.746	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	2	Öffentlicher Verwalter_isced-f/0413_Management und Verwaltung	0.66	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	3	öffentliche Maßnahmen beeinflussen_skill/S1.5.1_Beratung zu Rechts-, Regulierungs- oder Verfahrensfragen	0.645	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	4	Öffentlicher Verwalter_isced-f/0413_Management und Verwaltung	0.634	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	5	Volksgesundheit_isced-f/0912_Medizin	0.609	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	6	Verwaltung im Bildungsbereich_isced-f/0413_Management und Verwaltung	0.59	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	7	Verwaltungsdirektor (öffentlicher Dienst)_isced-f/0413_Management und Verwaltung	0.552	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	8	öffentlichen Personennahverkehr bewerben_skill/T6.3_Anwenden von Bürgerkompetenzen und -fähigkeiten	0.547	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** öffentliche Verwaltung **	9	Wirtschaft und Verwaltung_isced-f/0410_	0.546	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	0	Handwerkzeuge verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.804	0.75	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	1	Handwerkzeuge verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.787	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	2	Handwerkzeuge verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.689	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	3	Handwerkzeuge verwenden_skill/T5.1_Handhaben und Kontrollieren von Objekten und Geräten	0.687	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	4	Handwerk_isced-f/0700_Techniker und Ingenieure	0.68	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	5	Handwerkzeuge verwenden_skill/T5.1_Handhaben und Kontrollieren von Objekten und Geräten	0.668	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	6	Handwerkzeuge verwenden_skill/T5.1_Handhaben und Kontrollieren von Objekten und Geräten	0.642	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	7	Handwerk_isced-f/0700_Techniker und Ingenieure	0.64	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	8	Handwerkzeuge für Forstarbeiten verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.604	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Handwerkliche **	9	Handwerkzeuge in der Kettenfertigung verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.594	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	0	MTRA_isced-f/0914_Medizintechnik und Diagnostik	0.913	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	1	Medizinisch-technischer Radiologieassistent, MTRA_isced-f/0914_Medizintechnik und Diagnostik	0.694	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	2	Medizinisch-technischer Radiologieassistent, MTRA_isced-f/0914_Medizintechnik und Diagnostik	0.685	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	3	Chef MTA_isced-f/0914_Medizintechnik und Diagnostik	0.641	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	4	Radiologie_isced-f/0914_Medizintechnik und Diagnostik	0.624	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	5	Chef MTA_isced-f/0914_Medizintechnik und Diagnostik	0.618	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	6	Radiologieassistent_isced-f/0914_Medizintechnik und Diagnostik	0.617	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	7	Radiologietechnikassistent_isced-f/0914_Medizintechnik und Diagnostik	0.614	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	8	Radiologie_isced-f/0914_Medizintechnik und Diagnostik	0.614	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** MTRA **	9	Radiologieassistent_isced-f/0914_Medizintechnik und Diagnostik	0.614	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	0	Informations- und Kommunikationstechnologien (IKT)_isced-f/0610_Informatik	0.865	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	1	Informations- und Kommunikationstechnologien (IKT)_isced-f/0610_Informatik	0.86	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	2	Arbeiten mit Computern_skill/S5.0.0_Arbeiten mit Computern	0.848	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	3	Arbeiten mit Computern_skill/S5.0.0_Arbeiten mit Computern	0.843	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	4	Computernutzung_isced-f/0611_Softwareanwendung und IT-Nutzung	0.741	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	5	EDV-Kenntnisse besitzen_skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.721	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	6	IKT-System verwalten_skill/S5.0.0_Arbeiten mit Computern	0.702	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	7	Computernutzung_isced-f/0611_Softwareanwendung und IT-Nutzung	0.701	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	8	EDV-Kenntnisse besitzen_skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.684	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** IT Spektrum **	9	Computernutzung_isced-f/0611_Softwareanwendung und IT-Nutzung	0.681	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	0	Moderne Portfolio-Theorie_isced-f/0412_Finanz und Bank und Versicherung	0.685	0.5	1	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	1	Investmentanalyse_isced-f/0412_Finanz und Bank und Versicherung	0.653	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	2	Investmentportfolios überprüfen_skill/S1.5.2_Finanzberatung	0.631	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	3	Vermögenswerte ansetzen und bewerten_skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.622	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	4	Assetmanager_isced-f/0412_Finanz und Bank und Versicherung	0.619	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	5	Investmentportfolios überprüfen_skill/S1.5.2_Finanzberatung	0.609	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	6	Investmentfonds auflegen_skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.603	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	7	Moderne Portfolio-Theorie_isced-f/0412_Finanz und Bank und Versicherung	0.599	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	8	Portfolio Management Assistant_isced-f/0412_Finanz und Bank und Versicherung	0.598	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	9	Investmentportfolio entwickeln_skill/T6.5_Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	0.589	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	0	Werkzeug für Penetrationstests_skill/S5.2.2_Schützen von IKT-Geräten	0.769	0.0	0	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	1	Werkzeug für Penetrationstests_skill/S3.3.6_Schutz von Privatsphäre und personenbezogenen Daten	0.738	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	2	Werkzeug für Penetrationstests_skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.704	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	3	Cybercop_isced-f/1032_Sicherheit und Personenschutz	0.679	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	4	IKT-Geräte schützen_skill/S5.2.2_Schützen von IKT-Geräten	0.679	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	5	Firewall einrichten_skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.677	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	6	IKT-Geräte schützen_skill/S5.2.2_Schützen von IKT-Geräten	0.659	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	7	IKT-Netzwerk-Sicherheitsrisiken_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.655	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	8	Firewall einrichten_skill/S5.2.2_Schützen von IKT-Geräten	0.652	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	Internet Sicherheit Technologien ** VPN ** IP Security	9	Werkzeug für Penetrationstests_skill/S5.2.2_Schützen von IKT-Geräten	0.637	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	0	Akquisiteur_isced-f/0416_Verkauf und Handel	0.609	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	1	Akquisiteur_isced-f/0416_Verkauf und Handel	0.58	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	2	neue Kunden ausfindig machen_skill/S1.2.3_Aufbau von beruflichen Beziehungen oder Netzwerken	0.577	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	3	neue Kunden ausfindig machen_skill/T6.5_Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	0.576	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	4	Verkaufsförderung von Finanzprodukten durchführen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.52	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	5	Marketing per E-Mail durchführen_skill/S1.6.0_Werbung, Verkauf und Kauf	0.515	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	6	Anwerbungsmethoden_isced-f/0414_Marketing und Werbung	0.498	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	7	Verkaufsmotivierung zeigen_skill/T4.4_Anleiten anderer	0.497	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	8	Erster Verkäufer_isced-f/0416_Verkauf und Handel	0.488	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Gewinnung von Neukunden ** Akquise	9	Immobilienpromotor_isced-f/0416_Verkauf und Handel	0.484	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	0	Disponent_isced-f/0413_Management und Verwaltung	0.869	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	1	Disponent_isced-f/0413_Management und Verwaltung	0.843	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	2	Disponent Transport und Logistik_isced-f/1041_Verkehr	0.791	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	3	Disponent Transport und Logistik_isced-f/1041_Verkehr	0.781	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	4	Dispositionsleiter_isced-f/0413_Management und Verwaltung	0.778	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	5	Disponent Schifffahrt_isced-f/1041_Verkehr	0.772	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	6	Dispositionsleiter_isced-f/0413_Management und Verwaltung	0.77	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	7	Disponentgehilfe_isced-f/0413_Management und Verwaltung	0.76	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	8	Disponentgehilfe_isced-f/0413_Management und Verwaltung	0.757	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Disponent **	9	Disponent Schifffahrt_isced-f/1041_Verkehr	0.753	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	0	Computerprogrammierung_isced-f/0613_Programmierung und Softwareentwicklung	0.69	0.0	0	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	1	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.674	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	2	Abfragesprachen_isced-f/0613_Programmierung und Softwareentwicklung	0.669	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	3	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.667	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	4	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.657	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	5	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.639	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	6	SQL_isced-f/0613_Programmierung und Softwareentwicklung	0.639	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	7	PostgreSQL_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.626	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	8	Online Analytical Processing_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.611	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	9	NoSQL_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.606	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	0	Lebensmittelverkäufer_isced-f/0416_Verkauf und Handel	0.838	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	1	Lebensmittelverarbeitung_isced-f/0721_	0.812	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	2	Lebensmittelhändler_isced-f/0416_Verkauf und Handel	0.809	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	3	Lebensmittelverkäufer_isced-f/0416_Verkauf und Handel	0.805	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	4	Lebensmittelhändler_isced-f/0416_Verkauf und Handel	0.802	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	5	Lebensmittel- und Getränkeindustrie_isced-f/0721_Lebensmittelverarbeitung	0.772	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	6	Lebensmittel einkaufen_skill/S1.6.3_Kauf von Waren oder Dienstleistungen	0.748	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	7	Lebensmittelkaufmann_isced-f/0416_Verkauf und Handel	0.744	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	8	Lebensmittel einkaufen_skill/S4.1.3_Entwicklung betrieblicher Strategien und Verfahren	0.731	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Lebensmittelverkauf **	9	Lebensmitteltechnik_isced-f/0721_Lebensmittelverarbeitung	0.722	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	0	Neuropsychiatrie_isced-f/0912_Medizin	0.777	0.5	1	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	1	Neuroophthalmologie_isced-f/0912_Medizin	0.758	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	2	Neurophysiologie_isced-f/0912_Medizin	0.753	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	3	Neuroanatomie_isced-f/0912_Medizin	0.749	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	4	Neuropsychiatrie_isced-f/0912_Medizin	0.748	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	5	Neurologie_isced-f/0912_Medizin	0.726	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	6	Neuropathologie_isced-f/0912_Medizin	0.709	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	7	Neurophysiologie der Tiere_isced-f/0912_Medizin	0.7	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	8	Neuropsychologie_isced-f/0313_Psychologie	0.693	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	funktionellen Behandlung ** Neurotraining **	9	Neuropsychiater_isced-f/0912_Medizin	0.675	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	0	Feuerwehrsoldat_isced-f/1032_Sicherheit und Personenschutz	0.801	0.5	1	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	1	Feuerwehroffizier_isced-f/1032_Sicherheit und Personenschutz	0.791	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	2	Feuerwehroffizier_isced-f/1032_Sicherheit und Personenschutz	0.787	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	3	Feuerwehrmann_isced-f/1032_Sicherheit und Personenschutz	0.774	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	4	Feuerwehrgefreiter_isced-f/1032_Sicherheit und Personenschutz	0.768	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	5	Feuerwehrkommandant_isced-f/1032_Sicherheit und Personenschutz	0.765	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	6	Feuerwehrkommandant_isced-f/1032_Sicherheit und Personenschutz	0.764	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	7	Feuerwehrtechniker_isced-f/1032_Sicherheit und Personenschutz	0.763	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	8	Feuerwehrmann_isced-f/1032_Sicherheit und Personenschutz	0.761	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Feuerwehr ** Sanität	9	Feuerwehrgefreiter_isced-f/1032_Sicherheit und Personenschutz	0.757	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	0	Führungsprinzipien_isced-f/0031_allgemeine Fähigkeiten	0.695	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	1	Managementkompetenzen besitzen_skill/S4.0.0_Managementfähigkeiten	0.66	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	2	Führungsverantwortlicher_isced-f/0413_Management und Verwaltung	0.645	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	3	Managementfähigkeiten_skill/S4_	0.637	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	4	Managementfähigkeiten_skill/S4.0_	0.637	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	5	Managementfähigkeiten_skill/S4.0.0_	0.637	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	6	Führung und Motivation_skill/S4.5.0_	0.626	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	7	Führung und Motivation_skill/S4.5_	0.626	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	8	Führungsexperte_isced-f/0413_Management und Verwaltung	0.624	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Führungserfahrung **	9	Führungsfachmann_isced-f/0413_Management und Verwaltung	0.615	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	0	Französisch_skill/L1_Sprachen	0.96	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	1	Französisch_skill/T1.1_Beherrschen von Sprachen	0.911	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	2	Französisch sprechen_skill/L1_Sprachen	0.883	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	3	geschriebenes Französisch verstehen_skill/L1_Sprachen	0.843	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	4	Französisch sprechen_skill/T1.1_Beherrschen von Sprachen	0.833	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	5	geschriebenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.799	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	6	Französisch schreiben_skill/L1_Sprachen	0.786	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	7	Französisch schreiben_skill/T1.1_Beherrschen von Sprachen	0.767	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	8	Französischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.719	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Französisch **	9	Französischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.692	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	0	gesprochenes Französisch verstehen_skill/L1_Sprachen	0.409	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	1	Französisch_skill/L1_Sprachen	0.393	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	2	gesprochenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.387	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	3	geschriebenes Französisch verstehen_skill/L1_Sprachen	0.387	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	4	geschriebenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.379	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	5	gesprochenes Deutsch verstehen_skill/L1_Sprachen	0.374	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	6	Französisch sprechen_skill/L1_Sprachen	0.372	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	7	Deutsch_skill/L1_Sprachen	0.367	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	8	Sprachliche Fähigkeiten und Kenntnisse_skill/L_	0.362	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Sehr gute Kenntnisse in Deutsch und Französisch **	9	Französisch_skill/T1.1_Beherrschen von Sprachen	0.358	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	0	Fremdsprachen_isced-f/0239_Sprachen	0.936	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	1	Fremdsprachen_isced-f/023_Sprachen	0.936	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	2	Fremdsprachen_isced-f/0230_Sprachen	0.936	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	3	Fremdsprachenerwerb_isced-f/0231_Sprachen	0.915	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	4	Fremdsprachen sprechen_skill/S1.15.1_Benutzung von Fremdsprachen	0.828	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	5	Fremdsprachen für internationale Karrieren_isced-f/0231_Sprachen	0.824	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	6	Fremdsprachenkenntnisse in der Tourismusbranche anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.788	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	7	Fremdsprachenkenntnisse in der Tourismusbranche anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.786	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	8	Fremdsprachen im internationalen Handel anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.783	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Fremdsprachenkenntnissen **	9	Fremdsprachenkenntnisse im Hotel- und Gaststättengewerbe anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.765	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	0	Deutsch_skill/L1_Sprachen	0.547	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	1	Deutsch_skill/T1.1_Beherrschen von Sprachen	0.52	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	2	Deutsch sprechen_skill/L1_Sprachen	0.482	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	3	Innengewinde strehlen_skill/S6.7.2_Formen von Materialien für das Kreieren von Produkten	0.467	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	4	Deutsch sprechen_skill/T1.1_Beherrschen von Sprachen	0.458	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	5	Sprachen_skill/L1_	0.453	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	6	geschriebenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	0.442	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	7	geschriebenes Deutsch verstehen_skill/L1_Sprachen	0.442	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	8	Berberisch_skill/L1_Sprachen	0.435	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Muttersprache Deutsch **	9	Spracherkennung_isced-f/0232_Linguistik	0.424	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	0	Englisch_skill/L1_Sprachen	0.937	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	1	Englisch_skill/T1.1_Beherrschen von Sprachen	0.931	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	2	Englisch sprechen_skill/L1_Sprachen	0.879	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	3	Englisch sprechen_skill/T1.1_Beherrschen von Sprachen	0.846	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	4	Englisch als Fremdsprache unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.819	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	5	Englisch schreiben_skill/L1_Sprachen	0.813	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	6	geschriebenes Englisch verstehen_skill/L1_Sprachen	0.803	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	7	Englisch schreiben_skill/T1.1_Beherrschen von Sprachen	0.802	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	8	geschriebenes Englisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.777	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	** Englisch (sehr gut in Wort und Schrift) **	9	Englischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.777	0.0	0	0	0	0

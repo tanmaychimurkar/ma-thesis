@@ -1,0 +1,15 @@
+model	mAP	rank_all	** Second Level Support ** Koordination, Unterstützung von Key Usern	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	** EDV ** DOS, Windows	stationären Langzeitpflegebereich ** Spitex **	Arztsekretärin ** MPA **	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	EDV ** SORBA ** MS-Office	Lohnadministration ** LGAV **	Treuhand ** KV **	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	** DevOps ** Cloud-Konzepten, RESTful APIs	FAGE ** FA SRK **	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung
+custom_sample-MAPPED2-terms-ontology-mnr-gbert	0.722	9	0.0	0.0	1.0	0.833	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0
+custom_sample-MAPPED2-terms-ontology-mnr-jobGBERT	0.779	4	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.679	1.0	1.0	1.0	1.0	0.0	1.0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-gbert	0.719	10	0.0	0.833	1.0	0.95	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	0.0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-jobGBERT	0.833	3	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.5	1.0	1.0	1.0	1.0	0.0	1.0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	0.904	1	0.561	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-jobGBERT	0.767	6	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.5	1.0
+custom_sample-MAPPED2-terms-ontology-mnr-tsdae-gbert	0.867	2	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0
+custom_sample-MAPPED2-terms-ontology-mnr-tsdae-jobGBERT	0.767	6	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	0.5	1.0
+custom_sample-MAPPED2-terms-ontology-sts-gbert	0.593	13	0.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.888	1.0	0.0	1.0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	0.728	8	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.325	0.917	0.679	1.0	1.0	1.0
+custom_sample-MAPPED2-terms-ontology-sts-tsdae-gbert	0.776	5	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0	0.639	1.0	1.0	1.0
+custom_sample-MAPPED2-terms-ontology-sts-tsdae-jobGBERT	0.641	12	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.622	1.0	1.0	1.0
+custom_sample-MAPPED2-terms-ontology-tsdae-gbert	0.667	11	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0	1.0
+custom_sample-MAPPED2-terms-ontology-tsdae-jobGBERT	0.532	14	0.0	1.0	0.0	0.833	1.0	1.0	0.0	0.143	0.0	0.0	1.0	0.0	1.0	1.0	1.0

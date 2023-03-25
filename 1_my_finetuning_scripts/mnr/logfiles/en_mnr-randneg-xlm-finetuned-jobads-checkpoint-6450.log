@@ -1,0 +1,5 @@
+INFO:[mnr_triplet_loss.py:121] - The following variables have been loaded
+Model Checkpoint Path:/cluster/scratch/yakram/en_models/xlm_roberta-job_ads_checkpoint_mlm_description_correct/checkpoint-6450
+Dataset Path:/cluster/scratch/yakram/sbert-copy/turtle_files/mnr_data/en/skills_labels_triplet_pairs.csv
+ [2023-01-28 21:51:40,848]
+INFO:[mnr_triplet_loss.py:126] - The model is loaded [2023-01-28 21:51:40,848]

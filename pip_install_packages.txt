@@ -1,0 +1,3 @@
+pip install datasets flair krippendorff numpy pandas rdflib sentence_transformers smart_open torch tqdm transformers tensorboard
+
+pip install flair faiss-gpu

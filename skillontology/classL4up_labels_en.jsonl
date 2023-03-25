@@ -1,0 +1,638 @@
+{"label_numeric":"isced-f/0922","label_original":"child care and youth services","hierarchyLevel":4,"label_replaced":"child care and youth services"}
+{"label_numeric":"isced-f/0923","label_original":"social work and counselling","hierarchyLevel":4,"label_replaced":"social work and counselling"}
+{"label_numeric":"isced-f/0519","label_original":"biological and related sciences not elsewhere classified","hierarchyLevel":4,"label_replaced":"biological and related sciences not elsewhere classified"}
+{"label_numeric":"isced-f/0929","label_original":"welfare not elsewhere classified","hierarchyLevel":4,"label_replaced":"welfare not elsewhere classified"}
+{"label_numeric":"isced-f/00","label_original":"generic programmes and qualifications","hierarchyLevel":2,"label_replaced":"generic programmes and qualifications"}
+{"label_numeric":"isced-f/01","label_original":"education","hierarchyLevel":2,"label_replaced":"education"}
+{"label_numeric":"isced-f/02","label_original":"arts and humanities","hierarchyLevel":2,"label_replaced":"arts and humanities"}
+{"label_numeric":"isced-f/03","label_original":"social sciences, journalism and information","hierarchyLevel":2,"label_replaced":"social sciences, journalism and information"}
+{"label_numeric":"isced-f/04","label_original":"business, administration and law","hierarchyLevel":2,"label_replaced":"business, administration and law"}
+{"label_numeric":"isced-f/05","label_original":"natural sciences, mathematics and statistics","hierarchyLevel":2,"label_replaced":"natural sciences, mathematics and statistics"}
+{"label_numeric":"isced-f/06","label_original":"information and communication technologies (icts)","hierarchyLevel":2,"label_replaced":"information and communication technologies (icts)"}
+{"label_numeric":"isced-f/07","label_original":"engineering, manufacturing and construction","hierarchyLevel":2,"label_replaced":"engineering, manufacturing and construction"}
+{"label_numeric":"isced-f/08","label_original":"agriculture, forestry, fisheries and veterinary","hierarchyLevel":2,"label_replaced":"agriculture, forestry, fisheries and veterinary"}
+{"label_numeric":"isced-f/09","label_original":"health and welfare","hierarchyLevel":2,"label_replaced":"health and welfare"}
+{"label_numeric":"isced-f/0110","label_original":"education not further defined","hierarchyLevel":4,"label_replaced":"education not further defined"}
+{"label_numeric":"skill/S8.7.0","label_original":"installing, maintaining and repairing mechanical equipment","hierarchyLevel":4,"label_replaced":"installing, maintaining and repairing mechanical equipment"}
+{"label_numeric":"isced-f/0111","label_original":"education science","hierarchyLevel":4,"label_replaced":"education science"}
+{"label_numeric":"isced-f/0520","label_original":"environment not further defined","hierarchyLevel":4,"label_replaced":"environment not further defined"}
+{"label_numeric":"skill/S8.7.1","label_original":"repairing and installing mechanical equipment","hierarchyLevel":4,"label_replaced":"repairing and installing mechanical equipment"}
+{"label_numeric":"isced-f/0112","label_original":"training for pre-school teachers","hierarchyLevel":4,"label_replaced":"training for pre-school teachers"}
+{"label_numeric":"isced-f/0521","label_original":"environmental sciences","hierarchyLevel":4,"label_replaced":"environmental sciences"}
+{"label_numeric":"skill/S8.7.2","label_original":"maintaining mechanical equipment","hierarchyLevel":4,"label_replaced":"maintaining mechanical equipment"}
+{"label_numeric":"isced-f/0113","label_original":"teacher training without subject specialisation","hierarchyLevel":4,"label_replaced":"teacher training without subject specialisation"}
+{"label_numeric":"isced-f/0522","label_original":"natural environments and wildlife","hierarchyLevel":4,"label_replaced":"natural environments and wildlife"}
+{"label_numeric":"skill/S2.7.0","label_original":"analysing and evaluating information and data","hierarchyLevel":4,"label_replaced":"analysing and evaluating information and data"}
+{"label_numeric":"isced-f/0114","label_original":"teacher training with subject specialisation","hierarchyLevel":4,"label_replaced":"teacher training with subject specialisation"}
+{"label_numeric":"skill/S2.7.1","label_original":"assessing land or real estate","hierarchyLevel":4,"label_replaced":"assessing land or real estate"}
+{"label_numeric":"skill/S2.7.2","label_original":"analysing scientific and medical data","hierarchyLevel":4,"label_replaced":"analysing scientific and medical data"}
+{"label_numeric":"skill/S2.7.3","label_original":"analysing financial and economic data","hierarchyLevel":4,"label_replaced":"analysing financial and economic data"}
+{"label_numeric":"skill/S2.7.4","label_original":"analysing business operations","hierarchyLevel":4,"label_replaced":"analysing business operations"}
+{"label_numeric":"skill/S2.7.5","label_original":"performing risk analysis and management","hierarchyLevel":4,"label_replaced":"performing risk analysis and management"}
+{"label_numeric":"isced-f/0119","label_original":"education not elsewhere classified","hierarchyLevel":4,"label_replaced":"education not elsewhere classified"}
+{"label_numeric":"skill/S2.7.6","label_original":"evaluating systems, programmes, equipment and products","hierarchyLevel":4,"label_replaced":"evaluating systems, programmes, equipment and products"}
+{"label_numeric":"isced-f/0529","label_original":"environment not elsewhere classified","hierarchyLevel":4,"label_replaced":"environment not elsewhere classified"}
+{"label_numeric":"skill/S5.5.0","label_original":"accessing and analysing digital data","hierarchyLevel":4,"label_replaced":"accessing and analysing digital data"}
+{"label_numeric":"skill/S5.5.1","label_original":"browsing, searching and filtering digital data","hierarchyLevel":4,"label_replaced":"browsing, searching and filtering digital data"}
+{"label_numeric":"isced-f/10","label_original":"services","hierarchyLevel":2,"label_replaced":"services"}
+{"label_numeric":"skill/S5.5.2","label_original":"managing and analysing digital data","hierarchyLevel":4,"label_replaced":"managing and analysing digital data"}
+{"label_numeric":"skill/S8.3.0","label_original":"operating watercraft","hierarchyLevel":4,"label_replaced":"operating watercraft"}
+{"label_numeric":"isced-f/0530","label_original":"physical sciences not further defined","hierarchyLevel":4,"label_replaced":"physical sciences not further defined"}
+{"label_numeric":"skill/S2.3.0","label_original":"managing information","hierarchyLevel":4,"label_replaced":"managing information"}
+{"label_numeric":"isced-f/0531","label_original":"chemistry","hierarchyLevel":4,"label_replaced":"chemistry"}
+{"label_numeric":"isced-f/0532","label_original":"earth sciences","hierarchyLevel":4,"label_replaced":"earth sciences"}
+{"label_numeric":"isced-f/0533","label_original":"physics","hierarchyLevel":4,"label_replaced":"physics"}
+{"label_numeric":"isced-f/0539","label_original":"physical sciences not elsewhere classified","hierarchyLevel":4,"label_replaced":"physical sciences not elsewhere classified"}
+{"label_numeric":"skill/S5.1.0","label_original":"programming computer systems","hierarchyLevel":4,"label_replaced":"programming computer systems"}
+{"label_numeric":"isced-f/0540","label_original":"mathematics and statistics not further defined","hierarchyLevel":4,"label_replaced":"mathematics and statistics not further defined"}
+{"label_numeric":"isced-f/0541","label_original":"mathematics","hierarchyLevel":4,"label_replaced":"mathematics"}
+{"label_numeric":"isced-f/0542","label_original":"statistics","hierarchyLevel":4,"label_replaced":"statistics"}
+{"label_numeric":"skill/S3.6.0","label_original":"providing personal care","hierarchyLevel":4,"label_replaced":"providing personal care"}
+{"label_numeric":"skill/S3.6.1","label_original":"assisting people with mobility","hierarchyLevel":4,"label_replaced":"assisting people with mobility"}
+{"label_numeric":"skill/S3.6.2","label_original":"assisting with personal needs","hierarchyLevel":4,"label_replaced":"assisting with personal needs"}
+{"label_numeric":"skill/S3.6.3","label_original":"caring for children","hierarchyLevel":4,"label_replaced":"caring for children"}
+{"label_numeric":"skill/S3.6.4","label_original":"styling hair and providing beauty treatments","hierarchyLevel":4,"label_replaced":"styling hair and providing beauty treatments"}
+{"label_numeric":"skill/S1.13.0","label_original":"writing and composing","hierarchyLevel":5,"label_replaced":"writing and composing"}
+{"label_numeric":"skill/S1.13.1","label_original":"composing music","hierarchyLevel":5,"label_replaced":"composing music"}
+{"label_numeric":"skill/S1.13.2","label_original":"artistic and creative writing","hierarchyLevel":5,"label_replaced":"artistic and creative writing"}
+{"label_numeric":"skill/S1.13.3","label_original":"technical or academic writing","hierarchyLevel":5,"label_replaced":"technical or academic writing"}
+{"label_numeric":"skill/S8.0","label_original":"working with machinery and specialised equipment","hierarchyLevel":3,"label_replaced":"working with machinery and specialised equipment"}
+{"label_numeric":"skill/S8.1","label_original":"operating mobile plant","hierarchyLevel":3,"label_replaced":"operating mobile plant"}
+{"label_numeric":"skill/S8.2","label_original":"driving vehicles","hierarchyLevel":3,"label_replaced":"driving vehicles"}
+{"label_numeric":"skill/S8.3","label_original":"operating watercraft","hierarchyLevel":3,"label_replaced":"operating watercraft"}
+{"label_numeric":"skill/S8.4","label_original":"operating machinery for the extraction and processing of raw materials","hierarchyLevel":3,"label_replaced":"operating machinery for the extraction and processing of raw materials"}
+{"label_numeric":"skill/S3.2.0","label_original":"providing health care or medical treatments","hierarchyLevel":4,"label_replaced":"providing health care or medical treatments"}
+{"label_numeric":"skill/S8.5","label_original":"operating machinery for the manufacture of products","hierarchyLevel":3,"label_replaced":"operating machinery for the manufacture of products"}
+{"label_numeric":"skill/S3.2.1","label_original":"providing medical, dental and nursing care","hierarchyLevel":4,"label_replaced":"providing medical, dental and nursing care"}
+{"label_numeric":"skill/S8.6","label_original":"using precision instrumentation and equipment","hierarchyLevel":3,"label_replaced":"using precision instrumentation and equipment"}
+{"label_numeric":"skill/S3.2.2","label_original":"performing surgical procedures","hierarchyLevel":4,"label_replaced":"performing surgical procedures"}
+{"label_numeric":"skill/S8.7","label_original":"installing, maintaining and repairing mechanical equipment","hierarchyLevel":3,"label_replaced":"installing, maintaining and repairing mechanical equipment"}
+{"label_numeric":"skill/S3.2.3","label_original":"providing physical therapies","hierarchyLevel":4,"label_replaced":"providing physical therapies"}
+{"label_numeric":"skill/S8.8","label_original":"installing, maintaining and repairing electrical, electronic and precision equipment","hierarchyLevel":3,"label_replaced":"installing, maintaining and repairing electrical, electronic and precision equipment"}
+{"label_numeric":"skill/S3.2.4","label_original":"providing psychological and occupational therapies","hierarchyLevel":4,"label_replaced":"providing psychological and occupational therapies"}
+{"label_numeric":"skill/S8.9","label_original":"operating aircraft","hierarchyLevel":3,"label_replaced":"operating aircraft"}
+{"label_numeric":"skill/S3.2.5","label_original":"prescribing and ordering medical tests, treatments or devices","hierarchyLevel":4,"label_replaced":"prescribing and ordering medical tests, treatments or devices"}
+{"label_numeric":"skill/S3.2.6","label_original":"fitting assistive devices","hierarchyLevel":4,"label_replaced":"fitting assistive devices"}
+{"label_numeric":"skill/S4.0","label_original":"management skills","hierarchyLevel":3,"label_replaced":"management skills"}
+{"label_numeric":"skill/S4.1","label_original":"developing objectives and strategies","hierarchyLevel":3,"label_replaced":"developing objectives and strategies"}
+{"label_numeric":"skill/S4.2","label_original":"organising, planning and scheduling work and activities","hierarchyLevel":3,"label_replaced":"organising, planning and scheduling work and activities"}
+{"label_numeric":"skill/S4.3","label_original":"allocating and controlling resources","hierarchyLevel":3,"label_replaced":"allocating and controlling resources"}
+{"label_numeric":"skill/S4.4","label_original":"performing administrative activities","hierarchyLevel":3,"label_replaced":"performing administrative activities"}
+{"label_numeric":"skill/S4.5","label_original":"leading and motivating","hierarchyLevel":3,"label_replaced":"leading and motivating"}
+{"label_numeric":"skill/S4.6","label_original":"building and developing teams","hierarchyLevel":3,"label_replaced":"building and developing teams"}
+{"label_numeric":"skill/S4.7","label_original":"recruiting and hiring","hierarchyLevel":3,"label_replaced":"recruiting and hiring"}
+{"label_numeric":"skill/S4.8","label_original":"supervising people","hierarchyLevel":3,"label_replaced":"supervising people"}
+{"label_numeric":"skill/S4.9","label_original":"making decisions","hierarchyLevel":3,"label_replaced":"making decisions"}
+{"label_numeric":"skill/S6.6.0","label_original":"making moulds, casts, models and patterns","hierarchyLevel":4,"label_replaced":"making moulds, casts, models and patterns"}
+{"label_numeric":"skill/S6.6.1","label_original":"making production moulds and casts","hierarchyLevel":4,"label_replaced":"making production moulds and casts"}
+{"label_numeric":"skill/S6.6.2","label_original":"making patterns and templates","hierarchyLevel":4,"label_replaced":"making patterns and templates"}
+{"label_numeric":"skill/S6.6.3","label_original":"making models","hierarchyLevel":4,"label_replaced":"making models"}
+{"label_numeric":"skill/K","label_original":"knowledge","hierarchyLevel":1,"label_replaced":"knowledge"}
+{"label_numeric":"skill/L","label_original":"language skills and knowledge","hierarchyLevel":1,"label_replaced":"language skills and knowledge"}
+{"label_numeric":"skill/S6.12.0","label_original":"washing and maintaining textiles and clothing","hierarchyLevel":5,"label_replaced":"washing and maintaining textiles and clothing"}
+{"label_numeric":"skill/S","label_original":"skills","hierarchyLevel":1,"label_replaced":"skills"}
+{"label_numeric":"skill/T","label_original":"transversal skills and competences","hierarchyLevel":1,"label_replaced":"transversal skills and competences"}
+{"label_numeric":"isced-f/0988","label_original":"inter-disciplinary programmes and qualifications involving health and welfare","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving health and welfare"}
+{"label_numeric":"skill/S6.2.0","label_original":"moving and lifting","hierarchyLevel":4,"label_replaced":"moving and lifting"}
+{"label_numeric":"skill/S6.2.1","label_original":"loading and unloading goods and, materials","hierarchyLevel":4,"label_replaced":"loading and unloading goods and, materials"}
+{"label_numeric":"skill/S6.2.2","label_original":"moving or lifting materials, equipment, or supplies","hierarchyLevel":4,"label_replaced":"moving or lifting materials, equipment, or supplies"}
+{"label_numeric":"skill/S6.2.3","label_original":"storing goods and materials","hierarchyLevel":4,"label_replaced":"storing goods and materials"}
+{"label_numeric":"skill/S6.2.4","label_original":"climbing","hierarchyLevel":4,"label_replaced":"climbing"}
+{"label_numeric":"skill/S1.9.0","label_original":"solving problems","hierarchyLevel":4,"label_replaced":"solving problems"}
+{"label_numeric":"skill/S1.9.1","label_original":"developing solutions","hierarchyLevel":4,"label_replaced":"developing solutions"}
+{"label_numeric":"skill/S1.9.2","label_original":"implementing new procedures or processes","hierarchyLevel":4,"label_replaced":"implementing new procedures or processes"}
+{"label_numeric":"isced-f/0588","label_original":"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics"}
+{"label_numeric":"skill/S4.7.0","label_original":"recruiting and hiring","hierarchyLevel":4,"label_replaced":"recruiting and hiring"}
+{"label_numeric":"isced-f/0999","label_original":"health and welfare not elsewhere classified","hierarchyLevel":4,"label_replaced":"health and welfare not elsewhere classified"}
+{"label_numeric":"skill/S1.5.0","label_original":"advising and consulting","hierarchyLevel":4,"label_replaced":"advising and consulting"}
+{"label_numeric":"skill/S1.5.1","label_original":"advising on legal, regulatory or procedural matters","hierarchyLevel":4,"label_replaced":"advising on legal, regulatory or procedural matters"}
+{"label_numeric":"skill/S1.5.2","label_original":"providing financial advice","hierarchyLevel":4,"label_replaced":"providing financial advice"}
+{"label_numeric":"skill/S1.5.3","label_original":"advising on products and services","hierarchyLevel":4,"label_replaced":"advising on products and services"}
+{"label_numeric":"skill/S1.5.4","label_original":"providing medical advice","hierarchyLevel":4,"label_replaced":"providing medical advice"}
+{"label_numeric":"skill/S1.5.5","label_original":"advising on environmental issues","hierarchyLevel":4,"label_replaced":"advising on environmental issues"}
+{"label_numeric":"skill/S1.5.6","label_original":"advising on design or use of technologies","hierarchyLevel":4,"label_replaced":"advising on design or use of technologies"}
+{"label_numeric":"skill/S1.5.7","label_original":"advising on business or operational matters","hierarchyLevel":4,"label_replaced":"advising on business or operational matters"}
+{"label_numeric":"skill/S1.5.8","label_original":"advising on educational or vocational matters","hierarchyLevel":4,"label_replaced":"advising on educational or vocational matters"}
+{"label_numeric":"skill/S1.5.9","label_original":"advising on workplace health and safety issues","hierarchyLevel":4,"label_replaced":"advising on workplace health and safety issues"}
+{"label_numeric":"skill/T4.1","label_original":"communicating","hierarchyLevel":3,"label_replaced":"communicating"}
+{"label_numeric":"skill/T4.2","label_original":"supporting others","hierarchyLevel":3,"label_replaced":"supporting others"}
+{"label_numeric":"skill/T4.3","label_original":"collaborating in teams and networks","hierarchyLevel":3,"label_replaced":"collaborating in teams and networks"}
+{"label_numeric":"isced-f/0188","label_original":"inter-disciplinary programmes and qualifications involving education","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving education"}
+{"label_numeric":"skill/S4.3.0","label_original":"allocating and controlling resources","hierarchyLevel":4,"label_replaced":"allocating and controlling resources"}
+{"label_numeric":"skill/T4.4","label_original":"leading others","hierarchyLevel":3,"label_replaced":"leading others"}
+{"label_numeric":"skill/S4.3.1","label_original":"managing budgets or finances","hierarchyLevel":4,"label_replaced":"managing budgets or finances"}
+{"label_numeric":"skill/T4.5","label_original":"following ethical code of conduct","hierarchyLevel":3,"label_replaced":"following ethical code of conduct"}
+{"label_numeric":"skill/S4.3.2","label_original":"managing human resources","hierarchyLevel":4,"label_replaced":"managing human resources"}
+{"label_numeric":"isced-f/0599","label_original":"natural sciences, mathematics and statistics not elsewhere classified","hierarchyLevel":4,"label_replaced":"natural sciences, mathematics and statistics not elsewhere classified"}
+{"label_numeric":"skill/S4.3.3","label_original":"allocating and controlling physical resources","hierarchyLevel":4,"label_replaced":"allocating and controlling physical resources"}
+{"label_numeric":"skill/S7.1.0","label_original":"building and repairing structures","hierarchyLevel":4,"label_replaced":"building and repairing structures"}
+{"label_numeric":"skill/S7.1.1","label_original":"installing structural masonry materials","hierarchyLevel":4,"label_replaced":"installing structural masonry materials"}
+{"label_numeric":"isced-f/0800","label_original":"agriculture, forestry, fisheries and veterinary not further defined","hierarchyLevel":4,"label_replaced":"agriculture, forestry, fisheries and veterinary not further defined"}
+{"label_numeric":"skill/S7.1.2","label_original":"installing metal structural components","hierarchyLevel":4,"label_replaced":"installing metal structural components"}
+{"label_numeric":"skill/S7.1.3","label_original":"installing wooden structural components","hierarchyLevel":4,"label_replaced":"installing wooden structural components"}
+{"label_numeric":"skill/S1.1.0","label_original":"negotiating","hierarchyLevel":4,"label_replaced":"negotiating"}
+{"label_numeric":"skill/S7.1.4","label_original":"installing concrete components","hierarchyLevel":4,"label_replaced":"installing concrete components"}
+{"label_numeric":"skill/S1.1.1","label_original":"negotiating and managing contracts and agreements","hierarchyLevel":4,"label_replaced":"negotiating and managing contracts and agreements"}
+{"label_numeric":"skill/S7.1.5","label_original":"installing roofing","hierarchyLevel":4,"label_replaced":"installing roofing"}
+{"label_numeric":"skill/S1.1.2","label_original":"mediating and resolving disputes","hierarchyLevel":4,"label_replaced":"mediating and resolving disputes"}
+{"label_numeric":"skill/S7.1.6","label_original":"joining parts using soldering, welding or brazing techniques","hierarchyLevel":4,"label_replaced":"joining parts using soldering, welding or brazing techniques"}
+{"label_numeric":"skill/S1.1.3","label_original":"responding to complaints","hierarchyLevel":4,"label_replaced":"responding to complaints"}
+{"label_numeric":"skill/S7.1.7","label_original":"installing and assembling building fixtures","hierarchyLevel":4,"label_replaced":"installing and assembling building fixtures"}
+{"label_numeric":"skill/S7.1.8","label_original":"installing and assembling rigging equipment","hierarchyLevel":4,"label_replaced":"installing and assembling rigging equipment"}
+{"label_numeric":"isced-f/0400","label_original":"business, administration and law not further defined","hierarchyLevel":4,"label_replaced":"business, administration and law not further defined"}
+{"label_numeric":"isced-f/0810","label_original":"agriculture not further defined","hierarchyLevel":4,"label_replaced":"agriculture not further defined"}
+{"label_numeric":"isced-f/0811","label_original":"crop and livestock production","hierarchyLevel":4,"label_replaced":"crop and livestock production"}
+{"label_numeric":"isced-f/0812","label_original":"horticulture","hierarchyLevel":4,"label_replaced":"horticulture"}
+{"label_numeric":"isced-f/99","label_original":"field unknown","hierarchyLevel":2,"label_replaced":"field unknown"}
+{"label_numeric":"isced-f/0819","label_original":"agriculture not elsewhere classified","hierarchyLevel":4,"label_replaced":"agriculture not elsewhere classified"}
+{"label_numeric":"isced-f/0000","label_original":"generic programmes and qualifications not further defined","hierarchyLevel":4,"label_replaced":"generic programmes and qualifications not further defined"}
+{"label_numeric":"isced-f/0410","label_original":"business and administration not further defined","hierarchyLevel":4,"label_replaced":"business and administration not further defined"}
+{"label_numeric":"isced-f/0411","label_original":"accounting and taxation","hierarchyLevel":4,"label_replaced":"accounting and taxation"}
+{"label_numeric":"isced-f/0412","label_original":"finance, banking and insurance","hierarchyLevel":4,"label_replaced":"finance, banking and insurance"}
+{"label_numeric":"isced-f/0821","label_original":"forestry","hierarchyLevel":4,"label_replaced":"forestry"}
+{"label_numeric":"isced-f/0413","label_original":"management and administration","hierarchyLevel":4,"label_replaced":"management and administration"}
+{"label_numeric":"isced-f/0414","label_original":"marketing and advertising","hierarchyLevel":4,"label_replaced":"marketing and advertising"}
+{"label_numeric":"isced-f/0415","label_original":"secretarial and office work","hierarchyLevel":4,"label_replaced":"secretarial and office work"}
+{"label_numeric":"isced-f/0416","label_original":"wholesale and retail sales","hierarchyLevel":4,"label_replaced":"wholesale and retail sales"}
+{"label_numeric":"isced-f/0417","label_original":"work skills","hierarchyLevel":4,"label_replaced":"work skills"}
+{"label_numeric":"isced-f/0419","label_original":"business and administration not elsewhere classified","hierarchyLevel":4,"label_replaced":"business and administration not elsewhere classified"}
+{"label_numeric":"skill/S8.6.0","label_original":"using precision instrumentation and equipment","hierarchyLevel":4,"label_replaced":"using precision instrumentation and equipment"}
+{"label_numeric":"isced-f/0011","label_original":"basic programmes and qualifications","hierarchyLevel":4,"label_replaced":"basic programmes and qualifications"}
+{"label_numeric":"skill/S8.6.1","label_original":"operating medical equipment","hierarchyLevel":4,"label_replaced":"operating medical equipment"}
+{"label_numeric":"isced-f/0421","label_original":"law","hierarchyLevel":4,"label_replaced":"law"}
+{"label_numeric":"skill/S8.6.2","label_original":"operating audio-visual equipment","hierarchyLevel":4,"label_replaced":"operating audio-visual equipment"}
+{"label_numeric":"skill/S8.6.3","label_original":"operating scientific and laboratory equipment","hierarchyLevel":4,"label_replaced":"operating scientific and laboratory equipment"}
+{"label_numeric":"skill/S2.6.0","label_original":"calculating and estimating","hierarchyLevel":4,"label_replaced":"calculating and estimating"}
+{"label_numeric":"isced-f/0831","label_original":"fisheries","hierarchyLevel":4,"label_replaced":"fisheries"}
+{"label_numeric":"skill/S8.6.4","label_original":"operating communications equipment","hierarchyLevel":4,"label_replaced":"operating communications equipment"}
+{"label_numeric":"skill/S2.6.1","label_original":"performing calculations","hierarchyLevel":4,"label_replaced":"performing calculations"}
+{"label_numeric":"skill/S8.6.5","label_original":"operating precision industrial equipment","hierarchyLevel":4,"label_replaced":"operating precision industrial equipment"}
+{"label_numeric":"skill/S2.6.2","label_original":"determining values of goods or services","hierarchyLevel":4,"label_replaced":"determining values of goods or services"}
+{"label_numeric":"skill/S8.6.6","label_original":"using precision measuring equipment","hierarchyLevel":4,"label_replaced":"using precision measuring equipment"}
+{"label_numeric":"skill/S2.6.3","label_original":"estimating resource needs","hierarchyLevel":4,"label_replaced":"estimating resource needs"}
+{"label_numeric":"skill/L1","label_original":"languages","hierarchyLevel":2,"label_replaced":"languages"}
+{"label_numeric":"skill/L2","label_original":"classical languages","hierarchyLevel":2,"label_replaced":"classical languages"}
+{"label_numeric":"skill/S8.2.0","label_original":"driving vehicles","hierarchyLevel":4,"label_replaced":"driving vehicles"}
+{"label_numeric":"skill/S8.2.1","label_original":"driving heavy vehicles","hierarchyLevel":4,"label_replaced":"driving heavy vehicles"}
+{"label_numeric":"isced-f/0021","label_original":"literacy and numeracy","hierarchyLevel":4,"label_replaced":"literacy and numeracy"}
+{"label_numeric":"skill/S8.2.2","label_original":"driving light vehicles","hierarchyLevel":4,"label_replaced":"driving light vehicles"}
+{"label_numeric":"skill/S8.2.3","label_original":"operating rail vehicles","hierarchyLevel":4,"label_replaced":"operating rail vehicles"}
+{"label_numeric":"skill/S2.2.0","label_original":"documenting and recording information","hierarchyLevel":4,"label_replaced":"documenting and recording information"}
+{"label_numeric":"skill/S2.2.1","label_original":"preparing financial documents, records, reports, or budgets","hierarchyLevel":4,"label_replaced":"preparing financial documents, records, reports, or budgets"}
+{"label_numeric":"isced-f/0841","label_original":"veterinary","hierarchyLevel":4,"label_replaced":"veterinary"}
+{"label_numeric":"skill/S2.2.2","label_original":"recording legal information","hierarchyLevel":4,"label_replaced":"recording legal information"}
+{"label_numeric":"skill/S2.2.3","label_original":"preparing documentation for contracts, applications, or permits","hierarchyLevel":4,"label_replaced":"preparing documentation for contracts, applications, or permits"}
+{"label_numeric":"skill/S2.2.4","label_original":"maintaining or preparing medical documentation","hierarchyLevel":4,"label_replaced":"maintaining or preparing medical documentation"}
+{"label_numeric":"skill/S2.2.5","label_original":"maintaining operational records","hierarchyLevel":4,"label_replaced":"maintaining operational records"}
+{"label_numeric":"skill/S2.2.6","label_original":"documenting technical designs, procedures, problems or activities","hierarchyLevel":4,"label_replaced":"documenting technical designs, procedures, problems or activities"}
+{"label_numeric":"skill/S2.2.7","label_original":"reporting incidents and defects","hierarchyLevel":4,"label_replaced":"reporting incidents and defects"}
+{"label_numeric":"skill/S5.0.0","label_original":"working with computers","hierarchyLevel":4,"label_replaced":"working with computers"}
+{"label_numeric":"isced-f/1000","label_original":"services not further defined","hierarchyLevel":4,"label_replaced":"services not further defined"}
+{"label_numeric":"isced-f/0031","label_original":"personal skills and development","hierarchyLevel":4,"label_replaced":"personal skills and development"}
+{"label_numeric":"skill/S3.5.0","label_original":"preparing and serving food and drinks","hierarchyLevel":4,"label_replaced":"preparing and serving food and drinks"}
+{"label_numeric":"skill/S3.5.1","label_original":"preparing food and drinks","hierarchyLevel":4,"label_replaced":"preparing food and drinks"}
+{"label_numeric":"skill/S3.5.2","label_original":"serving food and drinks","hierarchyLevel":4,"label_replaced":"serving food and drinks"}
+{"label_numeric":"skill/S1.12.0","label_original":"creating artistic, visual or instructive materials","hierarchyLevel":5,"label_replaced":"creating artistic, visual or instructive materials"}
+{"label_numeric":"isced-f/1010","label_original":"personal services not further defined","hierarchyLevel":4,"label_replaced":"personal services not further defined"}
+{"label_numeric":"skill/S1.12.1","label_original":"creating visual displays and decorations","hierarchyLevel":5,"label_replaced":"creating visual displays and decorations"}
+{"label_numeric":"isced-f/1011","label_original":"domestic services","hierarchyLevel":4,"label_replaced":"domestic services"}
+{"label_numeric":"skill/S1.12.2","label_original":"developing instructive or promotional materials","hierarchyLevel":5,"label_replaced":"developing instructive or promotional materials"}
+{"label_numeric":"isced-f/1012","label_original":"hair and beauty services","hierarchyLevel":4,"label_replaced":"hair and beauty services"}
+{"label_numeric":"skill/S1.12.3","label_original":"creating artistic designs or performances","hierarchyLevel":5,"label_replaced":"creating artistic designs or performances"}
+{"label_numeric":"isced-f/1013","label_original":"hotel, restaurants and catering","hierarchyLevel":4,"label_replaced":"hotel, restaurants and catering"}
+{"label_numeric":"isced-f/1014","label_original":"sports","hierarchyLevel":4,"label_replaced":"sports"}
+{"label_numeric":"skill/S7.0","label_original":"constructing","hierarchyLevel":3,"label_replaced":"constructing"}
+{"label_numeric":"isced-f/1015","label_original":"travel, tourism and leisure","hierarchyLevel":4,"label_replaced":"travel, tourism and leisure"}
+{"label_numeric":"skill/S7.1","label_original":"building and repairing structures","hierarchyLevel":3,"label_replaced":"building and repairing structures"}
+{"label_numeric":"skill/S7.2","label_original":"installing interior or exterior infrastructure","hierarchyLevel":3,"label_replaced":"installing interior or exterior infrastructure"}
+{"label_numeric":"skill/S7.3","label_original":"finishing interior or exterior of structures","hierarchyLevel":3,"label_replaced":"finishing interior or exterior of structures"}
+{"label_numeric":"isced-f/1019","label_original":"personal services not elsewhere classified","hierarchyLevel":4,"label_replaced":"personal services not elsewhere classified"}
+{"label_numeric":"skill/S3.1.0","label_original":"counselling","hierarchyLevel":4,"label_replaced":"counselling"}
+{"label_numeric":"skill/S3.1.1","label_original":"counselling on personal, family or social issues","hierarchyLevel":4,"label_replaced":"counselling on personal, family or social issues"}
+{"label_numeric":"skill/S3.1.2","label_original":"providing support to resolve problems","hierarchyLevel":4,"label_replaced":"providing support to resolve problems"}
+{"label_numeric":"skill/S3.1.3","label_original":"assisting people to access services","hierarchyLevel":4,"label_replaced":"assisting people to access services"}
+{"label_numeric":"skill/S6.9.0","label_original":"handling animals","hierarchyLevel":4,"label_replaced":"handling animals"}
+{"label_numeric":"skill/S6.9.1","label_original":"tending and breeding animals","hierarchyLevel":4,"label_replaced":"tending and breeding animals"}
+{"label_numeric":"skill/S6.9.2","label_original":"tending and breeding aquatic animals","hierarchyLevel":4,"label_replaced":"tending and breeding aquatic animals"}
+{"label_numeric":"skill/S6.9.3","label_original":"moving and herding animals","hierarchyLevel":4,"label_replaced":"moving and herding animals"}
+{"label_numeric":"skill/S6.9.4","label_original":"hunting, trapping and slaughtering animals","hierarchyLevel":4,"label_replaced":"hunting, trapping and slaughtering animals"}
+{"label_numeric":"skill/S6.9.5","label_original":"feeding and grooming animals","hierarchyLevel":4,"label_replaced":"feeding and grooming animals"}
+{"label_numeric":"skill/S6.9.6","label_original":"training animals","hierarchyLevel":4,"label_replaced":"training animals"}
+{"label_numeric":"skill/S6.9.7","label_original":"providing therapy or veterinary treatment for animals","hierarchyLevel":4,"label_replaced":"providing therapy or veterinary treatment for animals"}
+{"label_numeric":"isced-f/1020","label_original":"hygiene and occupational health services not further defined","hierarchyLevel":4,"label_replaced":"hygiene and occupational health services not further defined"}
+{"label_numeric":"isced-f/1021","label_original":"community sanitation","hierarchyLevel":4,"label_replaced":"community sanitation"}
+{"label_numeric":"isced-f/1022","label_original":"occupational health and safety","hierarchyLevel":4,"label_replaced":"occupational health and safety"}
+{"label_numeric":"skill/S3.0","label_original":"assisting and caring","hierarchyLevel":3,"label_replaced":"assisting and caring"}
+{"label_numeric":"skill/S3.1","label_original":"counselling","hierarchyLevel":3,"label_replaced":"counselling"}
+{"label_numeric":"skill/S3.2","label_original":"providing health care or medical treatments","hierarchyLevel":3,"label_replaced":"providing health care or medical treatments"}
+{"label_numeric":"skill/S3.3","label_original":"protecting and enforcing","hierarchyLevel":3,"label_replaced":"protecting and enforcing"}
+{"label_numeric":"skill/S3.4","label_original":"providing information and support to the public and clients","hierarchyLevel":3,"label_replaced":"providing information and support to the public and clients"}
+{"label_numeric":"skill/S3.5","label_original":"preparing and serving food and drinks","hierarchyLevel":3,"label_replaced":"preparing and serving food and drinks"}
+{"label_numeric":"isced-f/1029","label_original":"hygiene and occupational health services not elsewhere classified","hierarchyLevel":4,"label_replaced":"hygiene and occupational health services not elsewhere classified"}
+{"label_numeric":"skill/S3.6","label_original":"providing general personal care","hierarchyLevel":3,"label_replaced":"providing general personal care"}
+{"label_numeric":"skill/S6.5.0","label_original":"assembling and fabricating products","hierarchyLevel":4,"label_replaced":"assembling and fabricating products"}
+{"label_numeric":"skill/S6.5.1","label_original":"fabricating precision instruments or jewellery","hierarchyLevel":4,"label_replaced":"fabricating precision instruments or jewellery"}
+{"label_numeric":"skill/S6.5.2","label_original":"fabricating medical and prosthetic devices","hierarchyLevel":4,"label_replaced":"fabricating medical and prosthetic devices"}
+{"label_numeric":"skill/S6.5.3","label_original":"assembling electrical and electronic products","hierarchyLevel":4,"label_replaced":"assembling electrical and electronic products"}
+{"label_numeric":"skill/S6.5.4","label_original":"assembling mechanical products","hierarchyLevel":4,"label_replaced":"assembling mechanical products"}
+{"label_numeric":"skill/S6.5.5","label_original":"assembling furniture","hierarchyLevel":4,"label_replaced":"assembling furniture"}
+{"label_numeric":"skill/S6.5.6","label_original":"fabricating garments and textile products","hierarchyLevel":4,"label_replaced":"fabricating garments and textile products"}
+{"label_numeric":"skill/S6.5.7","label_original":"fabricating food and related products","hierarchyLevel":4,"label_replaced":"fabricating food and related products"}
+{"label_numeric":"skill/S6.5.8","label_original":"fabricating tobacco products","hierarchyLevel":4,"label_replaced":"fabricating tobacco products"}
+{"label_numeric":"skill/S6.11.0","label_original":"cleaning","hierarchyLevel":5,"label_replaced":"cleaning"}
+{"label_numeric":"skill/S6.11.1","label_original":"cleaning tools, equipment, workpieces and vehicles","hierarchyLevel":5,"label_replaced":"cleaning tools, equipment, workpieces and vehicles"}
+{"label_numeric":"isced-f/1030","label_original":"security services not further defined","hierarchyLevel":4,"label_replaced":"security services not further defined"}
+{"label_numeric":"skill/S6.11.2","label_original":"cleaning interior and exterior of buildings","hierarchyLevel":5,"label_replaced":"cleaning interior and exterior of buildings"}
+{"label_numeric":"isced-f/1031","label_original":"military and defence","hierarchyLevel":4,"label_replaced":"military and defence"}
+{"label_numeric":"skill/S6.11.3","label_original":"cleaning outdoor spaces","hierarchyLevel":5,"label_replaced":"cleaning outdoor spaces"}
+{"label_numeric":"isced-f/1032","label_original":"protection of persons and property","hierarchyLevel":4,"label_replaced":"protection of persons and property"}
+{"label_numeric":"isced-f/1039","label_original":"security services not elsewhere classified","hierarchyLevel":4,"label_replaced":"security services not elsewhere classified"}
+{"label_numeric":"isced-f/0888","label_original":"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary"}
+{"label_numeric":"skill/S6.1.0","label_original":"sorting and packaging goods and materials","hierarchyLevel":4,"label_replaced":"sorting and packaging goods and materials"}
+{"label_numeric":"skill/S6.1.1","label_original":"sorting materials or products","hierarchyLevel":4,"label_replaced":"sorting materials or products"}
+{"label_numeric":"skill/S6.1.2","label_original":"marking materials or objects for identification","hierarchyLevel":4,"label_replaced":"marking materials or objects for identification"}
+{"label_numeric":"skill/S6.1.3","label_original":"packaging objects","hierarchyLevel":4,"label_replaced":"packaging objects"}
+{"label_numeric":"skill/S1.8.0","label_original":"working with others","hierarchyLevel":4,"label_replaced":"working with others"}
+{"label_numeric":"skill/S1.8.1","label_original":"working in teams","hierarchyLevel":4,"label_replaced":"working in teams"}
+{"label_numeric":"skill/S1.8.2","label_original":"giving instructions","hierarchyLevel":4,"label_replaced":"giving instructions"}
+{"label_numeric":"skill/S1.8.3","label_original":"giving feedback","hierarchyLevel":4,"label_replaced":"giving feedback"}
+{"label_numeric":"skill/S1.8.4","label_original":"accepting feedback","hierarchyLevel":4,"label_replaced":"accepting feedback"}
+{"label_numeric":"skill/S1.8.5","label_original":"following instructions and procedures","hierarchyLevel":4,"label_replaced":"following instructions and procedures"}
+{"label_numeric":"isced-f/1041","label_original":"transport services","hierarchyLevel":4,"label_replaced":"transport services"}
+{"label_numeric":"skill/S1.8.6","label_original":"assisting and supporting co-workers","hierarchyLevel":4,"label_replaced":"assisting and supporting co-workers"}
+{"label_numeric":"isced-f/0488","label_original":"inter-disciplinary programmes and qualifications involving business, administration and law","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving business, administration and law"}
+{"label_numeric":"skill/S4.6.0","label_original":"building and developing teams","hierarchyLevel":4,"label_replaced":"building and developing teams"}
+{"label_numeric":"isced-f/0899","label_original":"agriculture, forestry, fisheries and veterinary not elsewhere classified","hierarchyLevel":4,"label_replaced":"agriculture, forestry, fisheries and veterinary not elsewhere classified"}
+{"label_numeric":"skill/S1.4.0","label_original":"presenting information","hierarchyLevel":4,"label_replaced":"presenting information"}
+{"label_numeric":"skill/S1.4.1","label_original":"presenting general information","hierarchyLevel":4,"label_replaced":"presenting general information"}
+{"label_numeric":"skill/S1.4.2","label_original":"presenting research or technical information","hierarchyLevel":4,"label_replaced":"presenting research or technical information"}
+{"label_numeric":"skill/S1.4.3","label_original":"presenting information in legal proceedings","hierarchyLevel":4,"label_replaced":"presenting information in legal proceedings"}
+{"label_numeric":"skill/T3.1","label_original":"working efficiently","hierarchyLevel":3,"label_replaced":"working efficiently"}
+{"label_numeric":"skill/T3.2","label_original":"taking a proactive approach","hierarchyLevel":3,"label_replaced":"taking a proactive approach"}
+{"label_numeric":"skill/T3.3","label_original":"maintaining a positive attitude","hierarchyLevel":3,"label_replaced":"maintaining a positive attitude"}
+{"label_numeric":"skill/S4.2.0","label_original":"organising, planning and scheduling work and activities","hierarchyLevel":4,"label_replaced":"organising, planning and scheduling work and activities"}
+{"label_numeric":"skill/T3.4","label_original":"demonstrating willingness to learn","hierarchyLevel":3,"label_replaced":"demonstrating willingness to learn"}
+{"label_numeric":"skill/S4.2.1","label_original":"directing operational activities","hierarchyLevel":4,"label_replaced":"directing operational activities"}
+{"label_numeric":"skill/S4.2.2","label_original":"planning and scheduling events and activities","hierarchyLevel":4,"label_replaced":"planning and scheduling events and activities"}
+{"label_numeric":"isced-f/0499","label_original":"business, administration and law not elsewhere classified","hierarchyLevel":4,"label_replaced":"business, administration and law not elsewhere classified"}
+{"label_numeric":"skill/S1","label_original":"communication, collaboration and creativity","hierarchyLevel":2,"label_replaced":"communication, collaboration and creativity"}
+{"label_numeric":"skill/S2","label_original":"information skills","hierarchyLevel":2,"label_replaced":"information skills"}
+{"label_numeric":"skill/S3","label_original":"assisting and caring","hierarchyLevel":2,"label_replaced":"assisting and caring"}
+{"label_numeric":"skill/S4","label_original":"management skills","hierarchyLevel":2,"label_replaced":"management skills"}
+{"label_numeric":"skill/S5","label_original":"working with computers","hierarchyLevel":2,"label_replaced":"working with computers"}
+{"label_numeric":"skill/S6","label_original":"handling and moving","hierarchyLevel":2,"label_replaced":"handling and moving"}
+{"label_numeric":"skill/S7","label_original":"constructing","hierarchyLevel":2,"label_replaced":"constructing"}
+{"label_numeric":"skill/S8","label_original":"working with machinery and specialised equipment","hierarchyLevel":2,"label_replaced":"working with machinery and specialised equipment"}
+{"label_numeric":"skill/S7.0.0","label_original":"constructing","hierarchyLevel":4,"label_replaced":"constructing"}
+{"label_numeric":"isced-f/0700","label_original":"engineering, manufacturing and construction not further defined","hierarchyLevel":4,"label_replaced":"engineering, manufacturing and construction not further defined"}
+{"label_numeric":"skill/S1.0.0","label_original":"communication, collaboration and creativity","hierarchyLevel":4,"label_replaced":"communication, collaboration and creativity"}
+{"label_numeric":"isced-f/0099","label_original":"generic programmes and qualifications not elsewhere classified","hierarchyLevel":4,"label_replaced":"generic programmes and qualifications not elsewhere classified"}
+{"label_numeric":"skill/T1","label_original":"core skills and competences","hierarchyLevel":2,"label_replaced":"core skills and competences"}
+{"label_numeric":"skill/T2","label_original":"thinking skills and competences","hierarchyLevel":2,"label_replaced":"thinking skills and competences"}
+{"label_numeric":"skill/T3","label_original":"self-management skills and competences","hierarchyLevel":2,"label_replaced":"self-management skills and competences"}
+{"label_numeric":"skill/T4","label_original":"social and communication skills and competences","hierarchyLevel":2,"label_replaced":"social and communication skills and competences"}
+{"label_numeric":"skill/T5","label_original":"physical and manual skills and competences","hierarchyLevel":2,"label_replaced":"physical and manual skills and competences"}
+{"label_numeric":"skill/T6","label_original":"life skills and competences","hierarchyLevel":2,"label_replaced":"life skills and competences"}
+{"label_numeric":"isced-f/0300","label_original":"social sciences, journalism and information not further defined","hierarchyLevel":4,"label_replaced":"social sciences, journalism and information not further defined"}
+{"label_numeric":"isced-f/0710","label_original":"engineering and engineering trades not further defined","hierarchyLevel":4,"label_replaced":"engineering and engineering trades not further defined"}
+{"label_numeric":"isced-f/0711","label_original":"chemical engineering and processes","hierarchyLevel":4,"label_replaced":"chemical engineering and processes"}
+{"label_numeric":"isced-f/0712","label_original":"environmental protection technology","hierarchyLevel":4,"label_replaced":"environmental protection technology"}
+{"label_numeric":"isced-f/0713","label_original":"electricity and energy","hierarchyLevel":4,"label_replaced":"electricity and energy"}
+{"label_numeric":"isced-f/0714","label_original":"electronics and automation","hierarchyLevel":4,"label_replaced":"electronics and automation"}
+{"label_numeric":"isced-f/0715","label_original":"mechanics and metal trades","hierarchyLevel":4,"label_replaced":"mechanics and metal trades"}
+{"label_numeric":"isced-f/0716","label_original":"motor vehicles, ships and aircraft","hierarchyLevel":4,"label_replaced":"motor vehicles, ships and aircraft"}
+{"label_numeric":"isced-f/0719","label_original":"engineering and engineering trades not elsewhere classified","hierarchyLevel":4,"label_replaced":"engineering and engineering trades not elsewhere classified"}
+{"label_numeric":"isced-f/0310","label_original":"social and behavioural sciences not further defined","hierarchyLevel":4,"label_replaced":"social and behavioural sciences not further defined"}
+{"label_numeric":"skill/S8.9.0","label_original":"operating aircraft","hierarchyLevel":4,"label_replaced":"operating aircraft"}
+{"label_numeric":"isced-f/0311","label_original":"economics","hierarchyLevel":4,"label_replaced":"economics"}
+{"label_numeric":"isced-f/0720","label_original":"manufacturing and processing not further defined","hierarchyLevel":4,"label_replaced":"manufacturing and processing not further defined"}
+{"label_numeric":"isced-f/100","label_original":"services not further defined","hierarchyLevel":3,"label_replaced":"services not further defined"}
+{"label_numeric":"isced-f/0312","label_original":"political sciences and civics","hierarchyLevel":4,"label_replaced":"political sciences and civics"}
+{"label_numeric":"isced-f/0721","label_original":"food processing","hierarchyLevel":4,"label_replaced":"food processing"}
+{"label_numeric":"isced-f/101","label_original":"personal services","hierarchyLevel":3,"label_replaced":"personal services"}
+{"label_numeric":"isced-f/0313","label_original":"psychology","hierarchyLevel":4,"label_replaced":"psychology"}
+{"label_numeric":"isced-f/0722","label_original":"materials (glass, paper, plastic and wood)","hierarchyLevel":4,"label_replaced":"materials (glass, paper, plastic and wood)"}
+{"label_numeric":"skill/S2.9.0","label_original":"monitoring developments in area of expertise","hierarchyLevel":4,"label_replaced":"monitoring developments in area of expertise"}
+{"label_numeric":"isced-f/102","label_original":"hygiene and occupational health services","hierarchyLevel":3,"label_replaced":"hygiene and occupational health services"}
+{"label_numeric":"isced-f/0314","label_original":"sociology and cultural studies","hierarchyLevel":4,"label_replaced":"sociology and cultural studies"}
+{"label_numeric":"isced-f/0723","label_original":"textiles (clothes, footwear and leather)","hierarchyLevel":4,"label_replaced":"textiles (clothes, footwear and leather)"}
+{"label_numeric":"isced-f/103","label_original":"security services","hierarchyLevel":3,"label_replaced":"security services"}
+{"label_numeric":"isced-f/0724","label_original":"mining and extraction","hierarchyLevel":4,"label_replaced":"mining and extraction"}
+{"label_numeric":"isced-f/104","label_original":"transport services","hierarchyLevel":3,"label_replaced":"transport services"}
+{"label_numeric":"isced-f/0319","label_original":"social and behavioural sciences not elsewhere classified","hierarchyLevel":4,"label_replaced":"social and behavioural sciences not elsewhere classified"}
+{"label_numeric":"isced-f/108","label_original":"inter-disciplinary programmes and qualifications involving services","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving services"}
+{"label_numeric":"isced-f/0729","label_original":"manufacturing and processing not elsewhere classified","hierarchyLevel":4,"label_replaced":"manufacturing and processing not elsewhere classified"}
+{"label_numeric":"isced-f/109","label_original":"services not elsewhere classified","hierarchyLevel":3,"label_replaced":"services not elsewhere classified"}
+{"label_numeric":"skill/S5.7.0","label_original":"using digital tools to control machinery","hierarchyLevel":4,"label_replaced":"using digital tools to control machinery"}
+{"label_numeric":"isced-f/1088","label_original":"inter-disciplinary programmes and qualifications involving services","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving services"}
+{"label_numeric":"skill/S8.5.0","label_original":"operating machinery for the manufacture of products","hierarchyLevel":4,"label_replaced":"operating machinery for the manufacture of products"}
+{"label_numeric":"isced-f/0320","label_original":"journalism and information not further defined","hierarchyLevel":4,"label_replaced":"journalism and information not further defined"}
+{"label_numeric":"skill/S8.5.1","label_original":"operating painting or coating machinery","hierarchyLevel":4,"label_replaced":"operating painting or coating machinery"}
+{"label_numeric":"isced-f/0321","label_original":"journalism and reporting","hierarchyLevel":4,"label_replaced":"journalism and reporting"}
+{"label_numeric":"skill/S8.5.2","label_original":"operating packaging machinery","hierarchyLevel":4,"label_replaced":"operating packaging machinery"}
+{"label_numeric":"isced-f/0730","label_original":"architecture and construction not further defined","hierarchyLevel":4,"label_replaced":"architecture and construction not further defined"}
+{"label_numeric":"isced-f/0322","label_original":"library, information and archival studies","hierarchyLevel":4,"label_replaced":"library, information and archival studies"}
+{"label_numeric":"skill/S8.5.3","label_original":"operating machinery for the manufacture and treatment of textiles, fur and leather products","hierarchyLevel":4,"label_replaced":"operating machinery for the manufacture and treatment of textiles, fur and leather products"}
+{"label_numeric":"skill/S2.5.0","label_original":"measuring physical properties","hierarchyLevel":4,"label_replaced":"measuring physical properties"}
+{"label_numeric":"isced-f/0731","label_original":"architecture and town planning","hierarchyLevel":4,"label_replaced":"architecture and town planning"}
+{"label_numeric":"skill/S8.5.4","label_original":"operating food processing machinery","hierarchyLevel":4,"label_replaced":"operating food processing machinery"}
+{"label_numeric":"skill/S2.5.1","label_original":"measuring dimensions and related properties","hierarchyLevel":4,"label_replaced":"measuring dimensions and related properties"}
+{"label_numeric":"isced-f/0732","label_original":"building and civil engineering","hierarchyLevel":4,"label_replaced":"building and civil engineering"}
+{"label_numeric":"skill/S8.5.5","label_original":"operating mixing and separating machinery","hierarchyLevel":4,"label_replaced":"operating mixing and separating machinery"}
+{"label_numeric":"skill/S2.5.2","label_original":"weighing","hierarchyLevel":4,"label_replaced":"weighing"}
+{"label_numeric":"skill/S8.5.6","label_original":"operating print and photographic production equipment","hierarchyLevel":4,"label_replaced":"operating print and photographic production equipment"}
+{"label_numeric":"skill/S8.5.7","label_original":"operating metal, plastic or rubber forming equipment","hierarchyLevel":4,"label_replaced":"operating metal, plastic or rubber forming equipment"}
+{"label_numeric":"skill/S8.5.8","label_original":"operating cutting, grinding and smoothing machinery","hierarchyLevel":4,"label_replaced":"operating cutting, grinding and smoothing machinery"}
+{"label_numeric":"isced-f/0329","label_original":"journalism and information not elsewhere classified","hierarchyLevel":4,"label_replaced":"journalism and information not elsewhere classified"}
+{"label_numeric":"isced-f/1099","label_original":"services not elsewhere classified","hierarchyLevel":4,"label_replaced":"services not elsewhere classified"}
+{"label_numeric":"skill/S8.1.0","label_original":"operating mobile plant","hierarchyLevel":4,"label_replaced":"operating mobile plant"}
+{"label_numeric":"skill/S8.1.1","label_original":"operating earthmoving equipment","hierarchyLevel":4,"label_replaced":"operating earthmoving equipment"}
+{"label_numeric":"skill/S8.1.2","label_original":"operating agricultural or forestry equipment","hierarchyLevel":4,"label_replaced":"operating agricultural or forestry equipment"}
+{"label_numeric":"skill/S8.1.3","label_original":"operating lifting or moving equipment","hierarchyLevel":4,"label_replaced":"operating lifting or moving equipment"}
+{"label_numeric":"skill/S2.1.0","label_original":"conducting studies, investigations and examinations","hierarchyLevel":4,"label_replaced":"conducting studies, investigations and examinations"}
+{"label_numeric":"skill/S2.1.1","label_original":"conducting investigations","hierarchyLevel":4,"label_replaced":"conducting investigations"}
+{"label_numeric":"skill/S2.1.2","label_original":"diagnosing health conditions","hierarchyLevel":4,"label_replaced":"diagnosing health conditions"}
+{"label_numeric":"skill/S2.1.3","label_original":"interpreting technical documentation and diagrams","hierarchyLevel":4,"label_replaced":"interpreting technical documentation and diagrams"}
+{"label_numeric":"skill/S1.15.0","label_original":"using more than one language","hierarchyLevel":5,"label_replaced":"using more than one language"}
+{"label_numeric":"skill/S1.15.1","label_original":"using foreign languages","hierarchyLevel":5,"label_replaced":"using foreign languages"}
+{"label_numeric":"skill/S1.15.2","label_original":"translating and interpreting","hierarchyLevel":5,"label_replaced":"translating and interpreting"}
+{"label_numeric":"skill/S3.4.0","label_original":"providing information and support to the public and clients","hierarchyLevel":4,"label_replaced":"providing information and support to the public and clients"}
+{"label_numeric":"skill/S3.4.1","label_original":"providing information to the public and clients","hierarchyLevel":4,"label_replaced":"providing information to the public and clients"}
+{"label_numeric":"skill/S3.4.2","label_original":"accompanying people","hierarchyLevel":4,"label_replaced":"accompanying people"}
+{"label_numeric":"skill/S3.4.3","label_original":"assisting people with paperwork","hierarchyLevel":4,"label_replaced":"assisting people with paperwork"}
+{"label_numeric":"skill/S3.4.4","label_original":"providing general assistance to people","hierarchyLevel":4,"label_replaced":"providing general assistance to people"}
+{"label_numeric":"skill/S1.11.0","label_original":"designing systems and products","hierarchyLevel":5,"label_replaced":"designing systems and products"}
+{"label_numeric":"skill/S1.11.1","label_original":"designing ict systems or applications","hierarchyLevel":5,"label_replaced":"designing ict systems or applications"}
+{"label_numeric":"skill/S1.11.2","label_original":"designing electrical or electronic systems or equipment","hierarchyLevel":5,"label_replaced":"designing electrical or electronic systems or equipment"}
+{"label_numeric":"skill/S1.11.3","label_original":"developing recipes or menus","hierarchyLevel":5,"label_replaced":"developing recipes or menus"}
+{"label_numeric":"skill/S1.11.4","label_original":"designing structures or facilities","hierarchyLevel":5,"label_replaced":"designing structures or facilities"}
+{"label_numeric":"skill/S1.11.5","label_original":"designing industrial materials, systems or products","hierarchyLevel":5,"label_replaced":"designing industrial materials, systems or products"}
+{"label_numeric":"skill/S6.0","label_original":"handling and moving","hierarchyLevel":3,"label_replaced":"handling and moving"}
+{"label_numeric":"skill/S6.1","label_original":"sorting and packaging goods and materials","hierarchyLevel":3,"label_replaced":"sorting and packaging goods and materials"}
+{"label_numeric":"skill/S6.2","label_original":"moving and lifting","hierarchyLevel":3,"label_replaced":"moving and lifting"}
+{"label_numeric":"skill/S6.3","label_original":"transforming and blending materials","hierarchyLevel":3,"label_replaced":"transforming and blending materials"}
+{"label_numeric":"skill/S6.4","label_original":"tending plants and crops","hierarchyLevel":3,"label_replaced":"tending plants and crops"}
+{"label_numeric":"skill/S3.0.0","label_original":"assisting and caring","hierarchyLevel":4,"label_replaced":"assisting and caring"}
+{"label_numeric":"skill/S6.5","label_original":"assembling and fabricating products","hierarchyLevel":3,"label_replaced":"assembling and fabricating products"}
+{"label_numeric":"skill/S6.6","label_original":"making moulds, casts, models and patterns","hierarchyLevel":3,"label_replaced":"making moulds, casts, models and patterns"}
+{"label_numeric":"skill/S6.7","label_original":"using hand tools","hierarchyLevel":3,"label_replaced":"using hand tools"}
+{"label_numeric":"skill/S6.8","label_original":"positioning materials, tools or equipment","hierarchyLevel":3,"label_replaced":"positioning materials, tools or equipment"}
+{"label_numeric":"skill/S6.9","label_original":"handling animals","hierarchyLevel":3,"label_replaced":"handling animals"}
+{"label_numeric":"skill/S6.8.0","label_original":"positioning materials, tools or equipment","hierarchyLevel":4,"label_replaced":"positioning materials, tools or equipment"}
+{"label_numeric":"skill/S6.8.1","label_original":"positioning tools or equipment","hierarchyLevel":4,"label_replaced":"positioning tools or equipment"}
+{"label_numeric":"skill/S6.8.2","label_original":"positioning workpieces or materials","hierarchyLevel":4,"label_replaced":"positioning workpieces or materials"}
+{"label_numeric":"skill/S2.0","label_original":"information skills","hierarchyLevel":3,"label_replaced":"information skills"}
+{"label_numeric":"skill/S2.1","label_original":"conducting studies, investigations and examinations","hierarchyLevel":3,"label_replaced":"conducting studies, investigations and examinations"}
+{"label_numeric":"skill/S2.2","label_original":"documenting and recording information","hierarchyLevel":3,"label_replaced":"documenting and recording information"}
+{"label_numeric":"skill/S2.3","label_original":"managing information","hierarchyLevel":3,"label_replaced":"managing information"}
+{"label_numeric":"skill/S2.4","label_original":"processing information","hierarchyLevel":3,"label_replaced":"processing information"}
+{"label_numeric":"skill/S2.5","label_original":"measuring physical properties","hierarchyLevel":3,"label_replaced":"measuring physical properties"}
+{"label_numeric":"skill/S2.6","label_original":"calculating and estimating","hierarchyLevel":3,"label_replaced":"calculating and estimating"}
+{"label_numeric":"skill/S2.7","label_original":"analysing and evaluating information and data","hierarchyLevel":3,"label_replaced":"analysing and evaluating information and data"}
+{"label_numeric":"skill/S2.8","label_original":"monitoring, inspecting and testing","hierarchyLevel":3,"label_replaced":"monitoring, inspecting and testing"}
+{"label_numeric":"skill/S2.9","label_original":"monitoring developments in area of expertise","hierarchyLevel":3,"label_replaced":"monitoring developments in area of expertise"}
+{"label_numeric":"skill/S6.4.0","label_original":"tending plants and crops","hierarchyLevel":4,"label_replaced":"tending plants and crops"}
+{"label_numeric":"skill/S6.4.1","label_original":"cultivating land and crops","hierarchyLevel":4,"label_replaced":"cultivating land and crops"}
+{"label_numeric":"skill/S6.4.2","label_original":"planting crops, trees, or other plants","hierarchyLevel":4,"label_replaced":"planting crops, trees, or other plants"}
+{"label_numeric":"skill/S6.4.3","label_original":"pruning, cutting and harvesting, trees crops and other plants","hierarchyLevel":4,"label_replaced":"pruning, cutting and harvesting, trees crops and other plants"}
+{"label_numeric":"isced-f/0788","label_original":"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction"}
+{"label_numeric":"skill/S4.9.0","label_original":"making decisions","hierarchyLevel":4,"label_replaced":"making decisions"}
+{"label_numeric":"skill/S6.0.0","label_original":"handling and moving","hierarchyLevel":4,"label_replaced":"handling and moving"}
+{"label_numeric":"skill/S1.7.0","label_original":"obtaining information verbally","hierarchyLevel":4,"label_replaced":"obtaining information verbally"}
+{"label_numeric":"skill/S1.7.1","label_original":"interviewing","hierarchyLevel":4,"label_replaced":"interviewing"}
+{"label_numeric":"skill/S1.7.2","label_original":"engaging with others to identify needs","hierarchyLevel":4,"label_replaced":"engaging with others to identify needs"}
+{"label_numeric":"skill/S1.7.3","label_original":"listening and asking questions","hierarchyLevel":4,"label_replaced":"listening and asking questions"}
+{"label_numeric":"skill/T6.1","label_original":"applying health-related skills and competences","hierarchyLevel":3,"label_replaced":"applying health-related skills and competences"}
+{"label_numeric":"skill/T6.2","label_original":"applying environmental skills and competences","hierarchyLevel":3,"label_replaced":"applying environmental skills and competences"}
+{"label_numeric":"skill/T6.3","label_original":"applying civic skills and competences","hierarchyLevel":3,"label_replaced":"applying civic skills and competences"}
+{"label_numeric":"isced-f/0388","label_original":"inter-disciplinary programmes and qualifications involving social sciences, journalism and information","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving social sciences, journalism and information"}
+{"label_numeric":"skill/S4.5.0","label_original":"leading and motivating","hierarchyLevel":4,"label_replaced":"leading and motivating"}
+{"label_numeric":"skill/T6.4","label_original":"applying cultural skills and competences","hierarchyLevel":3,"label_replaced":"applying cultural skills and competences"}
+{"label_numeric":"skill/T6.5","label_original":"applying entrepreneurial and financial skills and competences","hierarchyLevel":3,"label_replaced":"applying entrepreneurial and financial skills and competences"}
+{"label_numeric":"isced-f/0799","label_original":"engineering, manufacturing and construction not elsewhere classified","hierarchyLevel":4,"label_replaced":"engineering, manufacturing and construction not elsewhere classified"}
+{"label_numeric":"skill/T6.6","label_original":"applying general knowledge","hierarchyLevel":3,"label_replaced":"applying general knowledge"}
+{"label_numeric":"isced-f/999","label_original":"field unknown","hierarchyLevel":3,"label_replaced":"field unknown"}
+{"label_numeric":"skill/S7.3.0","label_original":"finishing interior or exterior of structures","hierarchyLevel":4,"label_replaced":"finishing interior or exterior of structures"}
+{"label_numeric":"skill/S7.3.1","label_original":"applying material to fill gaps in surfaces","hierarchyLevel":4,"label_replaced":"applying material to fill gaps in surfaces"}
+{"label_numeric":"skill/S7.3.2","label_original":"appyling textured or masonry coatings","hierarchyLevel":4,"label_replaced":"appyling textured or masonry coatings"}
+{"label_numeric":"skill/S7.3.3","label_original":"applying protective or decorative solutions or coatings","hierarchyLevel":4,"label_replaced":"applying protective or decorative solutions or coatings"}
+{"label_numeric":"skill/S1.3.0","label_original":"teaching and training","hierarchyLevel":4,"label_replaced":"teaching and training"}
+{"label_numeric":"skill/S7.3.4","label_original":"installing floor and wall coverings","hierarchyLevel":4,"label_replaced":"installing floor and wall coverings"}
+{"label_numeric":"skill/S1.3.1","label_original":"teaching academic or vocational subjects","hierarchyLevel":4,"label_replaced":"teaching academic or vocational subjects"}
+{"label_numeric":"skill/S1.3.2","label_original":"teaching safety procedures","hierarchyLevel":4,"label_replaced":"teaching safety procedures"}
+{"label_numeric":"skill/S1.3.3","label_original":"training on operational procedures","hierarchyLevel":4,"label_replaced":"training on operational procedures"}
+{"label_numeric":"skill/S1.3.4","label_original":"training on health or medical topics","hierarchyLevel":4,"label_replaced":"training on health or medical topics"}
+{"label_numeric":"skill/S1.3.5","label_original":"coaching and mentoring","hierarchyLevel":4,"label_replaced":"coaching and mentoring"}
+{"label_numeric":"skill/T2.1","label_original":"processing information, ideas and concepts","hierarchyLevel":3,"label_replaced":"processing information, ideas and concepts"}
+{"label_numeric":"skill/T2.2","label_original":"planning and organising","hierarchyLevel":3,"label_replaced":"planning and organising"}
+{"label_numeric":"skill/T2.3","label_original":"dealing with problems","hierarchyLevel":3,"label_replaced":"dealing with problems"}
+{"label_numeric":"skill/S4.1.0","label_original":"developing objectives and strategies","hierarchyLevel":4,"label_replaced":"developing objectives and strategies"}
+{"label_numeric":"skill/T2.4","label_original":"thinking creatively and innovatively","hierarchyLevel":3,"label_replaced":"thinking creatively and innovatively"}
+{"label_numeric":"skill/S4.1.1","label_original":"identifying opportunities","hierarchyLevel":4,"label_replaced":"identifying opportunities"}
+{"label_numeric":"skill/S4.1.2","label_original":"developing financial, business or marketing plans","hierarchyLevel":4,"label_replaced":"developing financial, business or marketing plans"}
+{"label_numeric":"isced-f/0399","label_original":"social sciences, journalism and information not elsewhere classified","hierarchyLevel":4,"label_replaced":"social sciences, journalism and information not elsewhere classified"}
+{"label_numeric":"skill/S4.1.3","label_original":"developing operational policies and procedures","hierarchyLevel":4,"label_replaced":"developing operational policies and procedures"}
+{"label_numeric":"skill/S4.1.4","label_original":"developing research plans","hierarchyLevel":4,"label_replaced":"developing research plans"}
+{"label_numeric":"skill/S4.1.5","label_original":"developing health programmes","hierarchyLevel":4,"label_replaced":"developing health programmes"}
+{"label_numeric":"skill/S4.1.6","label_original":"developing educational programmes","hierarchyLevel":4,"label_replaced":"developing educational programmes"}
+{"label_numeric":"skill/S4.1.7","label_original":"developing contingency and emergency response plans","hierarchyLevel":4,"label_replaced":"developing contingency and emergency response plans"}
+{"label_numeric":"isced-f/0200","label_original":"arts and humanities not further defined","hierarchyLevel":4,"label_replaced":"arts and humanities not further defined"}
+{"label_numeric":"isced-f/0610","label_original":"information and communication technologies (icts) not further defined","hierarchyLevel":4,"label_replaced":"information and communication technologies (icts) not further defined"}
+{"label_numeric":"isced-f/0611","label_original":"computer use","hierarchyLevel":4,"label_replaced":"computer use"}
+{"label_numeric":"isced-f/0612","label_original":"database and network design and administration","hierarchyLevel":4,"label_replaced":"database and network design and administration"}
+{"label_numeric":"isced-f/0613","label_original":"software and applications development and analysis","hierarchyLevel":4,"label_replaced":"software and applications development and analysis"}
+{"label_numeric":"isced-f/0619","label_original":"information and communication technologies not elsewhere classified","hierarchyLevel":4,"label_replaced":"information and communication technologies not elsewhere classified"}
+{"label_numeric":"isced-f/0210","label_original":"arts not further defined","hierarchyLevel":4,"label_replaced":"arts not further defined"}
+{"label_numeric":"skill/S8.8.0","label_original":"installing, maintaining and repairing electrical, electronic and precision equipment","hierarchyLevel":4,"label_replaced":"installing, maintaining and repairing electrical, electronic and precision equipment"}
+{"label_numeric":"isced-f/0211","label_original":"audio-visual techniques and media production","hierarchyLevel":4,"label_replaced":"audio-visual techniques and media production"}
+{"label_numeric":"skill/S8.8.1","label_original":"installing and repairing electrical, electronic and precision equipment","hierarchyLevel":4,"label_replaced":"installing and repairing electrical, electronic and precision equipment"}
+{"label_numeric":"isced-f/000","label_original":"generic programmes and qualifications not further defined","hierarchyLevel":3,"label_replaced":"generic programmes and qualifications not further defined"}
+{"label_numeric":"isced-f/0212","label_original":"fashion, interior and industrial design","hierarchyLevel":4,"label_replaced":"fashion, interior and industrial design"}
+{"label_numeric":"skill/S8.8.2","label_original":"maintaining electrical, electronic and precision equipment","hierarchyLevel":4,"label_replaced":"maintaining electrical, electronic and precision equipment"}
+{"label_numeric":"isced-f/001","label_original":"basic programmes and qualifications","hierarchyLevel":3,"label_replaced":"basic programmes and qualifications"}
+{"label_numeric":"isced-f/0213","label_original":"fine arts","hierarchyLevel":4,"label_replaced":"fine arts"}
+{"label_numeric":"skill/S2.8.0","label_original":"monitoring, inspecting and testing","hierarchyLevel":4,"label_replaced":"monitoring, inspecting and testing"}
+{"label_numeric":"isced-f/002","label_original":"literacy and numeracy","hierarchyLevel":3,"label_replaced":"literacy and numeracy"}
+{"label_numeric":"isced-f/0214","label_original":"handicrafts","hierarchyLevel":4,"label_replaced":"handicrafts"}
+{"label_numeric":"skill/S2.8.1","label_original":"monitoring, inspecting and testing equipment, systems and products","hierarchyLevel":4,"label_replaced":"monitoring, inspecting and testing equipment, systems and products"}
+{"label_numeric":"isced-f/003","label_original":"personal skills and development","hierarchyLevel":3,"label_replaced":"personal skills and development"}
+{"label_numeric":"isced-f/0215","label_original":"music and performing arts","hierarchyLevel":4,"label_replaced":"music and performing arts"}
+{"label_numeric":"skill/S2.8.2","label_original":"monitoring operational activities","hierarchyLevel":4,"label_replaced":"monitoring operational activities"}
+{"label_numeric":"skill/S2.8.3","label_original":"monitoring financial and economic resources and activity","hierarchyLevel":4,"label_replaced":"monitoring financial and economic resources and activity"}
+{"label_numeric":"skill/S2.8.4","label_original":"monitoring safety or security","hierarchyLevel":4,"label_replaced":"monitoring safety or security"}
+{"label_numeric":"skill/S2.8.5","label_original":"monitoring environmental conditions","hierarchyLevel":4,"label_replaced":"monitoring environmental conditions"}
+{"label_numeric":"isced-f/0219","label_original":"arts not elsewhere classified","hierarchyLevel":4,"label_replaced":"arts not elsewhere classified"}
+{"label_numeric":"skill/S2.8.6","label_original":"monitoring health conditions","hierarchyLevel":4,"label_replaced":"monitoring health conditions"}
+{"label_numeric":"isced-f/009","label_original":"generic programmes and qualifications not elsewhere classified","hierarchyLevel":3,"label_replaced":"generic programmes and qualifications not elsewhere classified"}
+{"label_numeric":"skill/S2.8.8","label_original":"testing and analysing substances","hierarchyLevel":4,"label_replaced":"testing and analysing substances"}
+{"label_numeric":"skill/S5.6.0","label_original":"using digital tools for collaboration, content creation and problem solving","hierarchyLevel":4,"label_replaced":"using digital tools for collaboration, content creation and problem solving"}
+{"label_numeric":"skill/S5.6.1","label_original":"using digital tools for collaboration and productivity","hierarchyLevel":4,"label_replaced":"using digital tools for collaboration and productivity"}
+{"label_numeric":"skill/S5.6.2","label_original":"using word processing, publishing and presentation software","hierarchyLevel":4,"label_replaced":"using word processing, publishing and presentation software"}
+{"label_numeric":"skill/S5.6.3","label_original":"using computer aided design and drawing tools","hierarchyLevel":4,"label_replaced":"using computer aided design and drawing tools"}
+{"label_numeric":"skill/S5.6.4","label_original":"using digital tools for processing sound and images","hierarchyLevel":4,"label_replaced":"using digital tools for processing sound and images"}
+{"label_numeric":"skill/S8.4.0","label_original":"operating machinery for the extraction and processing of raw materials","hierarchyLevel":4,"label_replaced":"operating machinery for the extraction and processing of raw materials"}
+{"label_numeric":"isced-f/0220","label_original":"humanities (except languages) not further defined","hierarchyLevel":4,"label_replaced":"humanities (except languages) not further defined"}
+{"label_numeric":"skill/S8.4.1","label_original":"operating mining, drilling and mineral processing machinery","hierarchyLevel":4,"label_replaced":"operating mining, drilling and mineral processing machinery"}
+{"label_numeric":"isced-f/0221","label_original":"religion and theology","hierarchyLevel":4,"label_replaced":"religion and theology"}
+{"label_numeric":"skill/S8.4.2","label_original":"operating metal processing and finishing machinery","hierarchyLevel":4,"label_replaced":"operating metal processing and finishing machinery"}
+{"label_numeric":"isced-f/0222","label_original":"history and archaeology","hierarchyLevel":4,"label_replaced":"history and archaeology"}
+{"label_numeric":"skill/S8.4.3","label_original":"operating pumping systems or equipment","hierarchyLevel":4,"label_replaced":"operating pumping systems or equipment"}
+{"label_numeric":"skill/S2.4.0","label_original":"processing information","hierarchyLevel":4,"label_replaced":"processing information"}
+{"label_numeric":"isced-f/011","label_original":"education","hierarchyLevel":3,"label_replaced":"education"}
+{"label_numeric":"isced-f/0223","label_original":"philosophy and ethics","hierarchyLevel":4,"label_replaced":"philosophy and ethics"}
+{"label_numeric":"skill/S8.4.4","label_original":"operating energy production or distribution equipment","hierarchyLevel":4,"label_replaced":"operating energy production or distribution equipment"}
+{"label_numeric":"skill/S2.4.1","label_original":"gathering information from physical or electronic sources","hierarchyLevel":4,"label_replaced":"gathering information from physical or electronic sources"}
+{"label_numeric":"skill/S8.4.5","label_original":"operating petroleum, chemical or water processing systems or equipment","hierarchyLevel":4,"label_replaced":"operating petroleum, chemical or water processing systems or equipment"}
+{"label_numeric":"skill/S2.4.2","label_original":"entering and transforming information","hierarchyLevel":4,"label_replaced":"entering and transforming information"}
+{"label_numeric":"skill/S8.4.6","label_original":"operating wood processing and papermaking machinery","hierarchyLevel":4,"label_replaced":"operating wood processing and papermaking machinery"}
+{"label_numeric":"skill/S8.4.7","label_original":"operating kilns, furnaces and drying equipment","hierarchyLevel":4,"label_replaced":"operating kilns, furnaces and drying equipment"}
+{"label_numeric":"isced-f/0228","label_original":"inter-disciplinary programmes and qualifications involving humanities","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving humanities"}
+{"label_numeric":"skill/S6.11","label_original":"cleaning","hierarchyLevel":4,"label_replaced":"cleaning"}
+{"label_numeric":"isced-f/0229","label_original":"humanities (except languages) not elsewhere classified","hierarchyLevel":4,"label_replaced":"humanities (except languages) not elsewhere classified"}
+{"label_numeric":"isced-f/018","label_original":"inter-disciplinary programmes and qualifications involving education","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving education"}
+{"label_numeric":"skill/S6.12","label_original":"washing and maintaining textiles and clothing","hierarchyLevel":4,"label_replaced":"washing and maintaining textiles and clothing"}
+{"label_numeric":"skill/S6.13","label_original":"handling and disposing of waste and hazardous materials","hierarchyLevel":4,"label_replaced":"handling and disposing of waste and hazardous materials"}
+{"label_numeric":"skill/S5.2.0","label_original":"setting up and protecting computer systems","hierarchyLevel":4,"label_replaced":"setting up and protecting computer systems"}
+{"label_numeric":"skill/S5.2.1","label_original":"setting up computer systems","hierarchyLevel":4,"label_replaced":"setting up computer systems"}
+{"label_numeric":"skill/S5.2.2","label_original":"protecting ict devices","hierarchyLevel":4,"label_replaced":"protecting ict devices"}
+{"label_numeric":"skill/S5.2.3","label_original":"resolving computer problems","hierarchyLevel":4,"label_replaced":"resolving computer problems"}
+{"label_numeric":"skill/S8.0.0","label_original":"working with machinery and specialised equipment","hierarchyLevel":4,"label_replaced":"working with machinery and specialised equipment"}
+{"label_numeric":"isced-f/0230","label_original":"languages not further defined","hierarchyLevel":4,"label_replaced":"languages not further defined"}
+{"label_numeric":"skill/S2.0.0","label_original":"information skills","hierarchyLevel":4,"label_replaced":"information skills"}
+{"label_numeric":"isced-f/0231","label_original":"language acquisition","hierarchyLevel":4,"label_replaced":"language acquisition"}
+{"label_numeric":"isced-f/020","label_original":"arts and humanities not further defined","hierarchyLevel":3,"label_replaced":"arts and humanities not further defined"}
+{"label_numeric":"isced-f/0232","label_original":"literature and linguistics","hierarchyLevel":4,"label_replaced":"literature and linguistics"}
+{"label_numeric":"isced-f/021","label_original":"arts","hierarchyLevel":3,"label_replaced":"arts"}
+{"label_numeric":"isced-f/022","label_original":"humanities (except languages)","hierarchyLevel":3,"label_replaced":"humanities (except languages)"}
+{"label_numeric":"isced-f/023","label_original":"languages","hierarchyLevel":3,"label_replaced":"languages"}
+{"label_numeric":"isced-f/0239","label_original":"languages not elsewhere classified","hierarchyLevel":4,"label_replaced":"languages not elsewhere classified"}
+{"label_numeric":"isced-f/028","label_original":"inter-disciplinary programmes and qualifications involving arts and humanities","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving arts and humanities"}
+{"label_numeric":"isced-f/029","label_original":"arts and humanities not elsewhere classified","hierarchyLevel":3,"label_replaced":"arts and humanities not elsewhere classified"}
+{"label_numeric":"isced-f/9999","label_original":"field unknown","hierarchyLevel":4,"label_replaced":"field unknown"}
+{"label_numeric":"skill/S1.14.0","label_original":"performing and entertaining","hierarchyLevel":5,"label_replaced":"performing and entertaining"}
+{"label_numeric":"skill/S1.14.1","label_original":"practising sports","hierarchyLevel":5,"label_replaced":"practising sports"}
+{"label_numeric":"isced-f/030","label_original":"social sciences, journalism and information not further defined","hierarchyLevel":3,"label_replaced":"social sciences, journalism and information not further defined"}
+{"label_numeric":"skill/S1.14.2","label_original":"performing artistic or cultural activities","hierarchyLevel":5,"label_replaced":"performing artistic or cultural activities"}
+{"label_numeric":"isced-f/031","label_original":"social and behavioural sciences","hierarchyLevel":3,"label_replaced":"social and behavioural sciences"}
+{"label_numeric":"skill/S1.14.3","label_original":"conducting gaming activities","hierarchyLevel":5,"label_replaced":"conducting gaming activities"}
+{"label_numeric":"isced-f/032","label_original":"journalism and information","hierarchyLevel":3,"label_replaced":"journalism and information"}
+{"label_numeric":"isced-f/038","label_original":"inter-disciplinary programmes and qualifications involving social sciences, journalism and information","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving social sciences, journalism and information"}
+{"label_numeric":"skill/S3.3.0","label_original":"protecting and enforcing","hierarchyLevel":4,"label_replaced":"protecting and enforcing"}
+{"label_numeric":"isced-f/039","label_original":"social sciences, journalism and information not elsewhere classified","hierarchyLevel":3,"label_replaced":"social sciences, journalism and information not elsewhere classified"}
+{"label_numeric":"skill/S3.3.1","label_original":"complying with health and safety procedures","hierarchyLevel":4,"label_replaced":"complying with health and safety procedures"}
+{"label_numeric":"skill/S3.3.2","label_original":"complying with environmental protection laws and standards","hierarchyLevel":4,"label_replaced":"complying with environmental protection laws and standards"}
+{"label_numeric":"skill/S3.3.3","label_original":"complying with legal and organisational guidelines","hierarchyLevel":4,"label_replaced":"complying with legal and organisational guidelines"}
+{"label_numeric":"skill/S3.3.4","label_original":"verifying identities and documentation","hierarchyLevel":4,"label_replaced":"verifying identities and documentation"}
+{"label_numeric":"skill/S3.3.5","label_original":"maintaining and enforcing physical security","hierarchyLevel":4,"label_replaced":"maintaining and enforcing physical security"}
+{"label_numeric":"skill/S3.3.6","label_original":"protecting privacy and personal data","hierarchyLevel":4,"label_replaced":"protecting privacy and personal data"}
+{"label_numeric":"isced-f/040","label_original":"business, administration and law not further defined","hierarchyLevel":3,"label_replaced":"business, administration and law not further defined"}
+{"label_numeric":"isced-f/041","label_original":"business and administration","hierarchyLevel":3,"label_replaced":"business and administration"}
+{"label_numeric":"isced-f/042","label_original":"law","hierarchyLevel":3,"label_replaced":"law"}
+{"label_numeric":"skill/S5.0","label_original":"working with computers","hierarchyLevel":3,"label_replaced":"working with computers"}
+{"label_numeric":"skill/S5.1","label_original":"programming computer systems","hierarchyLevel":3,"label_replaced":"programming computer systems"}
+{"label_numeric":"skill/S5.2","label_original":"setting up and protecting computer systems","hierarchyLevel":3,"label_replaced":"setting up and protecting computer systems"}
+{"label_numeric":"skill/S5.5","label_original":"accessing and analysing digital data","hierarchyLevel":3,"label_replaced":"accessing and analysing digital data"}
+{"label_numeric":"isced-f/048","label_original":"inter-disciplinary programmes and qualifications involving business, administration and law","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving business, administration and law"}
+{"label_numeric":"skill/S5.6","label_original":"using digital tools for collaboration, content creation and problem solving","hierarchyLevel":3,"label_replaced":"using digital tools for collaboration, content creation and problem solving"}
+{"label_numeric":"isced-f/049","label_original":"business, administration and law not elsewhere classified","hierarchyLevel":3,"label_replaced":"business, administration and law not elsewhere classified"}
+{"label_numeric":"skill/S5.7","label_original":"using digital tools to control machinery","hierarchyLevel":3,"label_replaced":"using digital tools to control machinery"}
+{"label_numeric":"skill/S6.7.0","label_original":"using hand tools","hierarchyLevel":4,"label_replaced":"using hand tools"}
+{"label_numeric":"skill/S6.7.1","label_original":"cutting materials and drilling holes","hierarchyLevel":4,"label_replaced":"cutting materials and drilling holes"}
+{"label_numeric":"skill/S6.7.2","label_original":"shaping materials to create products","hierarchyLevel":4,"label_replaced":"shaping materials to create products"}
+{"label_numeric":"skill/S6.7.3","label_original":"smoothing surfaces of objects or equipment","hierarchyLevel":4,"label_replaced":"smoothing surfaces of objects or equipment"}
+{"label_numeric":"skill/S6.7.4","label_original":"using precision hand tools","hierarchyLevel":4,"label_replaced":"using precision hand tools"}
+{"label_numeric":"skill/S6.7.5","label_original":"hammering, nailing and riveting","hierarchyLevel":4,"label_replaced":"hammering, nailing and riveting"}
+{"label_numeric":"skill/S1.11","label_original":"designing systems and products","hierarchyLevel":4,"label_replaced":"designing systems and products"}
+{"label_numeric":"skill/S1.12","label_original":"creating artistic, visual or instructive materials","hierarchyLevel":4,"label_replaced":"creating artistic, visual or instructive materials"}
+{"label_numeric":"skill/S1.13","label_original":"writing and composing","hierarchyLevel":4,"label_replaced":"writing and composing"}
+{"label_numeric":"skill/S6.13.0","label_original":"handling and disposing of waste and hazardous materials","hierarchyLevel":5,"label_replaced":"handling and disposing of waste and hazardous materials"}
+{"label_numeric":"skill/S1.14","label_original":"performing and entertaining","hierarchyLevel":4,"label_replaced":"performing and entertaining"}
+{"label_numeric":"skill/S6.13.1","label_original":"handling and disposing of hazardous materials","hierarchyLevel":5,"label_replaced":"handling and disposing of hazardous materials"}
+{"label_numeric":"skill/S1.15","label_original":"using more than one language","hierarchyLevel":4,"label_replaced":"using more than one language"}
+{"label_numeric":"skill/S6.13.2","label_original":"disposing of non-hazardous waste or debris","hierarchyLevel":5,"label_replaced":"disposing of non-hazardous waste or debris"}
+{"label_numeric":"isced-f/050","label_original":"natural sciences, mathematics and statistics not further defined","hierarchyLevel":3,"label_replaced":"natural sciences, mathematics and statistics not further defined"}
+{"label_numeric":"skill/S1.0","label_original":"communication, collaboration and creativity","hierarchyLevel":3,"label_replaced":"communication, collaboration and creativity"}
+{"label_numeric":"isced-f/051","label_original":"biological and related sciences","hierarchyLevel":3,"label_replaced":"biological and related sciences"}
+{"label_numeric":"skill/S1.1","label_original":"negotiating","hierarchyLevel":3,"label_replaced":"negotiating"}
+{"label_numeric":"isced-f/052","label_original":"environment","hierarchyLevel":3,"label_replaced":"environment"}
+{"label_numeric":"skill/S1.2","label_original":"liaising and networking","hierarchyLevel":3,"label_replaced":"liaising and networking"}
+{"label_numeric":"isced-f/053","label_original":"physical sciences","hierarchyLevel":3,"label_replaced":"physical sciences"}
+{"label_numeric":"skill/S1.3","label_original":"teaching and training","hierarchyLevel":3,"label_replaced":"teaching and training"}
+{"label_numeric":"isced-f/054","label_original":"mathematics and statistics","hierarchyLevel":3,"label_replaced":"mathematics and statistics"}
+{"label_numeric":"skill/S1.4","label_original":"presenting information","hierarchyLevel":3,"label_replaced":"presenting information"}
+{"label_numeric":"skill/S1.5","label_original":"advising and consulting","hierarchyLevel":3,"label_replaced":"advising and consulting"}
+{"label_numeric":"skill/S1.6","label_original":"promoting, selling and purchasing","hierarchyLevel":3,"label_replaced":"promoting, selling and purchasing"}
+{"label_numeric":"skill/S1.7","label_original":"obtaining information verbally","hierarchyLevel":3,"label_replaced":"obtaining information verbally"}
+{"label_numeric":"isced-f/058","label_original":"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics"}
+{"label_numeric":"skill/S1.8","label_original":"working with others","hierarchyLevel":3,"label_replaced":"working with others"}
+{"label_numeric":"isced-f/059","label_original":"natural sciences, mathematics and statistics not elsewhere classified","hierarchyLevel":3,"label_replaced":"natural sciences, mathematics and statistics not elsewhere classified"}
+{"label_numeric":"skill/S1.9","label_original":"solving problems","hierarchyLevel":3,"label_replaced":"solving problems"}
+{"label_numeric":"skill/S6.3.0","label_original":"transforming and blending materials","hierarchyLevel":4,"label_replaced":"transforming and blending materials"}
+{"label_numeric":"skill/S6.3.1","label_original":"preparing mixtures or solutions","hierarchyLevel":4,"label_replaced":"preparing mixtures or solutions"}
+{"label_numeric":"skill/S6.3.3","label_original":"preparing industrial materials for processing or use","hierarchyLevel":4,"label_replaced":"preparing industrial materials for processing or use"}
+{"label_numeric":"skill/S6.3.6","label_original":"collecting and preparing specimens or materials for testing","hierarchyLevel":4,"label_replaced":"collecting and preparing specimens or materials for testing"}
+{"label_numeric":"isced-f/061","label_original":"information and communication technologies (icts)","hierarchyLevel":3,"label_replaced":"information and communication technologies (icts)"}
+{"label_numeric":"isced-f/0688","label_original":"inter-disciplinary programmes and qualifications involving information and communication technologies (icts)","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving information and communication technologies (icts)"}
+{"label_numeric":"skill/S4.8.0","label_original":"supervising people","hierarchyLevel":4,"label_replaced":"supervising people"}
+{"label_numeric":"isced-f/068","label_original":"inter-disciplinary programmes and qualifications involving information and communication technologies (icts)","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving information and communication technologies (icts)"}
+{"label_numeric":"skill/S4.8.1","label_original":"supervising a team or group","hierarchyLevel":4,"label_replaced":"supervising a team or group"}
+{"label_numeric":"skill/S4.8.2","label_original":"assigning work to others","hierarchyLevel":4,"label_replaced":"assigning work to others"}
+{"label_numeric":"skill/S4.8.3","label_original":"monitoring and evaluating the performance of individuals","hierarchyLevel":4,"label_replaced":"monitoring and evaluating the performance of individuals"}
+{"label_numeric":"skill/S1.6.0","label_original":"promoting, selling and purchasing","hierarchyLevel":4,"label_replaced":"promoting, selling and purchasing"}
+{"label_numeric":"skill/S1.6.1","label_original":"selling products or services","hierarchyLevel":4,"label_replaced":"selling products or services"}
+{"label_numeric":"skill/S1.6.2","label_original":"promoting products, services, or programs","hierarchyLevel":4,"label_replaced":"promoting products, services, or programs"}
+{"label_numeric":"skill/S1.6.3","label_original":"purchasing goods or services","hierarchyLevel":4,"label_replaced":"purchasing goods or services"}
+{"label_numeric":"isced-f/070","label_original":"engineering, manufacturing and construction not further defined","hierarchyLevel":3,"label_replaced":"engineering, manufacturing and construction not further defined"}
+{"label_numeric":"isced-f/071","label_original":"engineering and engineering trades","hierarchyLevel":3,"label_replaced":"engineering and engineering trades"}
+{"label_numeric":"isced-f/072","label_original":"manufacturing and processing","hierarchyLevel":3,"label_replaced":"manufacturing and processing"}
+{"label_numeric":"isced-f/073","label_original":"architecture and construction","hierarchyLevel":3,"label_replaced":"architecture and construction"}
+{"label_numeric":"skill/T5.1","label_original":"manipulating and controlling objects and equipment","hierarchyLevel":3,"label_replaced":"manipulating and controlling objects and equipment"}
+{"label_numeric":"skill/T5.2","label_original":"responding to physical circumstances","hierarchyLevel":3,"label_replaced":"responding to physical circumstances"}
+{"label_numeric":"isced-f/0288","label_original":"inter-disciplinary programmes and qualifications involving arts and humanities","hierarchyLevel":4,"label_replaced":"inter-disciplinary programmes and qualifications involving arts and humanities"}
+{"label_numeric":"skill/S4.4.0","label_original":"performing administrative activities","hierarchyLevel":4,"label_replaced":"performing administrative activities"}
+{"label_numeric":"skill/S4.4.1","label_original":"administering human resources","hierarchyLevel":4,"label_replaced":"administering human resources"}
+{"label_numeric":"isced-f/078","label_original":"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction"}
+{"label_numeric":"skill/S4.4.2","label_original":"executing financial transactions","hierarchyLevel":4,"label_replaced":"executing financial transactions"}
+{"label_numeric":"isced-f/079","label_original":"engineering, manufacturing and construction not elsewhere classified","hierarchyLevel":3,"label_replaced":"engineering, manufacturing and construction not elsewhere classified"}
+{"label_numeric":"skill/S4.4.3","label_original":"performing general clerical and administrative tasks","hierarchyLevel":4,"label_replaced":"performing general clerical and administrative tasks"}
+{"label_numeric":"skill/S7.2.0","label_original":"installing interior or exterior infrastructure","hierarchyLevel":4,"label_replaced":"installing interior or exterior infrastructure"}
+{"label_numeric":"skill/S7.2.1","label_original":"installing heating, ventilation and air conditioning equipment","hierarchyLevel":4,"label_replaced":"installing heating, ventilation and air conditioning equipment"}
+{"label_numeric":"isced-f/0900","label_original":"health and welfare not further defined","hierarchyLevel":4,"label_replaced":"health and welfare not further defined"}
+{"label_numeric":"skill/S7.2.2","label_original":"installing plumbing or piping equipment or systems","hierarchyLevel":4,"label_replaced":"installing plumbing or piping equipment or systems"}
+{"label_numeric":"skill/S7.2.3","label_original":"installing insulation materials","hierarchyLevel":4,"label_replaced":"installing insulation materials"}
+{"label_numeric":"skill/S1.2.0","label_original":"liaising and networking","hierarchyLevel":4,"label_replaced":"liaising and networking"}
+{"label_numeric":"skill/S1.2.1","label_original":"coordinating activities with others","hierarchyLevel":4,"label_replaced":"coordinating activities with others"}
+{"label_numeric":"skill/S1.2.3","label_original":"developing professional relationships or networks","hierarchyLevel":4,"label_replaced":"developing professional relationships or networks"}
+{"label_numeric":"skill/S1.2.4","label_original":"advocating for individual or community needs","hierarchyLevel":4,"label_replaced":"advocating for individual or community needs"}
+{"label_numeric":"isced-f/080","label_original":"agriculture, forestry, fisheries and veterinary not further defined","hierarchyLevel":3,"label_replaced":"agriculture, forestry, fisheries and veterinary not further defined"}
+{"label_numeric":"isced-f/081","label_original":"agriculture","hierarchyLevel":3,"label_replaced":"agriculture"}
+{"label_numeric":"isced-f/082","label_original":"forestry","hierarchyLevel":3,"label_replaced":"forestry"}
+{"label_numeric":"skill/T1.1","label_original":"mastering languages","hierarchyLevel":3,"label_replaced":"mastering languages"}
+{"label_numeric":"isced-f/083","label_original":"fisheries","hierarchyLevel":3,"label_replaced":"fisheries"}
+{"label_numeric":"skill/T1.2","label_original":"working with numbers and measures","hierarchyLevel":3,"label_replaced":"working with numbers and measures"}
+{"label_numeric":"isced-f/084","label_original":"veterinary","hierarchyLevel":3,"label_replaced":"veterinary"}
+{"label_numeric":"skill/T1.3","label_original":"working with digital devices and applications","hierarchyLevel":3,"label_replaced":"working with digital devices and applications"}
+{"label_numeric":"skill/S4.0.0","label_original":"management skills","hierarchyLevel":4,"label_replaced":"management skills"}
+{"label_numeric":"isced-f/0299","label_original":"arts and humanities not elsewhere classified","hierarchyLevel":4,"label_replaced":"arts and humanities not elsewhere classified"}
+{"label_numeric":"isced-f/088","label_original":"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary"}
+{"label_numeric":"isced-f/089","label_original":"agriculture, forestry, fisheries and veterinary not elsewhere classified","hierarchyLevel":3,"label_replaced":"agriculture, forestry, fisheries and veterinary not elsewhere classified"}
+{"label_numeric":"isced-f/0500","label_original":"natural sciences, mathematics and statistics not further defined","hierarchyLevel":4,"label_replaced":"natural sciences, mathematics and statistics not further defined"}
+{"label_numeric":"isced-f/0910","label_original":"health not further defined","hierarchyLevel":4,"label_replaced":"health not further defined"}
+{"label_numeric":"isced-f/0911","label_original":"dental studies","hierarchyLevel":4,"label_replaced":"dental studies"}
+{"label_numeric":"isced-f/0912","label_original":"medicine","hierarchyLevel":4,"label_replaced":"medicine"}
+{"label_numeric":"isced-f/0913","label_original":"nursing and midwifery","hierarchyLevel":4,"label_replaced":"nursing and midwifery"}
+{"label_numeric":"isced-f/0914","label_original":"medical diagnostic and treatment technology","hierarchyLevel":4,"label_replaced":"medical diagnostic and treatment technology"}
+{"label_numeric":"isced-f/0915","label_original":"therapy and rehabilitation","hierarchyLevel":4,"label_replaced":"therapy and rehabilitation"}
+{"label_numeric":"isced-f/0916","label_original":"pharmacy","hierarchyLevel":4,"label_replaced":"pharmacy"}
+{"label_numeric":"isced-f/0917","label_original":"traditional and complementary medicine and therapy","hierarchyLevel":4,"label_replaced":"traditional and complementary medicine and therapy"}
+{"label_numeric":"isced-f/0919","label_original":"health not elsewhere classified","hierarchyLevel":4,"label_replaced":"health not elsewhere classified"}
+{"label_numeric":"isced-f/090","label_original":"health and welfare not further defined","hierarchyLevel":3,"label_replaced":"health and welfare not further defined"}
+{"label_numeric":"isced-f/091","label_original":"health","hierarchyLevel":3,"label_replaced":"health"}
+{"label_numeric":"isced-f/092","label_original":"welfare","hierarchyLevel":3,"label_replaced":"welfare"}
+{"label_numeric":"isced-f/098","label_original":"inter-disciplinary programmes and qualifications involving health and welfare","hierarchyLevel":3,"label_replaced":"inter-disciplinary programmes and qualifications involving health and welfare"}
+{"label_numeric":"isced-f/099","label_original":"health and welfare not elsewhere classified","hierarchyLevel":3,"label_replaced":"health and welfare not elsewhere classified"}
+{"label_numeric":"isced-f/0510","label_original":"biological and related sciences not further defined","hierarchyLevel":4,"label_replaced":"biological and related sciences not further defined"}
+{"label_numeric":"isced-f/0511","label_original":"biology","hierarchyLevel":4,"label_replaced":"biology"}
+{"label_numeric":"isced-f/0920","label_original":"welfare not further defined","hierarchyLevel":4,"label_replaced":"welfare not further defined"}
+{"label_numeric":"isced-f/0512","label_original":"biochemistry","hierarchyLevel":4,"label_replaced":"biochemistry"}
+{"label_numeric":"isced-f/0921","label_original":"care of the elderly and of disabled adults","hierarchyLevel":4,"label_replaced":"care of the elderly and of disabled adults"}

@@ -1,0 +1,160 @@
+	jobadterm	class_numeric	class_label	ontologyterms	annotator1_x	annotator1_y	annotator1	mean
+0	** DevOps ** Cloud-Konzepten, RESTful APIs	isced-f/0413	Management und Verwaltung	DevOps	1.0	1.0	1.0	1.0
+4	** DevOps ** Cloud-Konzepten, RESTful APIs	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	DevOps	1.0	1.0	1.0	1.0
+5	** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S1.11.1	Entwickeln von IKT-Systemen oder -Anwendungen	API entwerfen	1.0	1.0	1.0	1.0
+6	** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S1.9.1	Entwickeln von Lösungen	Cloud-Aufgaben automatisieren	1.0	1.0	1.0	1.0
+7	** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S5.1.0	Programmierung von Computersystemen	Cloud-Refactoring durchführen	1.0	1.0	1.0	1.0
+2	** DevOps ** Cloud-Konzepten, RESTful APIs	isced-f/0611	Computernutzung	UI-Software-Entwurfsmuster	0.5	0.5	1.0	0.666666667
+3	** DevOps ** Cloud-Konzepten, RESTful APIs	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	Dev-C++	0.5	0.5	1.0	0.666666667
+8	** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S5.5.0	Zugreifen auf und Analyse von digitalen Daten	Cloud-Refactoring durchführen	0.5	0.5	1.0	0.666666667
+9	** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S5.5.2	Verwalten und Analysieren digitaler Daten	Backup durchführen	0.5	0.5	1.0	0.666666667
+10	** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	APL	0.5	0.5	0.5	0.5
+1	** DevOps ** Cloud-Konzepten, RESTful APIs	isced-f/0416	Groß- und Einzelhandel	Devotionalienhändler	0.0	0.0	0.0	0.0
+1	## EN UNRATED ## ** DevOps ** Cloud-Konzepten, RESTful APIs	skill/T6.3	applying civic skills and competences
+1	## EN UNRATED ## ** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S1.2.1	coordinating activities with others
+1	## EN UNRATED ## ** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S1.3.5	coaching and mentoring
+1	## EN UNRATED ## ** DevOps ** Cloud-Konzepten, RESTful APIs	skill/S3.2.4	providing psychological and occupational therapies
+12	** EDV ** DOS, Windows	isced-f/0611	Computernutzung	EDV	1.0	1.0	1.0	1.0
+15	** EDV ** DOS, Windows	skill/S5	Arbeiten mit Computern	Arbeiten mit Computern	1.0	1.0	1.0	1.0
+16	** EDV ** DOS, Windows	skill/S5.0.0	Arbeiten mit Computern	IT	1.0	1.0	1.0	1.0
+17	** EDV ** DOS, Windows	skill/S5.5.0	Zugreifen auf und Analyse von digitalen Daten	EDV	1.0	1.0	0.0	0.666666667
+14	** EDV ** DOS, Windows	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	EDV-Helfer	0.0	1.0	0.0	0.333333333
+13	** EDV ** DOS, Windows	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	EDV-Administrator	0.0	0.5	0.0	0.166666667
+11	** EDV ** DOS, Windows	isced-f/0416	Groß- und Einzelhandel	EDV-Ausstattung	0.0	0.0	0.0	0.0
+11	## EN UNRATED ## ** EDV ** DOS, Windows	isced-f/0413	management and administration
+11	## EN UNRATED ## ** EDV ** DOS, Windows	skill/S7.3.3	applying protective or decorative solutions or coatings
+11	## EN UNRATED ## ** EDV ** DOS, Windows	skill/S2.7.5	performing risk analysis and management
+11	## EN UNRATED ## ** EDV ** DOS, Windows	skill/S3.2.6	fitting assistive devices
+11	## EN UNRATED ## ** EDV ** DOS, Windows	isced-f/0232	literature and linguistics
+36	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S5.2.3	Lösen von Computerproblemen	Troubleshooting für IKT-System durchführen	1.0	1.0	1.0	1.0
+39	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/T2.3	Handhaben von Problemen	Helpdesk-Probleme beheben	1.0	1.0	1.0	1.0
+40	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/T4.2	Unterstützen anderer	IKT-System-Endbenutzer betreuen	1.0	1.0	1.0	1.0
+26	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S1.9.1	Entwickeln von Lösungen	Helpdesk-Probleme beheben	1.0	1.0	0.5	0.833333333
+37	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	Troubleshooting für IKT-System durchführen	1.0	1.0	0.5	0.833333333
+27	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S3.4.0	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden	Benutzersupport für Elektrogeräte bereitstellen	1.0	1.0	0.0	0.666666667
+28	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S4.1.0	Entwicklung von Zielen und Strategien	Helpdesk-Probleme beheben	0.5	0.5	0.0	0.333333333
+18	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	Front-Support Mitarbeiter Bank	0.0	0.0	0.5	0.166666667
+19	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0413	Management und Verwaltung	Technische Sektionsleiterin	0.0	0.0	0.5	0.166666667
+21	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0611	Computernutzung	Decision Support Systems	0.0	0.0	0.5	0.166666667
+32	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S5.0.0	Arbeiten mit Computern	Cloud-Refactoring durchführen	0.5	0.0	0.0	0.166666667
+20	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0416	Groß- und Einzelhandel	Key account manager	0.0	0.0	0.0	0.0
+22	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	Secure Sockets Layer	0.0	0.0	0.0	0.0
+23	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0913	Krankenpflege und Hebammenausbildung	Erste Hilfe	0.0	0.0	0.0	0.0
+24	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0915	Therapie und Rehabilitation	Shiatsu	0.0	0.0	0.0	0.0
+25	** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/1032	Objekt- und Personenschutz	Securitas-Bewacher	0.0	0.0	0.0	0.0
+29	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S4.2.1	Leitung betrieblicher Tätigkeiten	Schlüsselindikatoren für die Leistung von Call Centern verwalten	0.0	0.0	0.0	0.0
+30	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S4.3.2	Personalmanagement	Freiwillige im Secondhandladen leiten	0.0	0.0	0.0	0.0
+31	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S4.8.1	Beaufsichtigen eines Teams oder einer Gruppe	Freiwillige im Secondhandladen leiten	0.0	0.0	0.0	0.0
+33	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S5.1.0	Programmierung von Computersystemen	Cloud-Refactoring durchführen	0.0	0.0	0.0	0.0
+34	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S5.2.1	Einrichten von Computersystemen	Cloud-Refactoring durchführen	0.0	0.0	0.0	0.0
+35	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S5.2.2	Schützen von IKT-Geräten	CleanMail Home	0.0	0.0	0.0	0.0
+38	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S8.6.4	Bedienen von Kommunikationsausrüstungen	Ship-to-Shore-Operationen durchführen	0.0	0.0	0.0	0.0
+41	** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/T4.4	Anleiten anderer	Freiwillige im Secondhandladen leiten	0.0	0.0	0.0	0.0
+41	## EN UNRATED ## ** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0211	audio-visual techniques and media production
+41	## EN UNRATED ## ** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/1022	occupational health and safety
+41	## EN UNRATED ## ** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S2.9.0	monitoring developments in area of expertise
+41	## EN UNRATED ## ** Second Level Support ** Koordination, Unterstützung von Key Usern	isced-f/0619	information and communication technologies not elsewhere classified
+41	## EN UNRATED ## ** Second Level Support ** Koordination, Unterstützung von Key Usern	skill/S8.4.5	operating petroleum, chemical or water processing systems or equipment
+48	Arztsekretärin ** MPA **	isced-f/0914	Medizinische Diagnostik und Medizintechnologie	MPA	1.0	1.0	1.0	1.0
+42	Arztsekretärin ** MPA **	isced-f/0415	Sekretariats- und Büroarbeit	Arztsekretärin	0.5	1.0	1.0	0.833333333
+45	Arztsekretärin ** MPA **	isced-f/0910	Gesundheit – nicht näher definiert	Medizinische Beraterin	0.5	0.5	0.5	0.5
+46	Arztsekretärin ** MPA **	isced-f/0912	Medizin	Ärztin, Dr. med.	0.5	0.0	1.0	0.5
+47	Arztsekretärin ** MPA **	isced-f/0913	Krankenpflege und Hebammenausbildung	Medizinische Betreuerin	0.5	0.5	0.0	0.333333333
+49	Arztsekretärin ** MPA **	isced-f/0919	Gesundheit – nirgendwo sonst klassifiziert	Medizinische Präparatorin	0.5	0.0	0.0	0.166666667
+43	Arztsekretärin ** MPA **	isced-f/0416	Groß- und Einzelhandel	Kosmetikverkäuferin	0.0	0.0	0.0	0.0
+44	Arztsekretärin ** MPA **	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	Medizinische Informatikerin	0.0	0.0	0.0	0.0
+50	Arztsekretärin ** MPA **	skill/S4.8.1	Beaufsichtigen eines Teams oder einer Gruppe	Arzthelfer/Arzthelferinnen beaufsichtigen	0.0	0.0	0.0	0.0
+51	Arztsekretärin ** MPA **	skill/S8.8.2	Instandhaltung von elektrischen, elektronischen und Präzisionsgeräten	Medizinprodukte warten	0.0	0.0	0.0	0.0
+51	## EN UNRATED ## Arztsekretärin ** MPA **	skill/S8.8.2	skill/S3.2.1	providing medical, dental and nursing care
+51	## EN UNRATED ## Arztsekretärin ** MPA **	skill/S8.8.2	skill/S6.9.6	training animals
+51	## EN UNRATED ## Arztsekretärin ** MPA **	skill/S8.8.2	skill/S2.5.0	measuring physical properties
+51	## EN UNRATED ## Arztsekretärin ** MPA **	skill/S8.8.2	skill/S5.2.2	protecting ict devices
+51	## EN UNRATED ## Arztsekretärin ** MPA **	skill/S8.8.2	skill/S1.5.4	providing medical advice
+55	EDV ** SORBA ** MS-Office	isced-f/0611	Computernutzung	Sodipodi	1.0	1.0	1.0	1.0
+67	EDV ** SORBA ** MS-Office	skill/T1.3	Arbeiten mit digitalen Geräten und Anwendungen	SAM Internet Scanner	1.0	0.5	1.0	0.833333333
+65	EDV ** SORBA ** MS-Office	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	REXX	1.0	1.0	0.0	0.666666667
+54	EDV ** SORBA ** MS-Office	isced-f/0413	Management und Verwaltung	SAP MDG	0.5	0.5	0.5	0.5
+64	EDV ** SORBA ** MS-Office	skill/S5.5.2	Verwalten und Analysieren digitaler Daten	Oracle ERP	0.5	0.0	0.5	0.333333333
+61	EDV ** SORBA ** MS-Office	skill/S2.4.2	Eingeben und Verarbeiten von Informationen	Formeln in Prozessabläufe übersetzen	0.0	0.0	0.5	0.166666667
+52	EDV ** SORBA ** MS-Office	isced-f/0322	Bibliotheks-, Informations- und Archivwissenschaften	Software für die Verwaltung von Sammlungen	0.0	0.0	0.0	0.0
+53	EDV ** SORBA ** MS-Office	isced-f/0411	Buchhaltung und Steuerwesen	SAP HR	0.0	0.0	0.0	0.0
+56	EDV ** SORBA ** MS-Office	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	REXX	0.0	0.0	0.0	0.0
+57	EDV ** SORBA ** MS-Office	isced-f/0915	Therapie und Rehabilitation	Hilfsmittel für Alltagsarbeiten	0.0	0.0	0.0	0.0
+58	EDV ** SORBA ** MS-Office	isced-f/0923	Sozialarbeit und Beratung	Sozialarbeiter, SASSA	0.0	0.0	0.0	0.0
+59	EDV ** SORBA ** MS-Office	isced-f/1022	Arbeitsschutz	SA8000	0.0	0.0	0.0	0.0
+60	EDV ** SORBA ** MS-Office	skill/S1.8.5	Befolgen von Anweisungen und Verfahren	Arbeitsablauf steuern	0.0	0.0	0.0	0.0
+62	EDV ** SORBA ** MS-Office	skill/S4.4.3	Wahrnehmung allgemeiner Büro- und Verwaltungsaufgaben	Benutzerdokumentation für Datenbanken schreiben	0.0	0.0	0.0	0.0
+63	EDV ** SORBA ** MS-Office	skill/S5.1.0	Programmierung von Computersystemen	Schnittstellenbeschreibungssprache verwenden	0.0	0.0	0.0	0.0
+66	EDV ** SORBA ** MS-Office	skill/S5.6.2	Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	Microsoft Office Word	0.0	0.0	0.0	0.0
+68	EDV ** SORBA ** MS-Office	skill/T2.1	Verarbeiten von Informationen, Ideen und Konzepten	Arbeitszettelanweisungen lesen	0.0	0.0	0.0	0.0
+69	EDV ** SORBA ** MS-Office	skill/T2.3	Handhaben von Problemen	SAM Internet Scanner	0.0	0.0	0.0	0.0
+70	EDV ** SORBA ** MS-Office	skill/T3.1	Effizientes Arbeiten	Arbeitsabläufe entwickeln	0.0	0.0	0.0	0.0
+70	## EN UNRATED ## EDV ** SORBA ** MS-Office	skill/S1.7.1	interviewing
+70	## EN UNRATED ## EDV ** SORBA ** MS-Office	skill/S8.4.1	operating mining, drilling and mineral processing machinery
+70	## EN UNRATED ## EDV ** SORBA ** MS-Office	skill/T3.2	taking a proactive approach
+70	## EN UNRATED ## EDV ** SORBA ** MS-Office	isced-f/0612	database and network design and administration
+70	## EN UNRATED ## EDV ** SORBA ** MS-Office	skill/L1	languages
+95	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	isced-f/0611	Computernutzung	Textverarbeitungssoftware	1.0	1.0	1.0	1.0
+100	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/S5.6.2	Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	TextEdit	1.0	1.0	1.0	1.0
+101	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/T1.3	Arbeiten mit digitalen Geräten und Anwendungen	TextEdit	1.0	1.0	1.0	1.0
+94	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	isced-f/0415	Sekretariats- und Büroarbeit	Textverarbeiter	0.5	0.5	1.0	0.666666667
+97	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/S1.13.0	Schreiben und Komponieren	Computerprogramm für Stenografie nutzen	0.0	0.5	0.5	0.333333333
+96	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	Texterkennungs-Programm	0.0	0.0	0.0	0.0
+98	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/S2.3.0	Informationsmanagement	Text lernen	0.0	0.0	0.0	0.0
+99	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/S2.7.0	Analyse und Auswertung von Informationen und Daten	Text Korrektur lesen	0.0	0.0	0.0	0.0
+102	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/T2.2	Planen und Organisieren	Text Korrektur lesen	0.0	0.0	0.0	0.0
+102	## EN UNRATED ## EDV-Hilfen, PC ** Textsystem MS-Word 4 **	skill/S2.2.2	recording legal information
+102	## EN UNRATED ## EDV-Hilfen, PC ** Textsystem MS-Word 4 **	isced-f/0414	marketing and advertising
+102	## EN UNRATED ## EDV-Hilfen, PC ** Textsystem MS-Word 4 **	isced-f/0732	building and civil engineering
+102	## EN UNRATED ## EDV-Hilfen, PC ** Textsystem MS-Word 4 **	isced-f/0716	motor vehicles, ships and aircraft
+160	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/T1.3	Arbeiten mit digitalen Geräten und Anwendungen	Tastatur bedienen	1.0	1.0	1.0	1.0
+150	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	isced-f/0611	Computernutzung	PC-Anwender	1.0	1.0	0.0	0.666666667
+157	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S5.6.2	Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	IBM Lotus Word Pro	0.5	0.5	0.5	0.5
+156	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	MS-Office	0.0	1.0	0.0	0.333333333
+148	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	isced-f/0231	Fremdsprachenerwerb	Fingersprache	0.0	0.0	0.0	0.0
+149	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	isced-f/0413	Management und Verwaltung	5S-Methode	0.0	0.0	0.0	0.0
+151	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	PC-Supporter	0.0	0.0	0.0	0.0
+152	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	PC-Spezialist	0.0	0.0	0.0	0.0
+153	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S2.1.1	Durchführung von Untersuchungen	Fingerabdrücke nachweisen	0.0	0.0	0.0	0.0
+154	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S4.4.2	Abwickeln von Finanzgeschäften	Strichcode-Lesegeräte nutzen	0.0	0.0	0.0	0.0
+155	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S5.5.0	Zugreifen auf und Analyse von digitalen Daten	PC-Anwender	0.0	0.0	0.0	0.0
+158	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S5.7.0	Nutzung digitaler Tools für die Steuerung von Maschinen	Entrance Exit (NX)	0.0	0.0	0.0	0.0
+159	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S6.1.2	Kennzeichnen von Materialien oder Gegenständen zwecks Identifizierung	Kreidelinie mit Schlagschnur ziehen	0.0	0.0	0.0	0.0
+161	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/T2.3	Handhaben von Problemen	S10SCAN	0.0	0.0	0.0	0.0
+161	## EN UNRATED ## PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S2.7.1	assessing land or real estate
+161	## EN UNRATED ## PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S1.11.3	developing recipes or menus
+161	## EN UNRATED ## PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/S8.5.6	operating print and photographic production equipment
+161	## EN UNRATED ## PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	isced-f/0731	architecture and town planning
+161	## EN UNRATED ## PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	skill/T6.6	applying general knowledge
+163	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	internationale Rechnungslegungsstandards	1.0	1.0	1.0	1.0
+170	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S3.3.3	Einhaltung rechtlicher und organisatorischer Leitlinien	Konformität mit Offenlegungskriterien für Rechnungslegungsdaten sicherstellen	1.0	1.0	1.0	1.0
+171	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S4.3.1	Verwaltung von Haushalten oder Finanzen	Konformität mit Rechnungslegungsrichtlinien sicherstellen	1.0	1.0	1.0	1.0
+162	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	isced-f/0411	Buchhaltung und Steuerwesen	Corporate Controller	1.0	0.5	1.0	0.833333333
+166	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S2.2.1	Erstellen von Finanzunterlagen, Aufzeichnungen, Berichten oder Haushaltsplänen	Jahresabschlüsse erstellen	1.0	0.0	1.0	0.666666667
+168	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S2.7.3	Analyse von Finanz- und Wirtschaftsdaten	Jahresabschlüsse auslegen	1.0	0.0	1.0	0.666666667
+169	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S2.8.3	Überwachung finanzieller und wirtschaftlicher Ressourcen und Tätigkeiten	Finanzprüfungsberichte erstellen	1.0	0.0	1.0	0.666666667
+167	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S2.7.0	Analyse und Auswertung von Informationen und Daten	Finanzprüfungsberichte erstellen	0.5	0.0	1.0	0.5
+164	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	isced-f/0413	Management und Verwaltung	Richtlinie des internen Risikomanagements	0.5	0.0	0.5	0.333333333
+165	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	isced-f/1041	Dienstleistungen im Bereich Verkehr	Swissair-Arbeiter	0.0	0.0	0.0	0.0
+172	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/T2.2	Planen und Organisieren	Finanzprüfungsberichte erstellen	0.0	0.0	0.0	0.0
+172	## EN UNRATED ## Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	isced-f/1011	domestic services
+172	## EN UNRATED ## Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S1.3.2	teaching safety procedures
+172	## EN UNRATED ## Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S1.15.2	translating and interpreting
+172	## EN UNRATED ## Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	skill/S1.12.2	developing instructive or promotional materials
+224	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/T1.3	Arbeiten mit digitalen Geräten und Anwendungen	Toggl	1.0	1.0	1.0	1.0
+212	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0211	Audiovisuelle Techniken und Medienproduktion	Tiegelpresseneinleger	0.5	1.0	1.0	0.833333333
+214	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0611	Computernutzung	GimPhoto	1.0	0.5	1.0	0.833333333
+218	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S1.2.0	Herstellen und Pflegen von Kontakten sowie Bildung von Netzwerken	Rolle des Unterstützerteams von Community Art Programmen festlegen	1.0	0.0	1.0	0.666666667
+220	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	Tcl	0.5	0.5	1.0	0.666666667
+213	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0413	Management und Verwaltung	Social Media Management	0.5	0.0	0.5	0.333333333
+221	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S5.6.2	Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	Kineticast	0.5	0.5	0.0	0.333333333
+215	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	Tizen	0.0	0.0	0.0	0.0
+216	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0711	Chemietechnik und ‑verfahren	Tintenkocher	0.0	0.0	0.0	0.0
+217	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0715	Mechanik und Metallbearbeitung	Tiegelofengiesser	0.0	0.0	0.0	0.0
+219	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S3.1.1	Beratung in persönlichen, familiären oder sozialen Fragen	Datingberatung leisten	0.0	0.0	0.0	0.0
+222	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S8.5.0	Bedienen von Maschinen für die Herstellung von Erzeugnissen	Tissuepapierbinder bedienen	0.0	0.0	0.0	0.0
+223	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S8.5.5	Betrieb von Misch- und Trennmaschinen	Tinte abscheiden	0.0	0.0	0.0	0.0
+223	## EN UNRATED ## sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S6.11.1	cleaning tools, equipment, workpieces and vehicles
+223	## EN UNRATED ## sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	skill/S1.15.0	using more than one language
+223	## EN UNRATED ## sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0421	law
+223	## EN UNRATED ## sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	isced-f/0722	materials (glass, paper, plastic and wood)

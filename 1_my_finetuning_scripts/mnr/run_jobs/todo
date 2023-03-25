@@ -1,0 +1,9 @@
+run the job for de_xlm-ft-jobads
+
+The job was not attaching (This is now running)
+
+------------------ EN ------------------
+
+The job xlm-ft-jobads and xlm-def-jobads might not terminate in time, might have to rerun these two jobs
+
+Check the results of the de mnr data from tensorboard, something is not right there maybe

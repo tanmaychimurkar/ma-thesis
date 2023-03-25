@@ -1,0 +1,15 @@
+Krippendorff's alpha (ordinal):
+
+random sample class asg, eb, sc 0.8298225162068446
+EDU	0.8572
+EXP	0.7718
+LNG 0.9019
+
+
+
+random sample uri asg, eb 0.8142761498457206
+EDU	 0.8138
+EXP	 0.7229
+LNG	0.9296
+
+challenge sample class asg, eb, sc 0.73773616303742

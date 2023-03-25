@@ -1,0 +1,398 @@
+	jobadterm	class_numeric	class_label	ontologyterms	annotator_x	annotator_y	annotator_z	mean
+0	 ** BWL-Studium ** 	isced-f/0311	Wirtschaftswissenschaft	VWL | Betriebswirtschaft | Wirtschaftswissenschaft | Wirtschaftswissenschaftler | BWL	1.0	1.0	1.0	1.0
+3	 ** BWL-Studium ** 	isced-f/0413	Management und Verwaltung	Betriebswissenschafterin | Betriebswirtschaft | betriebswirtschaftliches Fachwissen | Wirtschaftswissenschaften | betriebswirtschaftliche Grundsätze | Betriebsökonom | Betriebswirtschafter | Wirtschaftsinformatik | Betriebswirt | Bachelor of Business Administration | Betriebsökonom, Wirtschaftsinformatik | Betriebsökonomin, Wirtschaftsinformatik | Wirtschaftswissenschaften, übrige | Betriebsinformatik | Bachelor of Public Administration | Betriebswissenschafter | Betriebsökonomie | Master of Business Administration	1.0	1.0	1.0	1.0
+5	 ** BWL-Studium ** 	isced-f/0499	Wirtschaft, Verwaltung und Rechtswissenschaft – nirgendwo sonst klassifiziert	Wirtschaft, Verwaltung und Rechtswissenschaft	0.5	0.5	0.5	0.5
+2	 ** BWL-Studium ** 	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	Bachelor of Computer Science in Banking and Finance	0.0	0.5	0.0	0.166666667
+1	 ** BWL-Studium ** 	isced-f/0314	Soziologie und Kulturstudien	Soziologie und Kulturstudien | Soziologie	0.0	0.0	0.0	0.0
+4	 ** BWL-Studium ** 	isced-f/0421	Rechtswissenschaft	Bachelor of Laws LL.B | Bachelor of Laws	0.0	0.0	0.0	0.0
+6	 ** BWL-Studium ** 	isced-f/0541	Mathematik	Wirtschaftsmathematiker	0.0	0.0	0.0	0.0
+7	 ** BWL-Studium ** 	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	SAP BW	0.0	0.0	0.0	0.0
+8	 ** BWL-Studium ** 	skill/S1.3.1	Unterricht in akademischen oder berufsbildenden Fächern	wirtschaftswissenschaftliche Grundlagen vermitteln	0.0	0.0	0.0	0.0
+8	 ## DE UNRATED ## ** BWL-Studium **	skill/S1.12.1	creating visual displays and decorations					
+8	 ## DE UNRATED ## ** BWL-Studium **	isced-f/0613	software and applications development and analysis					
+8	 ## DE UNRATED ## ** BWL-Studium **	skill/T4.2	supporting others					
+8	 ## DE UNRATED ## ** BWL-Studium **	skill/S1.13.3	technical or academic writing					
+8	 ## DE UNRATED ## ** BWL-Studium **	skill/S1.2.1	coordinating activities with others					
+8	 ## DE UNRATED ## ** BWL-Studium **	skill/S2.1.2	diagnosing health conditions					
+8	 ## DE UNRATED ## ** BWL-Studium **	isced-f/0322	library, information and archival studies					
+13	 ** Bauingenieurwesen ** 	isced-f/0732	Bau- und Bauingenieurwesen	Baukonstrukteur | Bau- und Bauingenieurwesen | Ingenieurin, Bauingenieurwesen | Bauplaner | Baubiologe | Gebäudetechnik | Bauamtsarbeiterin | Bauingenieur | Bauverfahren | Baubiologin | Bauprojektleiter | Bauwesen | Baubiologin/Bauökologin | Bauingenieurwesen | Bauprojektmitarbeiter | Bau unter Luftabschluss | Bauelementeingenieur | Bauingenieurin | Bauexpertin | Baupraktiker/in | Ingenieur, Bauingenieurwesen | Bauingenieurin HTL | Bauarbeiter | Bauvorschriften | Bauprodukte | Bauexperte | Baubranche | Bauleiter | Bauingenieur HTL | Bauleiter, Tiefbau | Baupläne	1.0	1.0	1.0	1.0
+9	 ** Bauingenieurwesen ** 	isced-f/07	Ingenieurwesen, Fertigung und Bauwesen	Ingenieurwesen, Fertigung und Bauwesen	1.0	0.5	1.0	0.833333333
+10	 ** Bauingenieurwesen ** 	isced-f/073	Architektur und Bauwesen	Architektur und Bauwesen	0.5	0.5	1.0	0.666666667
+11	 ** Bauingenieurwesen ** 	isced-f/0730	Architektur und Bauwesen – nicht näher definiert	Architektur und Bauwesen	0.5	0.5	1.0	0.666666667
+14	 ** Bauingenieurwesen ** 	skill/S7.0.0	Bau	Bau	1.0	0.5	0.5	0.666666667
+12	 ** Bauingenieurwesen ** 	isced-f/0731	Architektur und Städteplanung	Architektur, Bau- und Planungswesen	0.5	0.0	1.0	0.5
+12	 ## DE UNRATED ## ** Bauingenieurwesen **	skill/S1.11.4	designing structures or facilities					
+12	 ## DE UNRATED ## ** Bauingenieurwesen **	skill/S6.5.1	fabricating precision instruments or jewellery					
+12	 ## DE UNRATED ## ** Bauingenieurwesen **	skill/S6.11.2	cleaning interior and exterior of buildings					
+18	 ** Biologielaborant/in ** 	isced-f/0711	Chemietechnik und ‑verfahren	Biologielaborleiter | Biologielaborant, Pharmabiologie | Biologielaborantin, Pharmabiologie | Biologie-Cheflaborantin | Biologie-Cheflaborant | Laborant/in - Biologie | Biologielaborant/in - Pharmabiologie | Biologieassistent | Biologielaborant, Agrobiologie | Biologielaborantin | Biologielaborant/in - Agrobiologie | Biologielaborleiterin | Biologielaborant | Biologielaborant/in	1.0	1.0	1.0	1.0
+16	 ** Biologielaborant/in ** 	isced-f/0511	Biologie	Biologie | Biologe | Biologietechniker | Biologietechnikerin	0.5	0.5	1.0	0.666666667
+17	 ** Biologielaborant/in ** 	isced-f/0512	Biochemie	Biologieingenieur | Biologieingenieurin	0.0	0.5	0.5	0.333333333
+15	 ** Biologielaborant/in ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Biologielehrerassistentin	0.0	0.0	0.0	0.0
+15	 ## DE UNRATED ## ** Biologielaborant/in **	skill/T2.1	processing information, ideas and concepts					
+15	 ## DE UNRATED ## ** Biologielaborant/in **	isced-f/0531	chemistry					
+15	 ## DE UNRATED ## ** Biologielaborant/in **	skill/S8.5.4	operating food processing machinery					
+15	 ## DE UNRATED ## ** Biologielaborant/in **	skill/S1.3.1	teaching academic or vocational subjects					
+15	 ## DE UNRATED ## ** Biologielaborant/in **	skill/S6.2.1	loading and unloading goods and, materials					
+19	 ** Disponent ** 	isced-f/0413	Management und Verwaltung	Dispositionsleiterin | Disponent | Termindisponent | Disponentin | Disponentgehilfin | Dispositionsleiter | Dispositionschefin | Dispositionschef | Disponentgehilfe	1.0	1.0	1.0	1.0
+22	 ** Disponent ** 	isced-f/1041	Dienstleistungen im Bereich Verkehr	Disponentin Transport und Logistik | Disponent Schifffahrt | Disponentin Schifffahrt | Disponent der Zugleitung | Disponent Transport und Logistik | Disponentin der Zugleitung	1.0	0.5	1.0	0.833333333
+21	 ** Disponent ** 	isced-f/0914	Medizinische Diagnostik und Medizintechnologie	Disponent Notrufzentrale | Disponentin Notrufzentrale	0.0	0.5	1.0	0.5
+20	 ** Disponent ** 	isced-f/0700	Ingenieurwesen, Fertigung und Bauwesen – nicht näher definiert	Dispositionszeichnerin | Dispositionszeichner	0.0	0.0	0.0	0.0
+20	 ## DE UNRATED ## ** Disponent **	isced-f/0611	computer use					
+20	 ## DE UNRATED ## ** Disponent **	skill/S2.8.1	monitoring, inspecting and testing equipment, systems and products					
+20	 ## DE UNRATED ## ** Disponent **	skill/S5.2.2	protecting ict devices					
+20	 ## DE UNRATED ## ** Disponent **	skill/S8.5.6	operating print and photographic production equipment					
+20	 ## DE UNRATED ## ** Disponent **	isced-f/1015	travel, tourism and leisure					
+20	 ## DE UNRATED ## ** Disponent **	skill/S6.13.2	disposing of non-hazardous waste or debris					
+20	 ## DE UNRATED ## ** Disponent **	skill/T1.3	working with digital devices and applications					
+20	 ## DE UNRATED ## ** Disponent **	skill/S4.2.2	planning and scheduling events and activities					
+20	 ## DE UNRATED ## ** Disponent **	skill/T1.2	working with numbers and measures					
+20	 ## DE UNRATED ## ** Disponent **	skill/S1.5.7	advising on business or operational matters					
+20	 ## DE UNRATED ## ** Disponent **	skill/T4.1	communicating					
+24	 ** Englisch (sehr gut in Wort und Schrift) ** 	skill/L1	Sprachen	Englisch sprechen | Englisch schreiben | Englisch | Englisch lesen	1.0	1.0	1.0	1.0
+26	 ** Englisch (sehr gut in Wort und Schrift) ** 	skill/T1.1	Beherrschen von Sprachen	Englisch sprechen | Englisch lesen | geschriebenes Englisch verstehen | Englisch schreiben | Englisch	1.0	1.0	1.0	1.0
+23	 ** Englisch (sehr gut in Wort und Schrift) ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Englischlehrer | Englischlehrerin	0.0	0.0	0.0	0.0
+25	 ** Englisch (sehr gut in Wort und Schrift) ** 	skill/S1.3.1	Unterricht in akademischen oder berufsbildenden Fächern	Englisch als Fremdsprache unterrichten	0.0	0.0	0.0	0.0
+25	 ## DE UNRATED ## ** Englisch (sehr gut in Wort und Schrift) **	skill/S4.2.1	directing operational activities					
+25	 ## DE UNRATED ## ** Englisch (sehr gut in Wort und Schrift) **	skill/S1.15.1	using foreign languages					
+25	 ## DE UNRATED ## ** Englisch (sehr gut in Wort und Schrift) **	skill/T1	core skills and competences					
+25	 ## DE UNRATED ## ** Englisch (sehr gut in Wort und Schrift) **	skill/S1.15.0	using more than one language					
+25	 ## DE UNRATED ## ** Englisch (sehr gut in Wort und Schrift) **	skill/S6.4	tending plants and crops					
+29	 ** Feuerwehr ** Sanität	isced-f/1032	Objekt- und Personenschutz	Feuerwehrtechniker | Feuerwehroffizierin | Feuerwehrkorporal | Feuerwehrinspektorin | Feuerwehr-Gerätewartin | Feuerwehrinspektor | Feuerwehrkommandant | Feuerwehrmann | Feuerwehrkommandantin | Feuerwehrtechnikerin | Feuerwehrfrau | Feuerwehrwachtmeisterin | Feuerwehrwachtmeister | Feuerwehr-Gerätewart | Feuerwehrgefreite | Feuerwehroffizier | Feuerwehrsoldat | Feuerwehrgefreiter	1.0	1.0	1.0	1.0
+27	 ** Feuerwehr ** Sanität	isced-f/0913	Krankenpflege und Hebammenausbildung	Erste Hilfe	0.0	0.0	0.0	0.0
+28	 ** Feuerwehr ** Sanität	isced-f/0914	Medizinische Diagnostik und Medizintechnologie	Rettungssanitäter | Rettungssanitäter, Berufsretter | Rettungssanitäterin, Berufsretterin | Sanitäterin | Sanitätspolizist | Sanitäter | Sanitätspolizistin | Rettungssanitäterin	0.0	0.0	0.0	0.0
+30	 ** Feuerwehr ** Sanität	skill/S3.2.0	Gesundheitsfürsorge und medizinische Behandlungen	Erste Hilfe in Notfällen leisten	0.0	0.0	0.0	0.0
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	skill/S2.8.1	monitoring, inspecting and testing equipment, systems and products					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	skill/T4.2	supporting others					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	skill/S8.3.0	operating watercraft					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	isced-f/0732	building and civil engineering					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	skill/T1.1	mastering languages					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	skill/S1.8.6	assisting and supporting co-workers					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	skill/S8.2.1	driving heavy vehicles					
+30	 ## DE UNRATED ## ** Feuerwehr ** Sanität	isced-f/0912	medicine					
+32	 ** Französisch ** 	skill/L1	Sprachen	Französisch sprechen | Französisch schreiben | geschriebenes Französisch verstehen | Sprachen | gesprochenes Französisch verstehen | Französisch lesen | Französisch	1.0	1.0	1.0	1.0
+34	 ** Französisch ** 	skill/T1.1	Beherrschen von Sprachen	Französisch sprechen | Französisch schreiben | geschriebenes Französisch verstehen | Französisch lesen | Französisch	1.0	1.0	1.0	1.0
+31	 ** Französisch ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Französischlehrerin | Französischlehrer	0.0	0.0	0.5	0.166666667
+33	 ** Französisch ** 	skill/S	Fähigkeiten	Fähigkeiten	0.0	0.0	0.0	0.0
+33	 ## DE UNRATED ##  ** Französisch ** 	skill/S8.1.2   operating agricultural or forestry equipment						
+36	 ** Fremdsprachenkenntnissen ** 	isced-f/023	Fremdsprachen	Fremdsprachen	1.0	1.0	1.0	1.0
+37	 ** Fremdsprachenkenntnissen ** 	isced-f/0230	Fremdsprachen – nicht näher definiert	Fremdsprachen	1.0	1.0	1.0	1.0
+39	 ** Fremdsprachenkenntnissen ** 	isced-f/0239	Fremdsprachen – nirgendwo sonst klassifiziert	Fremdsprachen	1.0	1.0	1.0	1.0
+41	 ** Fremdsprachenkenntnissen ** 	skill/S1.15.1	Benutzung von Fremdsprachen	Benutzung von Fremdsprachen | Fremdsprachen sprechen | Sprachregeln beherrschen | Fremdsprachen in der Betreuung von Patienten/Patientinnen verwenden | Fremdsprachenkenntnisse in der Tourismusbranche einsetzen | Fremdsprachen im internationalen Handel anwenden | Fremdsprachenkenntnisse im Hotel- und Gaststättengewerbe anwenden | Fremdsprachenkenntnisse im Hotel- und Gaststättengewerbe einsetzen | sprachliche Regeln beherrschen | Fremdsprachen in den sozialen Diensten sprechen | Fremdsprachenkenntnisse in der Tourismusbranche anwenden	1.0	1.0	1.0	1.0
+38	 ** Fremdsprachenkenntnissen ** 	isced-f/0231	Fremdsprachenerwerb	Fremdsprachen für internationale Karrieren | Fremdsprachenerwerb	1.0	1.0	0.5	0.833333333
+42	 ** Fremdsprachenkenntnissen ** 	skill/S1.15.2	Übersetzen und Dolmetschen	Fremdsprachen übersetzen	0.5	0.5	1.0	0.666666667
+40	 ** Fremdsprachenkenntnissen ** 	isced-f/0415	Sekretariats- und Büroarbeit	Fremdsprachenkorrespondentin | Fremdsprachenkorrespondent | Fremdsprachensekretärin | Fremdsprachensekretär	0.0	0.0	0.5	0.166666667
+35	 ** Fremdsprachenkenntnissen ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Fremdsprachenlehrer | Fremdsprachenlehrerin	0.0	0.0	0.0	0.0
+35	 ## DE UNRATED ## ** Fremdsprachenkenntnissen **	isced-f/1041	transport services					
+35	 ## DE UNRATED ## ** Fremdsprachenkenntnissen **	skill/S2.6.3	estimating resource needs					
+35	 ## DE UNRATED ## ** Fremdsprachenkenntnissen **	skill/L1	languages					
+35	 ## DE UNRATED ## ** Fremdsprachenkenntnissen **	skill/S1.15	using more than one language					
+44	 ** Führungserfahrung ** 	isced-f/0413	Management und Verwaltung	Führungsverantwortliche | Umfassende Leadership | Führungsexperte | Führungsexpertin | in Leadership und Management | Führungsfachfrau | in Unternehmens- und Mitarbeiterführung | Führungsverantwortlicher | Führungsfachmann	1.0	1.0	1.0	1.0
+50	 ** Führungserfahrung ** 	skill/S4.5	Führung und Motivation	Führung und Motivation	1.0	1.0	1.0	1.0
+51	 ** Führungserfahrung ** 	skill/S4.5.0	Führung und Motivation	Führungskompetenzen in Fällen von sozialen Diensten beweisen | Führung und Motivation	1.0	1.0	1.0	1.0
+52	 ** Führungserfahrung ** 	skill/T4.4	Anleiten anderer	Führungskompetenzen in Fällen von sozialen Diensten beweisen	1.0	1.0	1.0	1.0
+43	 ** Führungserfahrung ** 	isced-f/0031	Fähigkeiten und Persönlichkeitsentwicklung	Führungsprinzipien	1.0	0.5	0.5	0.666666667
+46	 ** Führungserfahrung ** 	skill/S4	Managementfähigkeiten	Managementfähigkeiten	0.5	0.5	1.0	0.666666667
+47	 ** Führungserfahrung ** 	skill/S4.0	Managementfähigkeiten	Managementfähigkeiten	0.5	0.5	1.0	0.666666667
+48	 ** Führungserfahrung ** 	skill/S4.0.0	Managementfähigkeiten	Managementfähigkeiten | Managementkompetenzen besitzen	0.5	0.5	1.0	0.666666667
+49	 ** Führungserfahrung ** 	skill/S4.3.2	Personalmanagement	Personalmanagement	0.0	0.5	1.0	0.5
+45	 ** Führungserfahrung ** 	isced-f/1032	Objekt- und Personenschutz	Führungsperson in Rettungsorganisationen	0.0	0.0	0.0	0.0
+45	 ## DE UNRATED ## ** Führungserfahrung **	skill/S4.2.1	directing operational activities					
+45	 ## DE UNRATED ## ** Führungserfahrung **	skill/S1.3.5	coaching and mentoring					
+45	 ## DE UNRATED ## ** Führungserfahrung **	skill/S1.15.1	using foreign languages					
+45	 ## DE UNRATED ## ** Führungserfahrung **	skill/S2.2.3	preparing documentation for contracts, applications, or permits					
+45	 ## DE UNRATED ## ** Führungserfahrung **	skill/S4.1.4	developing research plans					
+45	 ## DE UNRATED ## ** Führungserfahrung **	skill/S1.9.2	implementing new procedures or processes					
+53	 ** Gewinnung von Neukunden ** Akquise	isced-f/0414	Marketing und Werbung	Direktmarketing-Assistent | Anwerbungsmethoden | Kundenwissen | Kundensegmentierung | Suchmaschinenmarketing | Markteintrittsplanung | Kundenkenntnis | Markteintrittsstrategien | Marketing und Werbung | Verkaufsstrategien | Optimierung von Suchmaschinen | Verkaufsargumentation | Kundeneinteilung	1.0	1.0	1.0	1.0
+57	 ** Gewinnung von Neukunden ** Akquise	skill/S1.2.3	Aufbau von beruflichen Beziehungen oder Netzwerken	neue Kunden ausfindig machen | Aufbau von beruflichen Beziehungen oder Netzwerken | Geschäftsbeziehungen aufbauen | Aufbau eines Netzwerks von Anbietern im Tourismusbereich	1.0	1.0	1.0	1.0
+61	 ** Gewinnung von Neukunden ** Akquise	skill/S1.6.0	Werbung, Verkauf und Kauf	Marketing per E-Mail durchführen | Marketingplan für Schuhwerk umsetzen | Marketingplan durchführen	1.0	1.0	1.0	1.0
+62	 ** Gewinnung von Neukunden ** Akquise	skill/S1.6.1	Verkauf von Waren oder Dienstleistungen	Verkaufsförderungsmaßnahmen festlegen | Umsatzerlöse maximieren | aktives Verkaufen durchführen | Kundendiensttätigkeiten durchführen	1.0	1.0	1.0	1.0
+63	 ** Gewinnung von Neukunden ** Akquise	skill/S1.6.2	Werbung für Waren, Dienstleistungen oder Programme	Kundinnen und Kunden betreuen | Marketingstrategien umsetzen | Werbung für Facilitymanagement-Dienstleistungen machen | Verkaufsförderung von Finanzprodukten durchführen | Vertriebsstrategien umsetzen | Aufbau von Bewertungskapazitäten fördern | Kunden betreuen | Kundendienst verrichten | Kundenbetreuung pflegen	1.0	1.0	1.0	1.0
+79	 ** Gewinnung von Neukunden ** Akquise	skill/T6.5	Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	neue Kunden ausfindig machen	1.0	1.0	0.5	0.833333333
+54	 ** Gewinnung von Neukunden ** Akquise	isced-f/0416	Groß- und Einzelhandel	Privatkundenberater | Kundenbesucher | Akquisiteur | Immobilienpromotor | Akquisiteurin | Kundenbesucherin | Erster Verkäufer | Kundenwerberin | Kundenwerber	1.0	0.5	0.5	0.666666667
+64	 ** Gewinnung von Neukunden ** Akquise	skill/S1.7.2	Zusammenarbeit mit anderen, um Bedürfnisse zu ermitteln	Kunden mit Alternativen gewinnen	0.5	0.0	0.5	0.333333333
+70	 ** Gewinnung von Neukunden ** Akquise	skill/S4.1.1	Ermittlung von Möglichkeiten	Ermittlung von Möglichkeiten	0.5	0.0	0.5	0.333333333
+71	 ** Gewinnung von Neukunden ** Akquise	skill/S4.1.2	Entwicklung von Finanz-, Geschäfts- oder Marketingplänen	Marketingkampagne planen	0.5	0.5	0.0	0.333333333
+60	 ** Gewinnung von Neukunden ** Akquise	skill/S1.5.3	Beratung zu Waren und Dienstleistungen	bei Akquisitionen beraten	0.5	0.0	0.0	0.166666667
+67	 ** Gewinnung von Neukunden ** Akquise	skill/S3.4	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden	0.5	0.0	0.0	0.166666667
+68	 ** Gewinnung von Neukunden ** Akquise	skill/S3.4.0	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden	Bereitstellung von Informationen sowie Unterstützung der Öffentlichkeit und der Kunden	0.5	0.0	0.0	0.166666667
+72	 ** Gewinnung von Neukunden ** Akquise	skill/S4.2.1	Leitung betrieblicher Tätigkeiten	Marketingkampagne planen	0.0	0.5	0.0	0.166666667
+73	 ** Gewinnung von Neukunden ** Akquise	skill/S4.2.2	Planung von Veranstaltungen und Aktivitäten	Verkaufsbesuche von Kunden planen	0.0	0.5	0.0	0.166666667
+55	 ** Gewinnung von Neukunden ** Akquise	isced-f/0713	Elektrizität und Energie	Elektrotechnik	0.0	0.0	0.0	0.0
+56	 ** Gewinnung von Neukunden ** Akquise	isced-f/0721	Lebensmittelverarbeitung	Gewinnung von Spirituosen	0.0	0.0	0.0	0.0
+58	 ** Gewinnung von Neukunden ** Akquise	skill/S1.5	Beraten	Beraten	0.0	0.0	0.0	0.0
+59	 ** Gewinnung von Neukunden ** Akquise	skill/S1.5.0	Beraten	Beraten	0.0	0.0	0.0	0.0
+65	 ** Gewinnung von Neukunden ** Akquise	skill/S2.7.0	Analyse und Auswertung von Informationen und Daten	Optimierung von Suchmaschinen | Suchmaschinenmarketing	0.0	0.0	0.0	0.0
+66	 ** Gewinnung von Neukunden ** Akquise	skill/S3.3.5	Aufrechterhaltung und Durchsetzung der physischen Sicherheit	Diebstahl verhindern	0.0	0.0	0.0	0.0
+69	 ** Gewinnung von Neukunden ** Akquise	skill/S3.4.4	Allgemeine Unterstützung von Menschen	Abreise der Gäste unterstützen	0.0	0.0	0.0	0.0
+74	 ** Gewinnung von Neukunden ** Akquise	skill/S4.5.0	Führung und Motivation	Verkaufsmotivierung zeigen	0.0	0.0	0.0	0.0
+75	 ** Gewinnung von Neukunden ** Akquise	skill/S4.7	Anwerbung und Einstellung	Anwerbung und Einstellung	0.0	0.0	0.0	0.0
+76	 ** Gewinnung von Neukunden ** Akquise	skill/S4.7.0	Anwerbung und Einstellung	Anwerbung und Einstellung	0.0	0.0	0.0	0.0
+77	 ** Gewinnung von Neukunden ** Akquise	skill/S5.5.0	Zugreifen auf und Analyse von digitalen Daten	Optimierung von Suchmaschinen	0.0	0.0	0.0	0.0
+78	 ** Gewinnung von Neukunden ** Akquise	skill/T4.4	Anleiten anderer	Mitarbeiter motivieren  um Verkaufsziele zu erreichen | Verkaufsmotivierung zeigen	0.0	0.0	0.0	0.0
+78	 ## DE UNRATED ## ** Gewinnung von Neukunden ** Akquise	skill/T4.2	supporting others					
+78	 ## DE UNRATED ## ** Gewinnung von Neukunden ** Akquise	skill/S1.8.1	working in teams					
+78	 ## DE UNRATED ## ** Gewinnung von Neukunden ** Akquise	skill/S4.8.3	monitoring and evaluating the performance of individuals					
+78	 ## DE UNRATED ## ** Gewinnung von Neukunden ** Akquise	skill/T3.2	taking a proactive approach					
+87	 ** Handwerkliche ** 	skill/S6.7	Verwendung von Handwerkzeugen	Verwendung von Handwerkzeugen	1.0	1.0	1.0	1.0
+88	 ** Handwerkliche ** 	skill/S6.7.0	Verwendung von Handwerkzeugen	Handwerkzeuge zur Herstellung von Tabakerzeugnissen verwenden | Verwendung von Handwerkzeugen | Handwerkzeuge verwenden | Handwerkzeuge für Leitungen verwenden | Handwerk | Handwerkzeuge für Forstarbeiten verwenden | Handwerkzeuge zur Herstellung von Tabakprodukten verwenden | Handwerkzeuge für Waldarbeiten verwenden | ursprüngliche Handwerkstechniken nutzen | handwerklich | Handwerkzeuge in der Kettenfertigung verwenden	1.0	1.0	1.0	1.0
+89	 ** Handwerkliche ** 	skill/T5.1	Handhaben und Kontrollieren von Objekten und Geräten	Handwerkzeuge zur Herstellung von Tabakerzeugnissen verwenden | Handwerkzeuge verwenden | Handwerk | Handwerkzeuge zur Herstellung von Tabakprodukten verwenden | handwerklich	1.0	1.0	1.0	1.0
+82	 ** Handwerkliche ** 	isced-f/0700	Ingenieurwesen, Fertigung und Bauwesen – nicht näher definiert	handwerklich | Handwerk | Handwerker	1.0	1.0	0.0	0.666666667
+80	 ** Handwerkliche ** 	isced-f/0214	Kunsthandwerk	Handwerkskunst	0.5	0.5	0.0	0.333333333
+84	 ** Handwerkliche ** 	skill/S1.12.3	Künstlerische Gestaltung oder Darbietungen	handwerkliche Tätigkeiten entwickeln	0.0	0.5	0.0	0.166666667
+81	 ** Handwerkliche ** 	isced-f/0413	Management und Verwaltung	Handwerksunternehmer | Handwerksunternehmerin	0.0	0.0	0.0	0.0
+83	 ** Handwerkliche ** 	skill/K	Kenntnisse	Beruf	0.0	0.0	0.0	0.0
+85	 ** Handwerkliche ** 	skill/S4.2.1	Leitung betrieblicher Tätigkeiten	handwerkliche Tätigkeiten überwachen	0.0	0.0	0.0	0.0
+86	 ** Handwerkliche ** 	skill/S6.5.8	Herstellen von Tabakerzeugnissen	Handwerkzeuge zur Herstellung von Tabakprodukten verwenden	0.0	0.0	0.0	0.0
+86	 ## DE UNRATED ## ** Handwerkliche **	isced-f/0721	food processing					
+86	 ## DE UNRATED ## ** Handwerkliche **	isced-f/1014	sports					
+86	 ## DE UNRATED ## ** Handwerkliche **	isced-f/1022	occupational health and safety					
+86	 ## DE UNRATED ## ** Handwerkliche **	isced-f/0723	textiles (clothes, footwear and leather)					
+86	 ## DE UNRATED ## ** Handwerkliche **	skill/T4.2	supporting others					
+86	 ## DE UNRATED ## ** Handwerkliche **	skill/S2.9.0	monitoring developments in area of expertise					
+93	 ** IT Spektrum ** 	isced-f/06	Informations- und Kommunikationstechnologien (IKT)	Informations- und Kommunikationstechnologien (IKT)	1.0	1.0	1.0	1.0
+94	 ** IT Spektrum ** 	isced-f/061	Informations- und Kommunikationstechnologien (IKT)	Informations- und Kommunikationstechnologien (IKT)	1.0	1.0	1.0	1.0
+95	 ** IT Spektrum ** 	isced-f/0610	Informations- und Kommunikationstechnologien (IKT) – nicht näher definiert	Informatik | Informations- und Kommunikationstechnologien (IKT) | IT | IT-Kenntnisse	1.0	1.0	1.0	1.0
+99	 ** IT Spektrum ** 	isced-f/0619	Informations- und Kommunikationstechnologien – nirgendwo sonst klassifiziert	Informations- und Kommunikationstechnologien	1.0	1.0	1.0	1.0
+105	 ** IT Spektrum ** 	skill/S5.0.0	Arbeiten mit Computern	IT | IT-Kenntnisse | IT-System verwalten	1.0	1.0	1.0	1.0
+96	 ** IT Spektrum ** 	isced-f/0611	Computernutzung	PC-Kenntnisse | PC | IT-Anwender | Computernutzung	1.0	0.5	0.5	0.666666667
+106	 ** IT Spektrum ** 	skill/S5.5.0	Zugreifen auf und Analyse von digitalen Daten	PC-Kenntnisse | IT-Anwender	0.5	0.5	1.0	0.666666667
+97	 ** IT Spektrum ** 	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	IT-Netzwerk-Hardware | IT Manager	0.5	0.5	0.5	0.5
+98	 ** IT Spektrum ** 	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	IT-Spezialist | IT-Spezialistin | IT-Systemprogrammierung | IT Security Expert | IT Security Officer | IT Strategy Consultant | IT-Techniker | IT Controller | IT Consultant	0.5	0.5	0.5	0.5
+90	 ** IT Spektrum ** 	isced-f/0411	Buchhaltung und Steuerwesen	IT Accountant	0.0	0.0	0.0	0.0
+91	 ** IT Spektrum ** 	isced-f/0413	Management und Verwaltung	IT Managerin | IT Manager	0.0	0.0	0.0	0.0
+92	 ** IT Spektrum ** 	isced-f/0421	Rechtswissenschaft	IT-Recht	0.0	0.0	0.0	0.0
+100	 ** IT Spektrum ** 	isced-f/0714	Elektronik und Automation	IT-Kommunikationsprotokolle	0.0	0.0	0.0	0.0
+101	 ** IT Spektrum ** 	skill/S1.5.6	Beratung zur Entwicklung oder Nutzung von Technologien	IT-Beratung anbieten	0.0	0.0	0.0	0.0
+102	 ** IT Spektrum ** 	skill/S2.3	Informationsmanagement	Informationsmanagement	0.0	0.0	0.0	0.0
+103	 ** IT Spektrum ** 	skill/S2.3.0	Informationsmanagement	Informationsmanagement	0.0	0.0	0.0	0.0
+104	 ** IT Spektrum ** 	skill/S2.7.4	Analyse von Geschäftstätigkeiten	IT-Kontext einer Organisation analysieren	0.0	0.0	0.0	0.0
+107	 ** IT Spektrum ** 	skill/T2.1	Verarbeiten von Informationen, Ideen und Konzepten	IT-Kenntnisse bewerten | IT-Kenntnisse erfassen	0.0	0.0	0.0	0.0
+107	 ## DE UNRATED ## ** IT Spektrum **	skill/S4.2.1	directing operational activities					
+107	 ## DE UNRATED ## ** IT Spektrum **	skill/S1.5.2	providing financial advice					
+107	 ## DE UNRATED ## ** IT Spektrum **	skill/T4.2	supporting others					
+107	 ## DE UNRATED ## ** IT Spektrum **	isced-f/0211	audio-visual techniques and media production					
+107	 ## DE UNRATED ## ** IT Spektrum **	skill/T3.1	working efficiently					
+107	 ## DE UNRATED ## ** IT Spektrum **	skill/T2.3	dealing with problems					
+108	 ** Konstrukteur ** 	isced-f/0700	Ingenieurwesen, Fertigung und Bauwesen – nicht näher definiert	Entwicklungskonstrukteurin | CAD-Konstrukteur | Konstrukteur | Konstrukteurin | Detailkonstrukteurin | Konstruktionszeichner | Entwicklungskonstrukteur | Detailkonstrukteur	1.0	1.0	1.0	1.0
+109	 ** Konstrukteur ** 	isced-f/0715	Mechanik und Metallbearbeitung	Konstrukteur/in -  | Konstrukteurin, Sondermaschinenbau | Konstrukteur, Sondermaschinenbau | Konstrukteur/in | Konstrukteur/in - Erweiterte Ansprüche | Konstrukteur | Konstrukteurin | Konstrukteur von Uhrenfabrikationsautomaten | Konstrukteur/in 	1.0	1.0	1.0	1.0
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S8.5.7	operating metal, plastic or rubber forming equipment					
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S1.8.1	working in teams					
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S1.13.3	technical or academic writing					
+109	 ## DE UNRATED ## ** Konstrukteur **	isced-f/0542	statistics					
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S2.8.2	monitoring operational activities					
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S1.3.1	teaching academic or vocational subjects					
+109	 ## DE UNRATED ## ** Konstrukteur **	isced-f/0533	physics					
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S1.11.0	designing systems and products					
+109	 ## DE UNRATED ## ** Konstrukteur **	skill/S7.1.5	installing roofing					
+110	 ** Lebensmittelverkauf ** 	isced-f/0416	Groß- und Einzelhandel	Lebensmittelkaufmann | Verkäufer, Lebensmittel | Lebensmittelverkäuferin | Lebensmittelvertreterin | Lebensmittelhändlerin | Lebensmittelverkäufer | Lebensmittelkauffrau | Lebensmittelhändler | Lebensmittelvertreter | Detailhandelsangestellter, Lebensmittel	1.0	1.0	1.0	1.0
+111	 ** Lebensmittelverkauf ** 	isced-f/0721	Lebensmittelverarbeitung	Lebensmitteltechnologe/-technologin  | Lebensmittelverpacker | Lebensmittelzubereiter | Lebensmittel gleich welcher Verarbeitungsstufe | Lebensmittel- und Getränkeindustrie | Lebensmitteltechnik | Lebensmittelsortierer | Nahrungsmittel- und Getränkeindustrie | Lebensmittelverarbeitung | Lebensmitteletikettierung | Lebensmittelkunde | Lebensmitteltechnologe | Lebensmitteltechnologe/-technologin | Lebensmittelzutaten | Lebensmittelingenieur | Lebensmittelberater | Lebensmittelpolitik | Lebensmitteltechniker | Lebensmittelauszeichnung	0.5	0.0	0.0	0.166666667
+112	 ** Lebensmittelverkauf ** 	skill/S1.6.3	Kauf von Waren oder Dienstleistungen	Lebensmittel einkaufen	0.0	0.0	0.0	0.0
+113	 ** Lebensmittelverkauf ** 	skill/S4.1.3	Entwicklung betrieblicher Strategien und Verfahren	Lebensmittel einkaufen	0.0	0.0	0.0	0.0
+113	 ## DE UNRATED ## ** Lebensmittelverkauf **	skill/S1.6.1	selling products or services					
+113	 ## DE UNRATED ## ** Lebensmittelverkauf **	isced-f/0542	statistics					
+113	 ## DE UNRATED ## ** Lebensmittelverkauf **	skill/S1.5.7	advising on business or operational matters					
+113	 ## DE UNRATED ## ** Lebensmittelverkauf **	skill/S4.1.4	developing research plans					
+119	 ** MBA ** 	isced-f/0413	Management und Verwaltung	LAMS | Master of Business Administration, MBA | Betriebsökonom | Bachelor of Business Administration | Modellierung von Geschäftsprozessen | Bachelor of Public Administration | Betriebsökonomie | SAP MDG | Betriebswirtschaft | Kanzleidirektor | Betriebsökonomin | Executive Master of Business Administration (EMBA) | betriebswirtschaftliches Fachwissen | betriebswirtschaftliche Grundsätze | SAP BO | Betriebsökonom, Wirtschaftsinformatik | Master of Public Administration | Management und Verwaltung | Akademiestudienleiter | Master of Business Administration | Geschäftsprozessmodellierung | Geschäftsprozeßmodellierung | Master of Health Promotion and Administration | Master of Public Health | OLAT | Bachelor of Industrial Administration | Business-Analyse	1.0	1.0	1.0	1.0
+115	 ** MBA ** 	isced-f/0311	Wirtschaftswissenschaft	VWL | Betriebswirtschaft | Master of Commerce | Economics | BWL	1.0	0.5	0.5	0.666666667
+114	 ** MBA ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Master of Medical Education	0.0	0.0	0.0	0.0
+116	 ** MBA ** 	isced-f/0313	Psychologie	Psychologie	0.0	0.0	0.0	0.0
+117	 ** MBA ** 	isced-f/0411	Buchhaltung und Steuerwesen	SAP HCM | Rechnungslegungstechniken | Accountant	0.0	0.0	0.0	0.0
+118	 ** MBA ** 	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	Master of Science in Banking and Finance | Master of Advanced Studies, Social Insurance Management | Unternehmensbewertungstechniken | Betriebsbewertungstechniken | Jahresabschluss	0.0	0.0	0.0	0.0
+120	 ** MBA ** 	isced-f/0421	Rechtswissenschaft	Master of Laws | Master of Laws LL.M | Juristischer Unternehmensberater | Bachelor of Laws LL.B | Unternehmensanwalt | Recht	0.0	0.0	0.0	0.0
+121	 ** MBA ** 	isced-f/0611	Computernutzung	SAP CO | SAP FI/CO	0.0	0.0		0.0
+122	 ** MBA ** 	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	SAP BW	0.0	0.0	0.0	0.0
+123	 ** MBA ** 	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	SAP ABAP	0.0	0.0	0.0	0.0
+124	 ** MBA ** 	isced-f/0710	Ingenieurwesen und Ingenieurberufe – nicht näher definiert	Master of Engineering	0.0	0.0	0.0	0.0
+125	 ** MBA ** 	isced-f/0912	Medizin	Master of Medicine	0.0	0.0	0.0	0.0
+126	 ** MBA ** 	isced-f/0914	Medizinische Diagnostik und Medizintechnologie	MPA	0.0	0.0	0.0	0.0
+127	 ** MBA ** 	skill/S5.5.2	Verwalten und Analysieren digitaler Daten	SAP CO | SAP FI | SAP FI/CO	0.0	0.0	0.0	0.0
+128	 ** MBA ** 	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	MATLAB | SAP R3 | SAP ABAP	0.0	0.0	0.0	0.0
+129	 ** MBA ** 	skill/T4.4	Anleiten anderer	betriebswirtschaftliche Grundsätze	0.0	0.0	0.0	0.0
+129	 ## DE UNRATED ## ** MBA **	skill/T4.2	supporting others					
+129	 ## DE UNRATED ## ** MBA **	skill/S4.6.0	building and developing teams					
+129	 ## DE UNRATED ## ** MBA **	skill/S1.3.1	teaching academic or vocational subjects					
+129	 ## DE UNRATED ## ** MBA **	skill/S3.4.3	assisting people with paperwork					
+133	 ** MTRA ** 	isced-f/0912	Medizin	Radiodiagnostikerin | Radiologin | Radiodiagnostiker | Radiologe	1.0	1.0	1.0	1.0
+135	 ** MTRA ** 	isced-f/0914	Medizinische Diagnostik und Medizintechnologie	Chefin MTA | Medizinisch-technischer Radiologieassistent, MTRA | Chef MTA | Medizinisch-technische Radiologieassistentin, MTRA | Radiologiefachmann | Radiologiefachfrau | Radiologie | Technische Spitalangestellte | Röntgenologie | Praxisassistentin, medizinische | Medizinisch-technischer Radiologieassistent | Radiologietechnikassistentin | Radiologieassistent | Medizinisch-technische Radiologieassistentin | Sprechstundenhelferin | Fachfrau für Rehatechnik | Röntgenassistent | Radiologieassistentin | Röntgentechniker | Radiologietechnikassistent | Fachfrau für medizinisch-technische Radiologie | Röntgentechnikerin | Technischer Spitalangestellter | MTRA | MPA | Röntgenassistentin	1.0	1.0	1.0	1.0
+134	 ** MTRA ** 	isced-f/0913	Krankenpflege und Hebammenausbildung	Technische Operationsassistentin, TOA/SRK | Spitalassistentin | Pflegerin für Wochenbett und Gynäkologie	0.0	0.5	0.0	0.166666667
+130	 ** MTRA ** 	isced-f/0211	Audiovisuelle Techniken und Medienproduktion	MT Framework	0.0	0.0	0.0	0.0
+131	 ** MTRA ** 	isced-f/0542	Statistik	Statistik	0.0	0.0	0.0	0.0
+132	 ** MTRA ** 	isced-f/0811	Pflanzen- und Tierproduktion	Landwirtschaftlicher Traktorführer	0.0	0.0	0.0	0.0
+136	 ** MTRA ** 	isced-f/0915	Therapie und Rehabilitation	Fachfrau für Rehatechnik | Therapeutin	0.0	0.0	0.0	0.0
+137	 ** MTRA ** 	isced-f/1014	Sport	Radrennfahrerin | Mountainbikelehrerin | Mountainbikelehrer | Radrennfahrer	0.0	0.0	0.0	0.0
+138	 ** MTRA ** 	isced-f/1041	Dienstleistungen im Bereich Verkehr	Gruppenchefin PTT | Gruppenchef PTT	0.0	0.0	0.0	0.0
+138	 ## DE UNRATED ## ** MTRA **	skill/S2.7.6	evaluating systems, programmes, equipment and products					
+138	 ## DE UNRATED ## ** MTRA **	isced-f/0613	software and applications development and analysis					
+138	 ## DE UNRATED ## ** MTRA **	isced-f/0413	management and administration					
+138	 ## DE UNRATED ## ** MTRA **	isced-f/0714	electronics and automation					
+138	 ## DE UNRATED ## ** MTRA **	isced-f/0911	dental studies					
+138	 ## DE UNRATED ## ** MTRA **	skill/S6.5.5	assembling furniture					
+151	 ** Muttersprache Deutsch ** 	skill/L	Sprachliche Fähigkeiten und Kenntnisse	Sprachliche Fähigkeiten und Kenntnisse	1.0	1.0	1.0	1.0
+152	 ** Muttersprache Deutsch ** 	skill/L1	Sprachen	Schwedisch | Berbersprache | Deutsch schreiben | geschriebenes Marathi verstehen | gesprochenes Deutsch verstehen | Deutsch | Deutsch sprechen | Sprachen | Deutsch lesen | geschriebenes Deutsch verstehen	1.0	1.0	1.0	1.0
+155	 ** Muttersprache Deutsch ** 	skill/T1.1	Beherrschen von Sprachen	Deutsch schreiben | gesprochenes Deutsch verstehen | Deutsch | Deutsch sprechen | Deutsch lesen | geschriebenes Deutsch verstehen	1.0	1.0	1.0	1.0
+139	 ** Muttersprache Deutsch ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Deutschlehrer | Deutschlehrerin	0.0	0.0	0.0	0.0
+140	 ** Muttersprache Deutsch ** 	isced-f/0211	Audiovisuelle Techniken und Medienproduktion	Ingenieur, Druckindustrie	0.0	0.0	0.0	0.0
+141	 ** Muttersprache Deutsch ** 	isced-f/023	Fremdsprachen	Fremdsprachen	0.0	0.0	0.0	0.0
+142	 ** Muttersprache Deutsch ** 	isced-f/0230	Fremdsprachen – nicht näher definiert	Fremdsprachen	0.0	0.0	0.0	0.0
+143	 ** Muttersprache Deutsch ** 	isced-f/0231	Fremdsprachenerwerb	geschriebenes Sanskrit verstehen | Fingersprache | Sprachdienstleisterin	0.0	0.0	0.0	0.0
+144	 ** Muttersprache Deutsch ** 	isced-f/0232	Literatur und Linguistik	Spracherkennung	0.0	0.0	0.0	0.0
+145	 ** Muttersprache Deutsch ** 	isced-f/0239	Fremdsprachen – nirgendwo sonst klassifiziert	Fremdsprachen	0.0	0.0	0.0	0.0
+146	 ** Muttersprache Deutsch ** 	isced-f/0531	Chemie	Chemie	0.0	0.0	0.0	0.0
+147	 ** Muttersprache Deutsch ** 	isced-f/0913	Krankenpflege und Hebammenausbildung	Fachfrau Gesundheit | Fachmann/-frau Gesundheit | Fachmann Gesundheit	0.0	0.0	0.0	0.0
+148	 ** Muttersprache Deutsch ** 	isced-f/0921	Pflege älterer Menschen und erwachsener Personen mit Behinderung	Fachfrau Betreuung, Menschen in Alter | Fachmann Betreuung, Menschen in Alter	0.0	0.0	0.0	0.0
+149	 ** Muttersprache Deutsch ** 	isced-f/0923	Sozialarbeit und Beratung	Fachfrau Betreuung	0.0	0.0	0.0	0.0
+150	 ** Muttersprache Deutsch ** 	isced-f/1032	Objekt- und Personenschutz	Fraud Manager	0.0	0.0	0.0	0.0
+153	 ** Muttersprache Deutsch ** 	skill/S1.7.2	Zusammenarbeit mit anderen, um Bedürfnisse zu ermitteln	Elternabende organisieren	0.0	0.0	0.0	0.0
+154	 ** Muttersprache Deutsch ** 	skill/S6.7.2	Formen von Materialien für das Kreieren von Produkten	Muttergewinde strehlen	0.0	0.0	0.0	0.0
+154	 ## DE UNRATED ## ** Muttersprache Deutsch **	skill/S1.15.1	using foreign languages					
+154	 ## DE UNRATED ## ** Muttersprache Deutsch **	skill/S1.15.2	translating and interpreting					
+154	 ## DE UNRATED ## ** Muttersprache Deutsch **	skill/T2.1	processing information, ideas and concepts					
+154	 ## DE UNRATED ## ** Muttersprache Deutsch **	skill/S2.3.0	managing information					
+158	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0230	Fremdsprachen – nicht näher definiert	Fremdsprachen	1.0	1.0	1.0	1.0
+160	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0239	Fremdsprachen – nirgendwo sonst klassifiziert	Fremdsprachen	1.0	1.0	1.0	1.0
+169	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/L	Sprachliche Fähigkeiten und Kenntnisse	Sprachliche Fähigkeiten und Kenntnisse	1.0	1.0	1.0	1.0
+170	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/L1	Sprachen	Französisch sprechen | Französisch schreiben | Deutsch schreiben | geschriebenes Französisch verstehen | Deutsch | Deutsch lesen | Deutsch sprechen | F | gesprochenes Deutsch verstehen | gesprochenes Französisch verstehen | Französisch lesen | Französisch	1.0	1.0	1.0	1.0
+171	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.15.1	Benutzung von Fremdsprachen	Sprachregeln beherrschen | Fremdsprachenkenntnisse in der Tourismusbranche anwenden	1.0	1.0	1.0	1.0
+181	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/T1.1	Beherrschen von Sprachen	Französisch sprechen | Französisch schreiben | E | Deutsch schreiben | D | geschriebenes Französisch verstehen | Deutsch sprechen | Deutsch | F | Deutsch lesen | gesprochenes Französisch verstehen | Beherrschen von Sprachen | Französisch lesen | Französisch | geschriebenes Deutsch verstehen	1.0	1.0	1.0	1.0
+159	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0231	Fremdsprachenerwerb	Interkulturelle Übersetzerin | Interkultureller Übersetzer	0.0	1.0	1.0	0.666666667
+182	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/T4.1	Kommunizieren	Kommunizieren	0.5	0.0	1.0	0.5
+168	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/K	Kenntnisse	Kenntnisse	0.0	0.0	1.0	0.333333333
+156	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Deutschlehrerin | Deutschlehrer | Französischlehrerin | Französischlehrer	0.0	0.0	0.0	0.0
+157	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0211	Audiovisuelle Techniken und Medienproduktion	Prepress-Prozesse	0.0	0.0	0.0	0.0
+161	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0413	Management und Verwaltung	SuccessFactors	0.0	0.0	0.0	0.0
+162	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/078	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Ingenieurwesen, Fertigung und Bauwesen	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Ingenieurwesen, Fertigung und Bauwesen	0.0	0.0	0.0	0.0
+163	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0788	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Ingenieurwesen, Fertigung und Bauwesen	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Ingenieurwesen, Fertigung und Bauwesen	0.0	0.0	0.0	0.0
+164	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/098	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Gesundheit und sozialen Diensten	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Gesundheit und sozialen Diensten	0.0	0.0	0.0	0.0
+165	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/0988	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Gesundheit und sozialen Diensten	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Gesundheit und sozialen Diensten	0.0	0.0	0.0	0.0
+166	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/108	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Dienstleistungen	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Dienstleistungen	0.0	0.0	0.0	0.0
+167	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	isced-f/1088	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Dienstleistungen	Interdisziplinäre Bildungsprogramme und Qualifikationen mit Bezug zu Dienstleistungen	0.0	0.0	0.0	0.0
+172	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.5	Beraten	Beraten	0.0	0.0	0.0	0.0
+173	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.5.0	Beraten	Beraten	0.0	0.0	0.0	0.0
+174	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.5.3	Beratung zu Waren und Dienstleistungen	Beratung zu Waren und Dienstleistungen	0.0	0.0	0.0	0.0
+175	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.5.5	Beratung zu Umweltthemen	Beratung zu Umweltthemen	0.0	0.0	0.0	0.0
+176	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.5.9	Beratung zu Sicherheit und Gesundheitsschutz am Arbeitsplatz	Beratung zu Sicherheit und Gesundheitsschutz am Arbeitsplatz	0.0	0.0	0.0	0.0
+177	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S1.7.3	Zuhören und Stellen von Fragen	Zuhören und Stellen von Fragen	0.0	0.0	0.0	0.0
+178	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S2.5.2	Wiegen	Wiegen	0.0	0.0	0.0	0.0
+179	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S3.1.0	Beratung	Beratung	0.0	0.0	0.0	0.0
+180	 ** Sehr gute Kenntnisse in Deutsch und Französisch ** 	skill/S4.8.3	Überwachen und Bewerten der Leistung von Personen	Überwachen und Bewerten der Leistung von Personen	0.0	0.0	0.0	0.0
+180	 ## DE UNRATED ## ** Sehr gute Kenntnisse in Deutsch und Französisch **	skill/S6.2.4	climbing					
+180	 ## DE UNRATED ## ** Sehr gute Kenntnisse in Deutsch und Französisch **	skill/T4.2	supporting others					
+180	 ## DE UNRATED ## ** Sehr gute Kenntnisse in Deutsch und Französisch **	skill/T1	core skills and competences					
+180	 ## DE UNRATED ## ** Sehr gute Kenntnisse in Deutsch und Französisch **	skill/S8.3.0	operating watercraft					
+180	 ## DE UNRATED ## ** Sehr gute Kenntnisse in Deutsch und Französisch **	isced-f/1032	protection of persons and property					
+180	 ## DE UNRATED ## ** Sehr gute Kenntnisse in Deutsch und Französisch **	skill/S4.2.2	planning and scheduling events and activities					
+185	 ** öffentliche Verwaltung ** 	isced-f/041	Wirtschaft und Verwaltung	Wirtschaft und Verwaltung	1.0	1.0	1.0	1.0
+186	 ** öffentliche Verwaltung ** 	isced-f/0410	Wirtschaft und Verwaltung – nicht näher definiert	Kaufmann/-frau - Öffentliche Verwaltung | Wirtschaft und Verwaltung	1.0	1.0	1.0	1.0
+188	 ** öffentliche Verwaltung ** 	isced-f/0413	Management und Verwaltung	Verwaltung im Bildungsbereich | Bildungsverwaltung | öffentliche Dienstleistungskonzession | Verwaltungsrechnungsführerin (öffentlicher Dienst) | Verwaltungschefin (öffentlicher Dienst) | Verwaltungsdirektorin (öffentlicher Dienst) | Öffentliche Verwalterin | Verwaltungsdirektorin (Privatwirtschaft) | Verwaltungsdirektor (öffentlicher Dienst) | Öffentlicher Verwalter | Verwaltungsdirektor (Privatwirtschaft) | Verwaltungsrechnungsführer (öffentlicher Dienst) | Management und Verwaltung | Verwaltungsrätin (öffentlicher Dienst)	1.0	1.0	1.0	1.0
+191	 ** öffentliche Verwaltung ** 	isced-f/0419	Wirtschaft und Verwaltung – nirgendwo sonst klassifiziert	Wirtschaft und Verwaltung	1.0	1.0	1.0	1.0
+194	 ** öffentliche Verwaltung ** 	isced-f/092	Soziale Dienste	Soziale Dienste	1.0	0.0	0.5	0.5
+198	 ** öffentliche Verwaltung ** 	skill/S4.1.3	Entwicklung betrieblicher Strategien und Verfahren	öffentlichen Wohnungsbau planen	0.5	0.0	0.5	0.333333333
+184	 ** öffentliche Verwaltung ** 	isced-f/0312	Politikwissenschaft und politische Bildung	Politik	0.5	0.0	0.0	0.166666667
+192	 ** öffentliche Verwaltung ** 	isced-f/0421	Rechtswissenschaft	öffentliches Recht	0.5	0.0	0.0	0.166666667
+196	 ** öffentliche Verwaltung ** 	skill/S1.5.1	Beratung zu Rechts-, Regulierungs- oder Verfahrensfragen	öffentliche Maßnahmen beeinflussen	0.5	0.0	0.0	0.166666667
+183	 ** öffentliche Verwaltung ** 	isced-f/0311	Wirtschaftswissenschaft	Wirtschaft	0.0	0.0	0.0	0.0
+187	 ** öffentliche Verwaltung ** 	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	öffentliches Zeichnungsangebot	0.0	0.0	0.0	0.0
+189	 ** öffentliche Verwaltung ** 	isced-f/0414	Marketing und Werbung	öffentliche Meinungsbildung	0.0	0.0	0.0	0.0
+190	 ** öffentliche Verwaltung ** 	isced-f/0416	Groß- und Einzelhandel	öffentliche Auktionsverfahren	0.0	0.0	0.0	0.0
+193	 ** öffentliche Verwaltung ** 	isced-f/0912	Medizin	öffentliche Gesundheit | öffentliches Gesundheitswesen	0.0	0.0	0.0	0.0
+195	 ** öffentliche Verwaltung ** 	skill/S1.4.1	Präsentation allgemeiner Informationen	öffentliche Präsentationen durchführen	0.0	0.0	0.0	0.0
+197	 ** öffentliche Verwaltung ** 	skill/S2.1.1	Durchführung von Untersuchungen	öffentliche Erhebungen durchführen	0.0	0.0	0.0	0.0
+199	 ** öffentliche Verwaltung ** 	skill/S4.1.4	Entwicklung von Forschungsplänen	öffentliches Engagement in der Forschung fördern	0.0	0.0	0.0	0.0
+200	 ** öffentliche Verwaltung ** 	skill/S4.1.5	Entwicklung von Gesundheitsprogrammen	öffentliche Programme zur Zahngesundheit organisieren	0.0	0.0	0.0	0.0
+201	 ** öffentliche Verwaltung ** 	skill/S6.11.2	Innen- und Außenreinigung von Gebäuden	öffentliche Bereiche reinigen | öffentliche Bereiche saubermachen	0.0	0.0	0.0	0.0
+202	 ** öffentliche Verwaltung ** 	skill/T6.3	Anwenden von Bürgerkompetenzen und -fähigkeiten	öffentlichen Personennahverkehr bewerben	0.0	0.0	0.0	0.0
+202	 ## DE UNRATED ## ** öffentliche Verwaltung **	skill/S4.2.1	directing operational activities					
+202	 ## DE UNRATED ## ** öffentliche Verwaltung **	skill/T1.1	mastering languages					
+202	 ## DE UNRATED ## ** öffentliche Verwaltung **	skill/S1.2.3	developing professional relationships or networks					
+202	 ## DE UNRATED ## ** öffentliche Verwaltung **	skill/T4.1	communicating					
+205	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	Microsoft Visual C++ | SQL Server | Open-Source-Modell | NonStop SQL | Objectivity DB | Quadbase SQL Server | SQL Server Integration Services | UniSQL | OLAP-Analysewerkzeuge | OLAP-Analysetools | SQL | Microsoft Access | NoSQL | service-orientierte Modellierung | SQLBase | DBS | OLAP | Anwendungsprogramme der integrierten Entwicklungsumgebung | quelloffenes Modell | Microsoft SQL Server | PostgreSQL | Oracle Relational Database | DBMS | serviceorientierte Modellierung | serviceorientierte Modelle	1.0	1.0	1.0	1.0
+206	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	MQL | ASP.NET 3.5 | ASP.NET 2.0 | Oracle Application Development Framework | objekt-orientierte Modellierung | OOAD | OQL | OOA | objektorientierte Modellierung | OOD | YQL | SQL | MSVC++ | serverseitige Programmierung | Internetprogrammierung	1.0	1.0	1.0	1.0
+207	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	skill/S5.5.2	Verwalten und Analysieren digitaler Daten	Microsoft Dynamics	1.0	1.0	1.0	1.0
+204	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	isced-f/0611	Computernutzung	MS-Office | Microsoft Visual C++ | MS Office	1.0	0.5	0.0	0.5
+208	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	MS-Office | MSVC++ | MS Office	1.0	0.5	0.0	0.5
+203	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	isced-f/0541	Mathematik	3D-Modellierung | 3D-Modelling	0.0	0.0	0.0	0.0
+203	## DE UNRATED ## .NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	skill/S2.4.1	gathering information from physical or electronic sources					
+203	## DE UNRATED ## .NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	skill/S1.11	designing systems and products					
+203	## DE UNRATED ## .NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	skill/T4.1	communicating					
+203	## DE UNRATED ## .NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	skill/S8	working with machinery and specialised equipment					
+210	Financial Consulting ** Bank ** Management	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	Bankökonom | Bankfachmann | Bank-Chefkassier | Bankberater | Finanzwirtschaft, Banken- und Versicherungswesen | Bankserviceleiterin | Master of Science in Banking and Finance | Bankkundenberater | Finanzierungstechnik | Bankmakler | International Financial Management | Bankbetriebswirt | Bankkaufmann | Finanzsteuerung | Bankberaterin | Bankfach-Experte | Bankwirtschafter | Banking Consultant | Bankkundenberaterin | Financial Engineer | Financial Consultant | Bankgeschäfte | Bankbetriebswirtin | Finanz-Engineering | Bankökonomin | Banktätigkeiten | Bankkommise | Unternehmensbewertungstechniken | Bankfach-Expertin | Banking and Finance | Bankmaklerin	1.0	1.0	1.0	1.0
+213	Financial Consulting ** Bank ** Management	skill/S1.5.2	Finanzberatung	Finanzberatung	1.0	1.0	1.0	1.0
+209	Financial Consulting ** Bank ** Management	isced-f/0411	Buchhaltung und Steuerwesen	Bankrevisorin | Bankrevisor	0.0	0.0	1.0	0.333333333
+211	Financial Consulting ** Bank ** Management	isced-f/0413	Management und Verwaltung	Finanzmanagement | Bankleiter | Bankverwalter | Bankier | Bankverwalterin | Bank-Vizedirektor | Bankdirektor (öffentlicher Dienst) | Bankdirektorin (öffentlicher Dienst) | Bankprokuristin | Bankierin | Bankmanager | Bankleiterin | Bankmanagerin | Bankprokurist	0.0	0.0	1.0	0.333333333
+212	Financial Consulting ** Bank ** Management	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	Bank Card Business Engineer	0.0	0.0	0.0	0.0
+212	## DE UNRATED ## Financial Consulting ** Bank ** Management	skill/T4.2	supporting others					
+212	## DE UNRATED ## Financial Consulting ** Bank ** Management	skill/S1.4	presenting information					
+212	## DE UNRATED ## Financial Consulting ** Bank ** Management	isced-f/0421	law					
+212	## DE UNRATED ## Financial Consulting ** Bank ** Management	skill/S1.5	advising and consulting					
+212	## DE UNRATED ## Financial Consulting ** Bank ** Management	skill/S1.5.7	advising on business or operational matters					
+227	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S5.2.2	Schützen von IKT-Geräten	VAM | AVS Firewall | Netzwerk-Sniffing | Firewall einrichten | IKT-Geräte schützen | ADT Access Control | Firewall-Bewertungen | Antivirussysteme | Bitdefender Antivirus | Netzwerkpenetrationstests | Firewall | IP360 Vulnerability Management System | Firewall-Regeln definieren | Honeywell Managed Access Control | IKT-Sicherheit | IP-Telefonie kontrollieren | Virenschutzprogramm einrichten	1.0	1.0	1.0	1.0
+216	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0611	Computernutzung	Proxy-Server | Internet der Dinge	1.0	1.0	0.5	0.833333333
+224	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S3.3.6	Schutz von Privatsphäre und personenbezogenen Daten	VAM | Privatsphäre und Identität im Internet schützen | Netzwerkpenetrationstests | IP360 Vulnerability Management System | Cisco Secure Scanner	1.0	0.5	1.0	0.833333333
+225	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S5.0.0	Arbeiten mit Computern	VMWare	1.0	0.5	1.0	0.833333333
+217	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0612	Design und Verwaltung von Datenbanken und Netzwerken	IKT-Sicherheitsrichtlinien | IKT-Verschlüsselungsalgorithmen | SSL | IKT-Netzwerk-Routing | IKT-Verschlüsselungen | IKT-Sicherheitsgrundsätze | IT-Verschlüsselung | IKT-Netzwerk-Sicherheitsrisiken | IKT-Verschlüsselung	1.0	1.0	0.0	0.666666667
+226	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S5.2.1	Einrichten von Computersystemen	VMWare	0.5	0.5	1.0	0.666666667
+231	Internet Sicherheit Technologien ** VPN ** IP Security	skill/T1.3	Arbeiten mit digitalen Geräten und Anwendungen	VAM | IP360 Vulnerability Management System | Netzwerkpenetrationstests | Firewall einrichten	1.0	0.5	0.5	0.666666667
+230	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	VAM | VBScript	1.0	0.5	0.0	0.5
+220	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/1031	Militär und Verteidigung	Netzsicherheit	0.0	0.0	1.0	0.333333333
+222	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S2.7.5	Durchführung von Risikoanalyse und -management	Netzwerkpenetrationstests | VAM	1.0	0.0	0.0	0.333333333
+223	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S2.8.1	Überwachung, Inspektion und Testen von Ausrüstungen, Systemen und Produkten	Netzwerkpenetrationstests | IP360 Vulnerability Management System | VAM	0.0	0.0	0.5	0.166666667
+228	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S5.2.3	Lösen von Computerproblemen	VAM | IP360 Vulnerability Management System	0.0	0.0	0.5	0.166666667
+214	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0231	Fremdsprachenerwerb	VNS	0.0	0.0	0.0	0.0
+215	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0421	Rechtswissenschaft	IKT-Sicherheitsgesetzgebung	0.0	0.0	0.0	0.0
+218	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	VAM	0.0	0.0	0.0	0.0
+219	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0714	Elektronik und Automation	Proxy-Server	0.0	0.0	0.0	0.0
+221	Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/1032	Objekt- und Personenschutz	Cybercop	0.0	0.0	0.0	0.0
+229	Internet Sicherheit Technologien ** VPN ** IP Security	skill/S5.5.0	Zugreifen auf und Analyse von digitalen Daten	VMWare | IKT-Virtualisierungsumgebungen verwalten	0.0	0.0	0.0	0.0
+229	## DE UNRATED ## Internet Sicherheit Technologien ** VPN ** IP Security	skill/T4.2	supporting others					
+229	## DE UNRATED ## Internet Sicherheit Technologien ** VPN ** IP Security	skill/T2.3	dealing with problems					
+229	## DE UNRATED ## Internet Sicherheit Technologien ** VPN ** IP Security	skill/S1.5.2	providing financial advice					
+229	## DE UNRATED ## Internet Sicherheit Technologien ** VPN ** IP Security	isced-f/0721	food processing					
+239	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/054	Mathematik und Statistik	Mathematik und Statistik	1.0	1.0	1.0	1.0
+240	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0540	Mathematik und Statistik – nicht näher definiert	Mathematik und Statistik	1.0	1.0	1.0	1.0
+241	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0541	Mathematik	Geometrie | Mathematiker | Mathematik | Mathematikerin | Wirtschaftsmathematiker | Wirtschaftsmathematikerin | Philosophie der Mathematik	1.0	1.0	1.0	1.0
+247	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	skill/T1.2	Arbeiten mit Zahlen und Maßen	Mathematik | Rechenkenntnisse anwenden | Philosophie der Mathematik	1.0	1.0	1.0	1.0
+236	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/05	Naturwissenschaften, Mathematik und Statistik	Naturwissenschaften, Mathematik und Statistik	0.5	1.0	1.0	0.833333333
+237	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/050	Naturwissenschaften, Mathematik und Statistik – nicht näher definiert	Naturwissenschaften, Mathematik und Statistik	0.5	1.0	1.0	0.833333333
+238	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0500	Naturwissenschaften, Mathematik und Statistik – nicht näher definiert	Naturwissenschaften, Mathematik und Statistik	0.5	1.0	1.0	0.833333333
+242	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/059	Naturwissenschaften, Mathematik und Statistik – nirgendwo sonst klassifiziert	Naturwissenschaften, Mathematik und Statistik	0.5	1.0	1.0	0.833333333
+243	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0599	Naturwissenschaften, Mathematik und Statistik – nirgendwo sonst klassifiziert	Naturwissenschaften, Mathematik und Statistik	0.5	1.0	1.0	0.833333333
+232	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0114	Lehrkräfteausbildung mit Fachspezialisierung	Wirtschaftsinformatiklehrerin | Wirtschaftsinformatiklehrer | Mathematiklehrer | Mathematiklehrerin | Informatiklehrerin | Mathematikprofessor | Mathematikprofessorin	0.0	0.0	0.5	0.166666667
+233	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0311	Wirtschaftswissenschaft	Wirtschaftswissenschaft | BWL	0.0	0.0	0.0	0.0
+234	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0410	Wirtschaft und Verwaltung – nicht näher definiert	Kaufmann , Basis-Grundbildung, Chemie | Kaufmann , erweiterte Grundbildung, Chemie	0.0	0.0	0.0	0.0
+235	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0413	Management und Verwaltung	Wirtschaftswissenschaften | Wirtschaftswissenschaften, übrige | Wirtschaftsinformatik	0.0	0.0	0.0	0.0
+244	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0610	Informations- und Kommunikationstechnologien (IKT) – nicht näher definiert	Informatik | IT	0.0	0.0	0.0	0.0
+245	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	Informatik	0.0	0.0	0.0	0.0
+246	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik ** 	skill/S1.3.1	Unterricht in akademischen oder berufsbildenden Fächern	Informatik lehren | Mathematik lehren | Mathematik unterrichten | mathematische Grundkenntnisse vermitteln | Informatik unterrichten	0.0	0.0	0.0	0.0
+246	## DE UNRATED ## Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	skill/L1	languages					
+246	## DE UNRATED ## Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	skill/T4.2	supporting others					
+246	## DE UNRATED ## Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	isced-f/0211	audio-visual techniques and media production					
+246	## DE UNRATED ## Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	skill/T6.6	applying general knowledge					
+246	## DE UNRATED ## Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	skill/S5.6.1	using digital tools for collaboration and productivity					
+246	## DE UNRATED ## Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	skill/T1.1	mastering languages					
+250	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0411	Buchhaltung und Steuerwesen	Vermögensverwalter | Financial Accounting Managerin | Vermögensverwalterin	1.0	1.0	1.0	1.0
+251	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0412	Finanzwirtschaft, Banken- und Versicherungswesen	Finanzanalytiker und Vermögensverwalter | Assekuranzagent | Wertpapiere | Master of Advanced Studies, Social Insurance Management | Moderne Portfolio-Theorie | Vermögensberater | Schuldensysteme | Assekuranzvertreterin | Portfoliomanagerin | Portfoliomanager | Finanzwirtschaft, Banken- und Versicherungswesen | Portfoliotheorie | Finanzierungstechnik | Assekuranzvertreter | Finanzmärkte | International Financial Management | Investment Analyst | Risk Analystin (Unternehmensberaterin) | Anlageberatungschef | Investmentberater | Finanzprodukte | Assekuranzagentin | Assetmanager | Risikotransfer | Betriebsbewertungstechniken | Investmentbankerin | Impact Investing | Finanzanalyse | Finanz-Engineering | Risk Analyst (Unternehmensberater) | Finanzanalysenassistent | Banktätigkeiten | Portfolio Management Assistant | Anlageberater | Finanzkompetenz | Unternehmensbewertungstechniken | Investmentbanker | Investmentbrokerin | Banking and Finance | Investmentanalyse | Assetmanagerin	1.0	1.0	1.0	1.0
+254	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/S1.5.2	Finanzberatung	Investmentportfolios überprüfen | Finanzberatung | Anlageberatung leisten | Kapitalanlageportfolios überprüfen	1.0	1.0	1.0	1.0
+255	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/S4.3.1	Verwaltung von Haushalten oder Finanzen	Investmentfonds auflegen | Vermögenswerte ansetzen und bewerten	1.0	1.0	1.0	1.0
+257	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/T6.5	Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	Investmentportfolio entwickeln | Anlageportfolio entwickeln	1.0	1.0	1.0	1.0
+249	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0410	Wirtschaft und Verwaltung – nicht näher definiert	Risk Controller	0.5	0.5	1.0	0.666666667
+252	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0413	Management und Verwaltung	Techniken der Risikofinanzierung | Assistant to the CEO	0.5	0.0	1.0	0.5
+248	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0111	Lehrkräfteausbildung	Assessment-Verfahren	0.0	0.0	0.0	0.0
+253	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0613	Entwicklung und Analyse von Software und Anwendungen	Assembly (Computerprogrammierung)	0.0	0.0	0.0	0.0
+256	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/S5.6.1	Nutzung digitaler Tools für Zusammenarbeit und Produktivität	Assembly (Computerprogrammierung)	0.0	0.0	0.0	0.0
+256	## DE UNRATED ## Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/S6.9.3	moving and herding animals					
+256	## DE UNRATED ## Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/S8	working with machinery and specialised equipment					
+256	## DE UNRATED ## Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	skill/S1.2.1	coordinating activities with others					
+256	## DE UNRATED ## Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	isced-f/0322	library, information and archival studies					
+265	funktionellen Behandlung ** Neurotraining ** 	isced-f/0917	Traditionelle und komplementäre Medizin und Therapie	Neurofeedback-Trainer | Neurofeedback-Trainerin	1.0	1.0	1.0	1.0
+259	funktionellen Behandlung ** Neurotraining ** 	isced-f/0313	Psychologie	Neuropsychologin | Neuropsychologe | Neuropsychologie	0.5	1.0	1.0	0.833333333
+264	funktionellen Behandlung ** Neurotraining ** 	isced-f/0915	Therapie und Rehabilitation	psychomotorische Therapie	1.0	0.5	1.0	0.833333333
+263	funktionellen Behandlung ** Neurotraining ** 	isced-f/0912	Medizin	Neuropsychiater | Neurophysiologie der Tiere | Neurologie | Neuropsychiatrie | Neurologe | klinische Neurophysiologie | Neurophysiologe (Arzt) | Neuroophthalmologie | neuropsychiatrie | Neuropathologe | Neurophysiologie | Neurophysiologin (Ärztin) | Neuropädiaterin | Neuropsychiaterin | Neuroanatomie | Neuropädiater | Neurochirurgie | Neuropathologie	0.5	0.5	1.0	0.666666667
+266	funktionellen Behandlung ** Neurotraining ** 	skill/S3.2.3	Physikalische Therapien	neuromuskuloskelettale Therapie anbieten	0.5	1.0	0.0	0.5
+258	funktionellen Behandlung ** Neurotraining ** 	isced-f/0232	Literatur und Linguistik	Neurolinguist | Neurolinguistin	0.0	0.0	0.0	0.0
+260	funktionellen Behandlung ** Neurotraining ** 	isced-f/0511	Biologie	Neurotoxikologin | Neurotoxikologe | Neuroanatomie der Tiere | Neurophysiologie der Tiere | Neurophysiologe	0.0	0.0	0.0	0.0
+261	funktionellen Behandlung ** Neurotraining ** 	isced-f/0512	Biochemie	Neuropharmakologie	0.0	0.0	0.0	0.0
+262	funktionellen Behandlung ** Neurotraining ** 	isced-f/0841	Veterinärwissenschaft	Neurophysiologie der Tiere	0.0	0.0	0.0	0.0
+262	## DE UNRATED ## funktionellen Behandlung ** Neurotraining **	isced-f/0611	computer use					
+262	## DE UNRATED ## funktionellen Behandlung ** Neurotraining **	isced-f/0811	crop and livestock production					
+262	## DE UNRATED ## funktionellen Behandlung ** Neurotraining **	skill/S1.3.3	training on operational procedures					
+262	## DE UNRATED ## funktionellen Behandlung ** Neurotraining **	skill/S3.2.5	prescribing and ordering medical tests, treatments or devices					

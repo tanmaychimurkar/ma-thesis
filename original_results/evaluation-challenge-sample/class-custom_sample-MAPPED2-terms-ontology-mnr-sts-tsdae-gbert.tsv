@@ -1,0 +1,151 @@
+model	jobadterm	i	result	sim	eval_score	eval_score_rnd_soft	evalscore_rnd_hard	gradSel	firstTerm
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	0	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.471	0.0	0	0	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	1	skill/S5.2.3_Lösen von Computerproblemen	0.468	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	2	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.467	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	3	skill/T4.2_Unterstützen anderer	0.462	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	4	skill/S5.2.2_Schützen von IKT-Geräten	0.462	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	5	skill/T4.2_Unterstützen anderer	0.457	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	6	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.456	0.833333333	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	7	skill/S5.2.3_Lösen von Computerproblemen	0.452	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	8	skill/T4.2_Unterstützen anderer	0.441	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** Second Level Support ** Koordination, Unterstützung von Key Usern	9	skill/S5.2.2_Schützen von IKT-Geräten	0.433	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	0	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.582	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	1	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.563	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	2	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.555	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	3	skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.547	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	4	isced-f/0611_Computernutzung	0.54	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	5	isced-f/0611_Computernutzung	0.529	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	6	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.526	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	7	isced-f/0611_Computernutzung	0.524	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	8	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.522	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	9	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.521	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	0	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.755	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	1	isced-f/0611_Computernutzung	0.751	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	2	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.727	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	3	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.699	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	4	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.687	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	5	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.65	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	6	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.647	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	7	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.645	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	8	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.645	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	9	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.638	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	0	isced-f/0611_Computernutzung	0.768	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	1	isced-f/0611_Computernutzung	0.756	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	2	isced-f/0611_Computernutzung	0.739	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	3	isced-f/0611_Computernutzung	0.733	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	4	isced-f/0611_Computernutzung	0.707	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	5	isced-f/0416_Groß- und Einzelhandel	0.688	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	6	skill/S5.0.0_Arbeiten mit Computern	0.687	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	7	skill/S5.0.0_Arbeiten mit Computern	0.682	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	8	isced-f/0611_Computernutzung	0.67	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** EDV ** DOS, Windows	9	skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.665	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	0	isced-f/0913_Krankenpflege und Hebammenausbildung	0.763	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	1	isced-f/0913_Krankenpflege und Hebammenausbildung	0.735	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	2	isced-f/0913_Krankenpflege und Hebammenausbildung	0.724	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	3	isced-f/0913_Krankenpflege und Hebammenausbildung	0.712	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	4	isced-f/0913_Krankenpflege und Hebammenausbildung	0.701	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	5	isced-f/0913_Krankenpflege und Hebammenausbildung	0.692	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	6	isced-f/0913_Krankenpflege und Hebammenausbildung	0.684	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	7	isced-f/0913_Krankenpflege und Hebammenausbildung	0.676	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	8	isced-f/0913_Krankenpflege und Hebammenausbildung	0.652	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	stationären Langzeitpflegebereich ** Spitex **	9	isced-f/0913_Krankenpflege und Hebammenausbildung	0.646	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	0	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.787	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	1	isced-f/0912_Medizin	0.602	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	2	isced-f/0912_Medizin	0.587	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	3	isced-f/0415_Sekretariats- und Büroarbeit	0.586	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	4	isced-f/0415_Sekretariats- und Büroarbeit	0.583	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	5	isced-f/0415_Sekretariats- und Büroarbeit	0.562	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	6	isced-f/0912_Medizin	0.559	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	7	isced-f/0912_Medizin	0.557	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	8	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.556	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Arztsekretärin ** MPA **	9	isced-f/0415_Sekretariats- und Büroarbeit	0.552	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	0	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.526	0.5	1	0	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	1	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.506	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	2	isced-f/0912_Medizin	0.495	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	3	skill/S1.6.1_Verkauf von Waren oder Dienstleistungen	0.485	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	4	skill/T2.1_Verarbeiten von Informationen, Ideen und Konzepten	0.48	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	5	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.476	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	6	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.475	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	7	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.471	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	8	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.457	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	9	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.453	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	0	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.709	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	1	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.692	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	2	isced-f/0411_Buchhaltung und Steuerwesen	0.668	0.833333333	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	3	isced-f/0411_Buchhaltung und Steuerwesen	0.629	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	4	skill/S2.8.3_Überwachung finanzieller und wirtschaftlicher Ressourcen und Tätigkeiten	0.613	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	5	skill/S2.2.1_Erstellen von Finanzunterlagen, Aufzeichnungen, Berichten oder Haushaltsplänen	0.59	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	6	skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.589	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	7	isced-f/0411_Buchhaltung und Steuerwesen	0.58	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	8	isced-f/0411_Buchhaltung und Steuerwesen	0.575	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	9	skill/S2.7.3_Analyse von Finanz- und Wirtschaftsdaten	0.572	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	0	isced-f/0611_Computernutzung	0.659	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	1	isced-f/0611_Computernutzung	0.651	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	2	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.64	0.666666667	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	3	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.638	0.666666667	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	4	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.6	0.833333333	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	5	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.592	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	6	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.587	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	7	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.581	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	8	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.576	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV ** SORBA ** MS-Office	9	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.571	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	0	skill/S4.4.1_Personalverwaltung	0.559	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	1	skill/S4.4.1_Personalverwaltung	0.554	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	2	isced-f/0411_Buchhaltung und Steuerwesen	0.553	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	3	skill/S2.2.1_Erstellen von Finanzunterlagen, Aufzeichnungen, Berichten oder Haushaltsplänen	0.538	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	4	skill/S4.4.1_Personalverwaltung	0.538	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	5	isced-f/0411_Buchhaltung und Steuerwesen	0.528	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	6	isced-f/0413_Management und Verwaltung	0.524	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	7	isced-f/0411_Buchhaltung und Steuerwesen	0.523	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	8	skill/S4.3.1_Verwaltung von Haushalten oder Finanzen	0.519	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Lohnadministration ** LGAV **	9	isced-f/0411_Buchhaltung und Steuerwesen	0.517	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	0	isced-f/0410_Wirtschaft und Verwaltung	0.797	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	1	isced-f/0410_Wirtschaft und Verwaltung	0.677	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	2	isced-f/0410_Wirtschaft und Verwaltung	0.674	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	3	isced-f/0410_Wirtschaft und Verwaltung	0.649	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	4	isced-f/0410_Wirtschaft und Verwaltung	0.587	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	5	isced-f/0410_Wirtschaft und Verwaltung	0.583	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	6	isced-f/0410_Wirtschaft und Verwaltung	0.582	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	7	isced-f/0411_Buchhaltung und Steuerwesen	0.571	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	8	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.547	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	Treuhand ** KV **	9	isced-f/0410_Wirtschaft und Verwaltung	0.545	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	0	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.593	0.666666667	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	1	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.559	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	2	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.549	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	3	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.53	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	4	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.519	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	5	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.519	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	6	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.514	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	7	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.511	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	8	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.508	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	9	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.507	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	0	isced-f/0413_Management und Verwaltung	0.77	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	1	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.748	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	2	skill/S1.11.1_Entwickeln von IKT-Systemen oder -Anwendungen	0.663	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	3	isced-f/0611_Computernutzung	0.642	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	4	isced-f/0413_Management und Verwaltung	0.616	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	5	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.611	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	6	skill/S1.11.1_Entwickeln von IKT-Systemen oder -Anwendungen	0.604	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	7	skill/S1.11.1_Entwickeln von IKT-Systemen oder -Anwendungen	0.602	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	8	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.599	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	** DevOps ** Cloud-Konzepten, RESTful APIs	9	isced-f/0611_Computernutzung	0.597	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	0	isced-f/0913_Krankenpflege und Hebammenausbildung	0.603	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	1	isced-f/0923_Sozialarbeit und Beratung	0.567	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	2	isced-f/0999_Gesundheit und soziale Dienste	0.536	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	3	isced-f/099_Gesundheit und soziale Dienste	0.536	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	4	isced-f/09_Gesundheit und soziale Dienste	0.536	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	5	isced-f/090_Gesundheit und soziale Dienste	0.536	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	6	isced-f/0900_Gesundheit und soziale Dienste	0.536	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	7	isced-f/0913_Krankenpflege und Hebammenausbildung	0.532	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	8	isced-f/0913_Krankenpflege und Hebammenausbildung	0.518	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	FAGE ** FA SRK **	9	isced-f/0913_Krankenpflege und Hebammenausbildung	0.508	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	0	isced-f/0611_Computernutzung	0.823	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	1	skill/S5.6.3_Nutzung computergestützter Tools zum Konstruieren und Zeichnen	0.772	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	2	isced-f/0611_Computernutzung	0.619	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	3	isced-f/0611_Computernutzung	0.592	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	4	isced-f/0611_Computernutzung	0.561	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	5	isced-f/0611_Computernutzung	0.554	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	6	skill/S5.7.0_Nutzung digitaler Tools für die Steuerung von Maschinen	0.553	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	7	skill/S5.6.3_Nutzung computergestützter Tools zum Konstruieren und Zeichnen	0.548	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	8	isced-f/0611_Computernutzung	0.548	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-mnr-sts-tsdae-gbert	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	9	isced-f/0416_Groß- und Einzelhandel	0.548	0.0	0	0	0	0

@@ -1,0 +1,10 @@
+INFO:[classification_finetuning.py:80] - Starting run, using term-term and term-desc data for classification [2023-01-23 16:53:25,101]
+INFO:[classification_finetuning.py:90] - The following directories are used:
+CHECKPOINT_PATH: /cluster/scratch/yakram/en_models/xlm-roberta-base_mlm_description_correct/checkpoint-320,
+OUTPUT_PATH: /cluster/scratch/yakram/en_models/classification-xlm-roberta-mlm-320,
+CLASSIFICATION_FILE: ['shuffled_classification_data_term_term.csv', 'shuffled_classification_data_desc.csv'] [2023-01-23 16:53:25,102]
+INFO:[classification_finetuning.py:102] - The classification data is loaded, there are a shape of data is(183406, 3) and the number of labels are 2 [2023-01-23 16:53:25,507]
+INFO:[classification_finetuning.py:105] - Loading the tokenizer and the model checkpoint from the location: /cluster/scratch/yakram/en_models/xlm-roberta-base_mlm_description_correct/checkpoint-320 [2023-01-23 16:53:25,508]
+INFO:[classification_finetuning.py:114] - The train dataset dict has been created [2023-01-23 16:53:29,683]
+INFO:[classification_finetuning.py:137] - The dataset has been encoded [2023-01-23 16:53:44,262]
+INFO:[classification_finetuning.py:147] - Created the train test splits from the dataset [2023-01-23 16:53:51,284]

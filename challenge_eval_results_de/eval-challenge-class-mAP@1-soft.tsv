@@ -1,0 +1,16 @@
+model	mAP	rank_all	** Second Level Support ** Koordination, Unterstützung von Key Usern	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	** EDV ** DOS, Windows	Arztsekretärin ** MPA **	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	EDV ** SORBA ** MS-Office	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	** DevOps ** Cloud-Konzepten, RESTful APIs
+mnr-hardneg-xlm-finetuned-jobads-checkpoint-6450	0.889	1	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	1.0
+xlm_roberta-job_ads_checkpoint-6450	0.778	2	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0
+mnr-hardneg-xlm-default-jobads-checkpoint	0.667	3	1.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+mnr-randneg-xlm-finetuned-jobads-checkpoint-6450	0.556	4	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+mnr-hardneg-xlm-finetuned-600	0.556	4	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+mnr-randneg-xlm-default-jobads-checkpoint	0.556	4	0.0	0.0	1.0	1.0	0.0	1.0	0.0	1.0	1.0
+xlm_roberta-job_ads_checkpoint	0.556	4	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1.0	1.0
+mnr-xlm_out-of-box	0.556	4	0.0	0.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+classification-xlm-default-jobads	0.556	4	1.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	1.0
+classification-xlm-job-ads-mlm-6450	0.444	10	1.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0
+xlm-roberta_mlm_description_600	0.222	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+mnr-randneg-xlm-finetuned-600	0.222	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+mnr-randneg-xlm_out-of-box	0.222	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+classification-xlm-mlm-600	0.0	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+classification-bert-multilingual-out-of-box	0.0	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,9 @@
+{
+  "language" : "en",
+  "turtle_file": "small_esco.ttl",
+  "logfile_name": "english_data",
+  "results_directory": "english_data",
+  "resume_queries": true,
+  "limit_data": false,
+  "run_mode": "local"
+}

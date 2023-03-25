@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu116"
+verify_ssl = true
+name = "downloadpytorch"
+
+[packages]
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+transformers = "*"
+sentence-transformers = "*"
+scikit-learn = "*"
+matplotlib = "*"
+pandas = "*"
+spacy = {extras = ["cuda116"], version = "*"}
+datasets = "*"
+flair = "*"
+faiss-gpu = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,16 @@
+model	mAP	rank_all	** Second Level Support ** Koordination, Unterstützung von Key Usern	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	** EDV ** DOS, Windows	stationären Langzeitpflegebereich ** Spitex **	Arztsekretärin ** MPA **	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	EDV ** SORBA ** MS-Office	Lohnadministration ** LGAV **	Treuhand ** KV **	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	** DevOps ** Cloud-Konzepten, RESTful APIs	FAGE ** FA SRK **	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung
+mnr-hardneg-xlm-finetuned-jobads-checkpoint-4650	0.733	1	1.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0
+xlm_roberta-job_ads_checkpoint-4650	0.667	2	1.0	0.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	1.0	1.0	0.0	1.0
+mnr-hardneg-xlm-finetuned-320	0.6	3	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+mnr-randneg-xlm-default-jobads-checkpoint	0.6	3	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+mnr-hardneg-xlm-default-jobads-checkpoint	0.6	3	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	1.0	0.0
+mnr-randneg-xlm-finetuned-jobads-checkpoint-4650	0.6	3	0.0	0.0	1.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+xlm_roberta-job_ads_checkpoint	0.6	3	1.0	0.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	1.0	0.0	1.0
+mnr-xlm_out-of-box	0.533	8	0.0	0.0	1.0	0.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0
+classification-xlm-job-ads-mlm-4650	0.467	9	1.0	0.0	0.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0
+mnr-randneg-xlm-finetuned-320	0.4	10	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+classification-xlm-default-jobads	0.4	10	1.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0
+mnr-randneg-xlm_out-of-box	0.4	10	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+xlm-roberta_mlm_description_320	0.4	10	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	1.0
+classification-bert-multilingual-out-of-box	0.133	14	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+classification-xlm-mlm-320	0.133	14	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0

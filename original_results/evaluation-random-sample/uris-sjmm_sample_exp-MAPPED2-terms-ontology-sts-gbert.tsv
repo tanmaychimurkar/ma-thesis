@@ -1,0 +1,251 @@
+model	jobadterm	i	result	sim	eval_score	eval_score_rnd_soft	evalscore_rnd_hard	gradSel	firstTerm
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	0	Bauingenieur_isced-f/0732_Bau und Bauingenieure	0.889	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	1	Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.887	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	2	Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.876	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	3	Bauingenieur_isced-f/0732_Bau und Bauingenieure	0.859	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	4	Bau- und Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.857	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	5	Bauexperte_isced-f/0732_Bau und Bauingenieure	0.843	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	6	Baupraktiker/in_isced-f/0732_Bau und Bauingenieure	0.838	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	7	Ingenieur, Bauingenieurwesen_isced-f/0732_Bau und Bauingenieure	0.837	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	8	Bauexperte_isced-f/0732_Bau und Bauingenieure	0.835	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Bauingenieurwesen **	9	Bauamtsarbeiter_isced-f/0732_Bau und Bauingenieure	0.827	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	0	Banking Consultant_isced-f/0412_Finanz und Bank und Versicherung	0.809	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	1	Financial Consultant_isced-f/0412_Finanz und Bank und Versicherung	0.787	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	2	Bankmanager_isced-f/0413_Management und Verwaltung	0.779	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	3	Financial Engineer_isced-f/0412_Finanz und Bank und Versicherung	0.761	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	4	Bankmanager_isced-f/0413_Management und Verwaltung	0.755	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	5	Bankprokurist_isced-f/0413_Management und Verwaltung	0.754	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	6	Bankprokurist_isced-f/0413_Management und Verwaltung	0.75	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	7	Bankverwalter_isced-f/0413_Management und Verwaltung	0.748	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	8	Bankfach-Experte_isced-f/0412_Finanz und Bank und Versicherung	0.747	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Financial Consulting ** Bank ** Management	9	Banking and Finance_isced-f/0412_Finanz und Bank und Versicherung	0.746	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	0	Konstrukteur_isced-f/0700_Techniker und Ingenieure	0.83	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	1	Entwicklungskonstrukteur_isced-f/0700_Techniker und Ingenieure	0.751	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	2	Konstrukteur_isced-f/0700_Techniker und Ingenieure	0.718	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	3	Konstrukteur/in - Erweiterte Ansprüche_isced-f/0715_Mechanik und Metallbearbeitung	0.7	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	4	Konstrukteur_isced-f/0715_Mechanik und Metallbearbeitung	0.693	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	5	Konstrukteur/in - _isced-f/0715_Mechanik und Metallbearbeitung	0.679	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	6	Entwicklungskonstrukteur_isced-f/0700_Techniker und Ingenieure	0.664	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	7	Detailkonstrukteur_isced-f/0700_Techniker und Ingenieure	0.658	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	8	Konstrukteur, Sondermaschinenbau_isced-f/0715_Mechanik und Metallbearbeitung	0.656	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Konstrukteur **	9	Konstrukteur/in _isced-f/0715_Mechanik und Metallbearbeitung	0.65	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	0	Mathematiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.707	0.0	0	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	1	Mathematik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.699	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	2	Wirtschaftsmathematiker_isced-f/0541_Mathematik	0.699	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	3	Mathematiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.699	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	4	Wirtschaftsmathematiker_isced-f/0541_Mathematik	0.692	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	5	Informatik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.692	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	6	Informatiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.692	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	7	Wirtschaftsinformatiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.691	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	8	Informatik unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.689	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsinformatik, Informatik, Betriebswirtschaft, IT ** Mathematik **	9	Wirtschaftsinformatiklehrer_isced-f/0114_Fachlehrer und Lehrer	0.686	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	0	Master of Business Administration, MBA_isced-f/0413_Management und Verwaltung	0.479	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	1	Master of Health Promotion and Administration_isced-f/0413_Management und Verwaltung	0.428	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	2	Psychologie_isced-f/0313_	0.394	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	3	Unternehmensanwalt_isced-f/0421_Recht	0.392	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	4	Juristischer Unternehmensberater_isced-f/0421_Recht	0.377	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	5	Master of Laws_isced-f/0421_Recht	0.375	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	6	Akademiestudienleiter_isced-f/0413_Management und Verwaltung	0.374	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	7	Master of Laws LL.M_isced-f/0421_Recht	0.373	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	8	Recht_isced-f/0421_	0.371	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MBA **	9	Kanzleidirektor_isced-f/0413_Management und Verwaltung	0.367	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	0	BWL_isced-f/0311_Wirtschaft	0.899	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	1	Bachelor of Business Administration_isced-f/0413_Management und Verwaltung	0.701	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	2	Wirtschaftswissenschaften_isced-f/0413_Management und Verwaltung	0.675	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	3	Betriebswissenschafter_isced-f/0413_Management und Verwaltung	0.667	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	4	Bachelor of Public Administration_isced-f/0413_Management und Verwaltung	0.663	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	5	Wirtschaft, Verwaltung und Rechtswissenschaft_isced-f/0499_Berufliche Fähigkeiten	0.662	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	6	Master of Business Administration_isced-f/0413_Management und Verwaltung	0.655	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	7	Betriebsökonom, Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.655	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	8	Betriebsökonom, Wirtschaftsinformatik_isced-f/0413_Management und Verwaltung	0.642	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** BWL-Studium **	9	Betriebswirt_isced-f/0413_Management und Verwaltung	0.638	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	0	Biologielaborant/in_isced-f/0711_Chemietechnik und ‑verfahren	0.928	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	1	Biologielaborant_isced-f/0711_Chemietechnik und ‑verfahren	0.885	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	2	Biologielaborleiter_isced-f/0711_Chemietechnik und ‑verfahren	0.884	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	3	Biologielaborant/in - Pharmabiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.873	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	4	Biologielaborant/in - Agrobiologie_isced-f/0711_Chemietechnik und ‑verfahren	0.869	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	5	Biologieingenieur_isced-f/0512_Biochemie	0.868	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	6	Biologieassistent_isced-f/0711_Chemietechnik und ‑verfahren	0.857	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	7	Biologielaborleiter_isced-f/0711_Chemietechnik und ‑verfahren	0.856	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	8	Biologielaborant_isced-f/0711_Chemietechnik und ‑verfahren	0.842	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Biologielaborant/in **	9	Biologieingenieur_isced-f/0512_Biochemie	0.84	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	0	Volksgesundheit_isced-f/0912_Medizin	0.615	0.0	0	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	1	Öffentlicher Verwalter_isced-f/0413_Management und Verwaltung	0.599	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	2	öffentliche Dienstleistungskonzession_isced-f/0413_Management und Verwaltung	0.597	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	3	öffentliches Recht_isced-f/0421_Recht	0.582	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	4	Wirtschaft und Verwaltung_isced-f/0419_	0.566	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	5	Wirtschaft und Verwaltung_isced-f/041_	0.566	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	6	Wirtschaft und Verwaltung_isced-f/0410_	0.566	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	7	Öffentlicher Verwalter_isced-f/0413_Management und Verwaltung	0.564	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	8	Management und Verwaltung_isced-f/0413_	0.554	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** öffentliche Verwaltung **	9	Verwaltungsdirektor (Privatwirtschaft)_isced-f/0413_Management und Verwaltung	0.543	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	0	Handwerk_isced-f/0700_Techniker und Ingenieure	0.702	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	1	Handwerksunternehmer_isced-f/0413_Management und Verwaltung	0.686	0.25	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	2	Handwerkzeuge verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.672	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	3	handwerkliche Tätigkeiten überwachen_skill/S4.2.1_Leitung betrieblicher Tätigkeiten	0.657	0.25	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	4	Handwerkzeuge verwenden_skill/S6.7.0_Verwendung von Handwerkzeugen	0.648	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	5	Handwerksunternehmer_isced-f/0413_Management und Verwaltung	0.619	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	6	Handwerkskunst_isced-f/0214_Kunst und Kunsthandwerk	0.611	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	7	Handwerk_isced-f/0700_Techniker und Ingenieure	0.606	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	8	Handwerkzeuge verwenden_skill/T5.1_Handhaben und Kontrollieren von Objekten und Geräten	0.597	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Handwerkliche **	9	Handwerk_isced-f/0700_Techniker und Ingenieure	0.595	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	0	MTRA_isced-f/0914_Medizintechnik und Diagnostik	0.518	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	1	Mountainbikelehrer_isced-f/1014_Sport	0.411	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	2	Gruppenchef PTT_isced-f/1041_Verkehr	0.389	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	3	Radrennfahrer_isced-f/1014_Sport	0.385	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	4	Mountainbikelehrer_isced-f/1014_Sport	0.384	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	5	Radrennfahrer_isced-f/1014_Sport	0.38	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	6	Videospielerstellungssysteme_isced-f/0211_Medienproduktion und Medientechnologie	0.375	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	7	Landwirtschaftlicher Traktorführer_isced-f/0811_Pflanzenproduktion und Tierproduktion	0.357	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	8	Gruppenchef PTT_isced-f/1041_Verkehr	0.356	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** MTRA **	9	Statistik_isced-f/0542_	0.356	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	0	Informations- und Kommunikationstechnologien (IKT)_isced-f/0610_Informatik	0.716	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	1	IT Manager_isced-f/0413_Management und Verwaltung	0.701	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	2	IKT-Sicherheitsgesetzgebung_isced-f/0421_Recht	0.699	0.25	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	3	IKT-Beratung anbieten_skill/S1.5.6_Beratung zur Entwicklung oder Nutzung von Technologien	0.689	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	4	IT Manager_isced-f/0413_Management und Verwaltung	0.666	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	5	IuK-Kontext einer Organisation analysieren_skill/S2.7.4_Analyse von Geschäftstätigkeiten	0.663	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	6	Informationsmanagement_skill/S2.3.0_	0.657	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	7	Informationsmanagement_skill/S2.3_	0.657	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	8	IT Manager_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.652	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** IT Spektrum **	9	IT Controller_isced-f/0613_Programmierung und Softwareentwicklung	0.651	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	0	Portfolio Management Assistant_isced-f/0412_Finanz und Bank und Versicherung	0.688	0.5	1	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	1	Assetmanager_isced-f/0412_Finanz und Bank und Versicherung	0.677	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	2	Assetmanager_isced-f/0412_Finanz und Bank und Versicherung	0.673	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	3	Portfoliomanager_isced-f/0412_Finanz und Bank und Versicherung	0.648	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	4	Anlageberatungschef_isced-f/0412_Finanz und Bank und Versicherung	0.631	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	5	Portfoliomanager_isced-f/0412_Finanz und Bank und Versicherung	0.629	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	6	Investmentberater_isced-f/0412_Finanz und Bank und Versicherung	0.625	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	7	Moderne Portfolio-Theorie_isced-f/0412_Finanz und Bank und Versicherung	0.62	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	8	Vermögensberater_isced-f/0412_Finanz und Bank und Versicherung	0.613	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Wirtschaftsprüfung, Big4, Banking, Private Banking ** Asset- ** Fond Management	9	Anlageberater_isced-f/0412_Finanz und Bank und Versicherung	0.612	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	0	IKT-Geräte schützen_skill/S5.2.2_Schützen von IKT-Geräten	0.614	0.5	1	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	1	Session Border Controller verwenden_skill/S5.2.2_Schützen von IKT-Geräten	0.61	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	2	Werkzeug für Penetrationstests_skill/S5.2.2_Schützen von IKT-Geräten	0.592	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	3	IKT-Verschlüsselung_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.577	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	4	IKT-Geräte schützen_skill/S5.2.2_Schützen von IKT-Geräten	0.575	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	5	Proxy-Server_isced-f/0611_Softwareanwendung und IT-Nutzung	0.566	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	6	Werkzeug für Penetrationstests_skill/S3.3.6_Schutz von Privatsphäre und personenbezogenen Daten	0.563	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	7	Firewall einrichten_skill/S5.2.2_Schützen von IKT-Geräten	0.56	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	8	Werkzeug für Penetrationstests_skill/S5.2.3_Lösen von Computerproblemen	0.557	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	Internet Sicherheit Technologien ** VPN ** IP Security	9	Firewall-Regeln definieren_skill/S5.2.2_Schützen von IKT-Geräten	0.552	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	0	neue Kunden ausfindig machen_skill/S1.2.3_Aufbau von beruflichen Beziehungen oder Netzwerken	0.639	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	1	Kundensegmentierung_isced-f/0414_Marketing und Werbung	0.625	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	2	Verkaufsmotivierung zeigen_skill/T4.4_Anleiten anderer	0.612	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	3	neue Kunden ausfindig machen_skill/T6.5_Anwenden unternehmerischer und finanzieller Fähigkeiten und Kompetenzen	0.604	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	4	Kundenkenntnis_isced-f/0414_Marketing und Werbung	0.598	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	5	Kundenbesucher_isced-f/0416_Verkauf und Handel	0.596	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	6	Kundenbetreuung pflegen_skill/S1.6.2_Werbung für Waren, Dienstleistungen oder Programme	0.596	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	7	Kundensegmentierung_isced-f/0414_Marketing und Werbung	0.591	0.25	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	8	Mitarbeiter motivieren, um Umsatzziele zu erreichen_skill/T4.4_Anleiten anderer	0.59	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Gewinnung von Neukunden ** Akquise	9	Verkaufsmotivierung zeigen_skill/S4.5.0_Führung und Motivation	0.588	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	0	Disponent_isced-f/0413_Management und Verwaltung	0.645	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	1	Disponentgehilfe_isced-f/0413_Management und Verwaltung	0.623	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	2	Disponent Schifffahrt_isced-f/1041_Verkehr	0.616	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	3	Disponent der Zugleitung_isced-f/1041_Verkehr	0.609	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	4	Disponentgehilfe_isced-f/0413_Management und Verwaltung	0.584	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	5	Disponent_isced-f/0413_Management und Verwaltung	0.572	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	6	Disponent Transport und Logistik_isced-f/1041_Verkehr	0.559	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	7	Disponent Transport und Logistik_isced-f/1041_Verkehr	0.557	0.75	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	8	Disponent der Zugleitung_isced-f/1041_Verkehr	0.553	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Disponent **	9	Disponent Schifffahrt_isced-f/1041_Verkehr	0.52	0.5	1	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	0	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.719	0.75	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	1	Abfragesprachen_isced-f/0613_Programmierung und Softwareentwicklung	0.696	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	2	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.676	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	3	SQL_isced-f/0613_Programmierung und Softwareentwicklung	0.676	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	4	Datenbankmanagementsysteme_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.673	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	5	Online Analytical Processing_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.665	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	6	Online Analytical Processing_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.661	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	7	Abfragesprachen_isced-f/0613_Programmierung und Softwareentwicklung	0.661	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	8	Computerprogrammierung_isced-f/0613_Programmierung und Softwareentwicklung	0.656	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	.NET, OO-Programmierung, DB-Lösungen ** MS-SQL ** 3-Tier-Architektur, Internet-Programmierung	9	Open-Source-Modell_isced-f/0612_Datenbankdesign und Netzwerkverwaltung	0.655	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	0	Lebensmittelverkäufer_isced-f/0416_Verkauf und Handel	0.84	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	1	Lebensmittelhändler_isced-f/0416_Verkauf und Handel	0.82	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	2	Lebensmittelverarbeitung_isced-f/0721_	0.82	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	3	Lebensmittel einkaufen_skill/S1.6.3_Kauf von Waren oder Dienstleistungen	0.77	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	4	Lebensmittel einkaufen_skill/S4.1.3_Entwicklung betrieblicher Strategien und Verfahren	0.768	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	5	Lebensmittelvertreter_isced-f/0416_Verkauf und Handel	0.76	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	6	Lebensmittelzubereiter_isced-f/0721_Lebensmittelverarbeitung	0.754	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	7	Detailhandelsangestellter, Lebensmittel_isced-f/0416_Verkauf und Handel	0.742	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	8	Verkäufer, Lebensmittel_isced-f/0416_Verkauf und Handel	0.741	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Lebensmittelverkauf **	9	Lebensmittelverpacker_isced-f/0721_Lebensmittelverarbeitung	0.74	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	0	Neuropharmakologie_isced-f/0512_Biochemie	0.741	0.0	0	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	1	Neuroanatomie_isced-f/0912_Medizin	0.735	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	2	Neurotoxikologe_isced-f/0511_Biologie	0.734	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	3	Neurotoxikologe_isced-f/0511_Biologie	0.709	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	4	Neuropsychiater_isced-f/0912_Medizin	0.685	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	5	Neurofeedback-Trainer_isced-f/0917_Komplementärmedizin	0.669	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	6	Neuroophthalmologie_isced-f/0912_Medizin	0.665	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	7	Neurolinguist_isced-f/0232_Linguistik	0.665	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	8	Neurolinguist_isced-f/0232_Linguistik	0.656	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	funktionellen Behandlung ** Neurotraining **	9	Neurofeedback-Trainer_isced-f/0917_Komplementärmedizin	0.653	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	0	Feuerwehrinspektor_isced-f/1032_Sicherheit und Personenschutz	0.669	0.5	1	0	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	1	Feuerwehrwachtmeister_isced-f/1032_Sicherheit und Personenschutz	0.647	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	2	Feuerwehrinspektor_isced-f/1032_Sicherheit und Personenschutz	0.632	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	3	Feuerwehrkorporal_isced-f/1032_Sicherheit und Personenschutz	0.631	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	4	Rettungssanitäter, Berufsretter_isced-f/0914_Medizintechnik und Diagnostik	0.63	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	5	Feuerwehr-Gerätewart_isced-f/1032_Sicherheit und Personenschutz	0.628	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	6	Feuerwehr-Gerätewart_isced-f/1032_Sicherheit und Personenschutz	0.627	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	7	Feuerwehrkommandant_isced-f/1032_Sicherheit und Personenschutz	0.62	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	8	Erste Hilfe in Notfällen leisten_skill/S3.2.0_Gesundheitsfürsorge und medizinische Behandlungen	0.62	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Feuerwehr ** Sanität	9	Erste Hilfe_isced-f/0913_Pflegefach	0.619	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	0	Führungsverantwortlicher_isced-f/0413_Management und Verwaltung	0.702	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	1	Führungsfachmann_isced-f/0413_Management und Verwaltung	0.695	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	2	Führungsexperte_isced-f/0413_Management und Verwaltung	0.692	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	3	Führungsfachmann_isced-f/0413_Management und Verwaltung	0.685	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	4	Führungsverantwortlicher_isced-f/0413_Management und Verwaltung	0.684	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	5	Führungsexperte_isced-f/0413_Management und Verwaltung	0.673	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	6	Managementfähigkeiten_skill/S4_	0.661	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	7	Managementfähigkeiten_skill/S4.0_	0.661	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	8	Managementfähigkeiten_skill/S4.0.0_	0.661	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Führungserfahrung **	9	Führungsprinzipien_isced-f/0031_allgemeine Fähigkeiten	0.659	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	0	Französisch_skill/L1_Sprachen	0.665	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	1	geschriebenes Französisch verstehen_skill/L1_Sprachen	0.608	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	2	Französisch sprechen_skill/L1_Sprachen	0.604	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	3	Sprachen_skill/L1_	0.586	0.75	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	4	geschriebenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.558	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	5	Französisch schreiben_skill/L1_Sprachen	0.553	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	6	Französisch_skill/T1.1_Beherrschen von Sprachen	0.545	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	7	Französisch sprechen_skill/T1.1_Beherrschen von Sprachen	0.533	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	8	Französisch schreiben_skill/T1.1_Beherrschen von Sprachen	0.524	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Französisch **	9	Fähigkeiten_skill/S_	0.502	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	0	Französisch_skill/T1.1_Beherrschen von Sprachen	0.748	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	1	Französisch sprechen_skill/T1.1_Beherrschen von Sprachen	0.741	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	2	Sprachliche Fähigkeiten und Kenntnisse_skill/L_	0.708	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	3	Deutsch sprechen_skill/T1.1_Beherrschen von Sprachen	0.691	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	4	Deutsch_skill/T1.1_Beherrschen von Sprachen	0.68	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	5	Französisch sprechen_skill/L1_Sprachen	0.66	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	6	Französisch schreiben_skill/T1.1_Beherrschen von Sprachen	0.651	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	7	Beherrschen von Sprachen_skill/T1.1_	0.65	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	8	Französisch_skill/T1.1_Beherrschen von Sprachen	0.634	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Sehr gute Kenntnisse in Deutsch und Französisch **	9	geschriebenes Französisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.63	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	0	Fremdsprachen_isced-f/0239_Sprachen	0.919	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	1	Fremdsprachen_isced-f/0230_Sprachen	0.919	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	2	Fremdsprachen_isced-f/023_Sprachen	0.919	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	3	Fremdsprachenerwerb_isced-f/0231_Sprachen	0.908	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	4	Fremdsprachen sprechen_skill/S1.15.1_Benutzung von Fremdsprachen	0.89	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	5	Fremdsprachen in den sozialen Diensten sprechen_skill/S1.15.1_Benutzung von Fremdsprachen	0.856	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	6	Fremdsprachen übersetzen_skill/S1.15.2_Übersetzen und Dolmetschen	0.85	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	7	Fremdsprachenkorrespondent_isced-f/0415_Sekretariat	0.834	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	8	Fremdsprachen im internationalen Handel anwenden_skill/S1.15.1_Benutzung von Fremdsprachen	0.831	0.5	1	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Fremdsprachenkenntnissen **	9	Fremdsprachenkorrespondent_isced-f/0415_Sekretariat	0.829	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	0	Deutsch_skill/T1.1_Beherrschen von Sprachen	0.628	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	1	Deutsch sprechen_skill/L1_Sprachen	0.619	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	2	Deutsch_skill/L1_Sprachen	0.609	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	3	Deutsch sprechen_skill/T1.1_Beherrschen von Sprachen	0.599	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	4	geschriebenes Deutsch verstehen_skill/L1_Sprachen	0.592	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	5	gesprochenes Deutsch verstehen_skill/L1_Sprachen	0.59	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	6	gesprochenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	0.579	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	7	geschriebenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	0.576	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	8	Sprachdienstleister_isced-f/0231_Sprachen	0.564	0.0	0	0	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Muttersprache Deutsch **	9	geschriebenes Deutsch verstehen_skill/T1.1_Beherrschen von Sprachen	0.562	1.0	1	1	0	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	0	Englisch_skill/T1.1_Beherrschen von Sprachen	0.896	1.0	1	1	1	1
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	1	Englisch sprechen_skill/T1.1_Beherrschen von Sprachen	0.868	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	2	Englisch sprechen_skill/L1_Sprachen	0.841	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	3	Englisch_skill/L1_Sprachen	0.829	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	4	Englisch schreiben_skill/T1.1_Beherrschen von Sprachen	0.815	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	5	Englisch schreiben_skill/L1_Sprachen	0.773	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	6	geschriebenes Englisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.769	1.0	1	1	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	7	Englisch als Fremdsprache unterrichten_skill/S1.3.1_Unterricht in akademischen oder berufsbildenden Fächern	0.76	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	8	Englischlehrer_isced-f/0114_Fachlehrer und Lehrer	0.713	0.0	0	0	1	0
+sjmm_sample_exp-MAPPED2-terms-ontology-sts-gbert	** Englisch (sehr gut in Wort und Schrift) **	9	geschriebenes Englisch verstehen_skill/T1.1_Beherrschen von Sprachen	0.701	1.0	1	1	0	0

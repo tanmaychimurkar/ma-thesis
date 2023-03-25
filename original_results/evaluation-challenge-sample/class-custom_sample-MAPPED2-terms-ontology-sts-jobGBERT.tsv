@@ -1,0 +1,151 @@
+model	jobadterm	i	result	sim	eval_score	eval_score_rnd_soft	evalscore_rnd_hard	gradSel	firstTerm
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	0	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.7	0.0	0	0	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	1	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.677	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	2	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.613	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	3	isced-f/1032_Objekt- und Personenschutz	0.559	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	4	isced-f/1032_Objekt- und Personenschutz	0.559	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	5	isced-f/1032_Objekt- und Personenschutz	0.54	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	6	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.497	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	7	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.49	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	8	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.472	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** Second Level Support ** Koordination, Unterstützung von Key Usern	9	skill/S1.9.1_Entwickeln von Lösungen	0.471	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	0	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.47	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	1	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.455	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	2	isced-f/0231_Fremdsprachenerwerb	0.449	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	3	skill/S2.1.1_Durchführung von Untersuchungen	0.433	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	4	isced-f/0231_Fremdsprachenerwerb	0.416	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	5	isced-f/0611_Computernutzung	0.405	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	6	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.403	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	7	skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.398	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	8	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.396	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	PC-Anwenderkenntnisse, Excel, Word, Outlook ** 10-Fingersystem **	9	isced-f/0611_Computernutzung	0.396	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	0	isced-f/0611_Computernutzung	0.665	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	1	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.66	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	2	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.648	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	3	isced-f/0415_Sekretariats- und Büroarbeit	0.641	0.666666667	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	4	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.639	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	5	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.628	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	6	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.609	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	7	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.589	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	8	skill/S5.6.2_Nutzung von Software für die Textverarbeitung, -veröffentlichung und -präsentation	0.586	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Hilfen, PC ** Textsystem MS-Word 4 **	9	skill/S2.7.0_Analyse und Auswertung von Informationen und Daten	0.58	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	0	isced-f/0611_Computernutzung	0.768	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	1	isced-f/0611_Computernutzung	0.758	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	2	isced-f/0611_Computernutzung	0.757	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	3	isced-f/0611_Computernutzung	0.755	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	4	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.754	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	5	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.749	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	6	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.749	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	7	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.745	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	8	isced-f/0611_Computernutzung	0.745	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** EDV ** DOS, Windows	9	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.744	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	0	isced-f/0913_Krankenpflege und Hebammenausbildung	0.946	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	1	isced-f/0913_Krankenpflege und Hebammenausbildung	0.938	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	2	isced-f/0913_Krankenpflege und Hebammenausbildung	0.936	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	3	isced-f/0913_Krankenpflege und Hebammenausbildung	0.93	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	4	isced-f/0913_Krankenpflege und Hebammenausbildung	0.926	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	5	isced-f/0913_Krankenpflege und Hebammenausbildung	0.914	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	6	isced-f/0913_Krankenpflege und Hebammenausbildung	0.912	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	7	isced-f/0913_Krankenpflege und Hebammenausbildung	0.894	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	8	isced-f/0913_Krankenpflege und Hebammenausbildung	0.894	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	stationären Langzeitpflegebereich ** Spitex **	9	isced-f/0913_Krankenpflege und Hebammenausbildung	0.891	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	0	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.872	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	1	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.663	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	2	isced-f/0912_Medizin	0.631	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	3	isced-f/0912_Medizin	0.601	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	4	isced-f/0912_Medizin	0.599	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	5	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.591	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	6	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.59	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	7	isced-f/0914_Medizinische Diagnostik und Medizintechnologie	0.588	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	8	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.586	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Arztsekretärin ** MPA **	9	isced-f/0912_Medizin	0.584	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	0	skill/S1.5.0_Beraten	0.51	0.0	0	0	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	1	isced-f/0917_Traditionelle und komplementäre Medizin und Therapie	0.42	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	2	skill/S3.2.5_Verschreiben und Bestellen von medizinischen Tests, Behandlungen oder Geräten	0.416	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	3	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.415	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	4	skill/S2.7.0_Analyse und Auswertung von Informationen und Daten	0.414	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	5	isced-f/0723_Textilien (Bekleidung, Schuhe und Leder)	0.408	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	6	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.402	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	7	isced-f/0917_Traditionelle und komplementäre Medizin und Therapie	0.4	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	8	isced-f/0916_Pharmazie	0.4	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Tarifkenntnisse ** Tarmed ** SLK, Paramedizin	9	isced-f/0913_Krankenpflege und Hebammenausbildung	0.399	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	0	isced-f/0412_Finanzwirtschaft, Banken- und Versicherungswesen	0.489	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	1	skill/T2.2_Planen und Organisieren	0.484	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	2	skill/S2.7.0_Analyse und Auswertung von Informationen und Daten	0.479	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	3	isced-f/0411_Buchhaltung und Steuerwesen	0.479	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	4	isced-f/0411_Buchhaltung und Steuerwesen	0.477	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	5	skill/S2.8.3_Überwachung finanzieller und wirtschaftlicher Ressourcen und Tätigkeiten	0.476	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	6	isced-f/0411_Buchhaltung und Steuerwesen	0.475	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	7	skill/S2.2.1_Erstellen von Finanzunterlagen, Aufzeichnungen, Berichten oder Haushaltsplänen	0.474	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	8	isced-f/0411_Buchhaltung und Steuerwesen	0.468	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Rechnungslegungsvorschrift ** Swiss GAAP ** IFRS	9	isced-f/0411_Buchhaltung und Steuerwesen	0.464	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	0	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.496	0.0	0	0	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	1	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.48	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	2	skill/S5.1.0_Programmierung von Computersystemen	0.474	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	3	skill/S5.5.2_Verwalten und Analysieren digitaler Daten	0.47	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	4	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.457	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	5	skill/S2.4.2_Eingeben und Verarbeiten von Informationen	0.455	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	6	skill/S2.4.2_Eingeben und Verarbeiten von Informationen	0.454	0.166666667	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	7	skill/T1.3_Arbeiten mit digitalen Geräten und Anwendungen	0.446	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	8	skill/S4.4.3_Wahrnehmung allgemeiner Büro- und Verwaltungsaufgaben	0.443	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV ** SORBA ** MS-Office	9	skill/S5.5.2_Verwalten und Analysieren digitaler Daten	0.442	0.333333333	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	0	isced-f/0411_Buchhaltung und Steuerwesen	0.57	0.5	1	0	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	1	isced-f/0411_Buchhaltung und Steuerwesen	0.564	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	2	isced-f/0411_Buchhaltung und Steuerwesen	0.539	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	3	skill/S2.2.1_Erstellen von Finanzunterlagen, Aufzeichnungen, Berichten oder Haushaltsplänen	0.531	0.666666667	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	4	isced-f/0410_Wirtschaft und Verwaltung	0.524	0.666666667	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	5	isced-f/0411_Buchhaltung und Steuerwesen	0.52	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	6	isced-f/0413_Management und Verwaltung	0.517	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	7	isced-f/0413_Management und Verwaltung	0.517	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	8	isced-f/0413_Management und Verwaltung	0.487	0.5	1	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Lohnadministration ** LGAV **	9	isced-f/0410_Wirtschaft und Verwaltung	0.484	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	0	isced-f/0410_Wirtschaft und Verwaltung	0.835	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	1	isced-f/0410_Wirtschaft und Verwaltung	0.819	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	2	isced-f/0410_Wirtschaft und Verwaltung	0.809	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	3	isced-f/0114_Lehrkräfteausbildung mit Fachspezialisierung	0.7	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	4	isced-f/0114_Lehrkräfteausbildung mit Fachspezialisierung	0.697	0.0	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	5	isced-f/0410_Wirtschaft und Verwaltung	0.52	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	6	isced-f/0410_Wirtschaft und Verwaltung	0.515	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	7	isced-f/0410_Wirtschaft und Verwaltung	0.514	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	8	isced-f/0410_Wirtschaft und Verwaltung	0.508	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	Treuhand ** KV **	9	isced-f/0410_Wirtschaft und Verwaltung	0.504	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	0	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.517	0.0	0	0	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	1	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.497	0.666666667	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	2	isced-f/0211_Audiovisuelle Techniken und Medienproduktion	0.496	0.833333333	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	3	isced-f/0211_Audiovisuelle Techniken und Medienproduktion	0.492	0.833333333	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	4	isced-f/0211_Audiovisuelle Techniken und Medienproduktion	0.454	0.833333333	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	5	isced-f/0211_Audiovisuelle Techniken und Medienproduktion	0.441	0.833333333	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	6	skill/S8.5.0_Bedienen von Maschinen für die Herstellung von Erzeugnissen	0.433	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	7	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.428	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	8	skill/S8.5.5_Betrieb von Misch- und Trennmaschinen	0.408	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	sozialer Netzwerke, Facebook, Instagram, LinkedIn, Twitter ** Tik Tok ** Youtube	9	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.39	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	0	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.872	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	1	isced-f/0413_Management und Verwaltung	0.815	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	2	skill/S1.9.1_Entwickeln von Lösungen	0.494	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	3	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.49	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	4	skill/S5.5.0_Zugreifen auf und Analyse von digitalen Daten	0.488	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	5	skill/S1.11.1_Entwickeln von IKT-Systemen oder -Anwendungen	0.485	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	6	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.479	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	7	isced-f/0612_Design und Verwaltung von Datenbanken und Netzwerken	0.462	0.666666667	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	8	isced-f/0613_Entwicklung und Analyse von Software und Anwendungen	0.461	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	** DevOps ** Cloud-Konzepten, RESTful APIs	9	skill/S5.6.1_Nutzung digitaler Tools für Zusammenarbeit und Produktivität	0.46	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	0	isced-f/0913_Krankenpflege und Hebammenausbildung	0.539	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	1	isced-f/0913_Krankenpflege und Hebammenausbildung	0.532	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	2	isced-f/0913_Krankenpflege und Hebammenausbildung	0.531	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	3	isced-f/0913_Krankenpflege und Hebammenausbildung	0.531	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	4	isced-f/0913_Krankenpflege und Hebammenausbildung	0.528	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	5	isced-f/0913_Krankenpflege und Hebammenausbildung	0.527	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	6	isced-f/0913_Krankenpflege und Hebammenausbildung	0.524	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	7	isced-f/0913_Krankenpflege und Hebammenausbildung	0.521	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	8	isced-f/0913_Krankenpflege und Hebammenausbildung	0.519	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	FAGE ** FA SRK **	9	isced-f/0923_Sozialarbeit und Beratung	0.505	0.166666667	0	0	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	0	isced-f/0611_Computernutzung	0.829	1.0	1	1	1	1
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	1	skill/S5.6.3_Nutzung computergestützter Tools zum Konstruieren und Zeichnen	0.767	1.0	1	1	1	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	2	isced-f/0715_Mechanik und Metallbearbeitung	0.499	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	3	isced-f/0715_Mechanik und Metallbearbeitung	0.492	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	4	isced-f/0732_Bau- und Bauingenieurwesen	0.466	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	5	isced-f/0713_Elektrizität und Energie	0.461	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	6	isced-f/0611_Computernutzung	0.459	1.0	1	1	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	7	isced-f/0715_Mechanik und Metallbearbeitung	0.459	0.0	0	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	8	isced-f/0732_Bau- und Bauingenieurwesen	0.452	0.5	1	0	0	0
+custom_sample-MAPPED2-terms-ontology-sts-jobGBERT	EDV-Bereich, Bauadministration ** Messerli ** Bau-, Liegenschaftsverwaltung	9	isced-f/0715_Mechanik und Metallbearbeitung	0.442	0.0	0	0	0	0
